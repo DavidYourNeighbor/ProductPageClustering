@@ -1,0 +1,1576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			<html xmlns="http://www.w3.org/1999/xhtml">
+			<head><title>Buy Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive online, &pound;429.00 Computing-Tablet-Computers - Hi-Spek</title><meta name="description" content="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive buy at only &pound;429.00 on Hi-Spek. Computing-Tablet-Computers, offer Samsung at discounted rate in Hi-Spek"/><meta name="keywords" content="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive, &pound;429.00 Tablet Computers, Buy online Computing-Tablet-Computers"/><meta name="robots" content="all,index,follow"/><meta name="language" content="English"/><meta name="rating" content="General"/><meta name="Copyright" content="Copyright &copy; Strangewood Ltd t/a Hispek Electronics 2013 | VAT Reg. GB649 6849 69"/><meta name="Google-Site-Verification" content="fckPKIULXE0-m9VZCYRBHmtSJs7uLb8w-IrZL4IreU8"/><link rel="canonical" href="http://www.hispek.com/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php" /><link rel="alternate" href="http://www.hispek.com/mobile/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><link rel="SHORTCUT ICON" href="http://www.hispek.com/favicon.ico" /><script src="http://www.hispek.com/js/common.js" type="text/javascript" language="javascript"></script><link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css' />
+
+<!--[if IE 6]>
+<script src="http://www.hispek.com/js/iepngfix.js" type="text/javascript"></script>
+<script>
+	DD_belatedPNG.fix('.tbar-cart-popup, .copybtn, .box-typ6-crv .lt, .box-typ6-crv .lb, .box-typ6-crv .rt, .box-typ6-crv .rb ');
+</script>
+<![endif]--><link href="http://www.hispek.com/css/common.css.php?20131115&amp;common/layout.css&amp;common/cookiecss.css&amp;common/style.css&amp;common/slider.css&amp;common/megamenu.css&amp;common/grid.css&amp;common/crv.css&amp;common/btn-icon.css&amp;common/scrollbar.css&amp;common/scroller.css&amp;common/contentslider.css&amp;common/sbar-cart.css&amp;common/sidebar.css&amp;common/proboxes.css&amp;common/common.css&amp;common/tabs.css&amp;common/proinfo-module.css&amp;productdetails.css&amp;common/popup-overlay.css&amp;common/scrollpane.css&amp;common/cart-probox.css&amp;common/forms.css&amp;" type="text/css" rel="stylesheet" />
+
+				<script language="javascript" src="http://www.hispek.com/js/fieldvalidation.js" type="text/javascript"></script>
+				<script language="javascript" src="http://www.hispek.com/js/common.js" type="text/javascript"></script>
+				<script language="JavaScript" type="text/javascript">
+				//<![CDATA[
+
+				function submitLevel1Form(param,reviewid) {
+					objForm = document.frmReview12;
+
+
+											location.href = "https://www.hispek.com/login.php?revId=" + reviewid + "&helpId=" + param;
+					
+				}
+
+				function submitLevel0FormAbuse(objForm) {
+
+					if(objForm.txtcomment.value == "") {
+						document.getElementById('spnReport').style.display = "";
+						objForm.txtcomment.focus();
+						return false;
+					}
+					else {
+						document.getElementById('spnReport').style.display = "none";
+					}
+
+					objForm.doAction.value = "AddReviewAbuse";
+					objForm.submit();
+				}
+
+				function submitLevel0Form(objForm) {
+
+					if(objForm.txtTitle.value == "") {
+						document.getElementById('titleErr').style.display = "";
+						objForm.txtTitle.focus();
+						return false;
+					}
+					else {
+						document.getElementById('titleErr').style.display = "none";
+					}
+
+					if(objForm.tacomment.value == "") {
+						document.getElementById('commentErr').style.display = "";
+						objForm.tacomment.focus();
+						return false;
+					}
+					else {
+						document.getElementById('commentErr').style.display = "none";
+					}
+
+					objForm.submit();
+				}
+
+				function submitFrmCart(cnt) {
+
+					subProdId = document.frmCart.subProId.value;
+					if(subProdId == 0) {
+						alert("Selected combination is not available");
+						return false;
+					}
+
+					objForm = document.frmCart;
+
+					var regQuantity = /^([0-9]+)$/;
+
+					if(!regQuantity.test(objForm.txtQuantity.value) || objForm.txtQuantity.value == 0) {
+						alert("Please enter valid Quantity");
+						objForm.txtQuantity.value = 1;
+						return false;
+					}
+					
+					objForm.target = "_self";
+					if(cnt == '1') {
+						objForm.doAction.value = "Cart";
+					}
+					else if(cnt == '2') {
+						objForm.doAction.value = "WishList";
+					}
+					//This Case For Handle Reserve Item Page Link
+					else if(cnt == '3'){
+						objForm.doAction.value = "reserveItem";
+						objForm.target = "_blank";
+						objForm.submit();
+					}
+					else {
+						objForm.doAction.value = "BuyNow";
+					}
+
+					objForm.submit();
+				}
+
+				function submitFrmCart1(productId,subId,price,qty) {
+					objForm = document.frmCart1;
+					var regQuantity = /^([0-9]+)$/;
+						objForm.doAction.value = "Cart";
+						objForm.prodId.value = productId;
+						objForm.subProId.value = subId;
+						objForm.lastPrice.value = price;
+						objForm.submit();
+				}
+
+				var mainImgNo = '1';
+
+				// function for swapping images
+				function swapImages(objImg, imgNo, height) {
+
+					var rszSubImagePath = objImg.src;
+					rszSubImagePath = rszSubImagePath.replace("rszleftrightimages", "rszsubimages");
+					rszSubImagePath = rszSubImagePath.replace("/images/design-images/mainimg_img2_th.jpg", "/images/noimages/noimg_detail390x305.jpg");
+
+					// Fetch the image field id
+					var objRszImg = document.getElementById("productImage");
+					objRszImg.src = rszSubImagePath;
+					objRszImg.style.marginTop = height + "px";
+					mainImgNo = imgNo;
+					var objTemp= document.getElementById("temp");
+					objTemp.value = "P";
+				}
+
+
+				function MM_openBrWindow(theURL,winName,features) { //v2.0
+				  window.open(theURL,winName,features);
+				}
+
+				function openpopup(objImg,prdId,width, height) {
+
+					width = Number(width) +  200;
+					height = Number(height) + 350;
+
+					var objSub= document.getElementById("subProId");
+					var subProdId = objSub.value;
+					var objTemp= document.getElementById("temp");
+					if(objTemp.value == "P") {
+						imgPath = "http://www.hispek.com/productdetail.php?doAction=imgPopup&prodId=" + prdId + "&" + "imgNo=image" + mainImgNo;
+					}
+					else {
+						imgPath = "http://www.hispek.com/productdetail.php?doAction=imgPopup&prodId=" + prdId + "&" + "imgNo1=image" + "&" + "subProdId=" + subProdId;
+					}
+
+					popupSize = "scrollbars=yes,width=" + width + ",height= "  + height + ",left=0,top=0,resizable=yes";
+
+					MM_openBrWindow(imgPath,'enlarge',popupSize);
+				}
+
+				function setImage(objImage) {
+					mainImgNo = objImage.id;
+				}
+
+				 function showCriticReview(prdId,extId,param) {
+
+					if(param == 'A') {
+						document.getElementById("expert"+ extId).style.display = "";
+						document.getElementById("lable"+ extId).style.display = "none";
+						document.getElementById("lable1"+ extId).style.display = "";
+						document.getElementById("reviewString"+ extId).style.display = "none";
+
+					}
+					else {
+						document.getElementById("expert"+ extId).style.display = "none";
+						document.getElementById("lable"+ extId).style.display = "";
+						document.getElementById("lable1"+ extId).style.display = "none";
+						document.getElementById("reviewString"+ extId).style.display = "";
+					}
+				 }
+
+				function checkAttribute(count) {
+					for(key in arrSubId) {
+						subId = arrSubId[key];
+						var flagReturn = true;
+						for(var i = 0; i < count; i++ ) {
+							var rowWidth = document.getElementById("lstAttrVal" + i);
+							var flag = false;
+							for(var i1 = 0; i1 < count; i1++) {
+								if(arrAttFinal[subId][i1] == rowWidth.value) {
+									flag = true;
+								}
+							}
+							if(flag == false) {
+								flagReturn = false;
+							}
+						}
+						if(flagReturn == true) {
+							return subId;
+						}
+					}
+					return 0;
+				}
+
+
+				function showhideProd(objname) {
+					var obj1 = document.getElementById(objname)
+					if (obj1.style.display=="inline" || obj1.style.display=="" )
+					{
+						obj1.style.display="none"
+					}
+					else
+					{
+						obj1.style.display=""
+					}
+				}
+
+				var objSeparator = '^~_/';
+
+				function changePrice(objScr,count) {
+					subId = checkAttribute(count);
+
+					document.frmCart.subProId.value = subId;
+					flSubKey = false;
+
+											for (key in arrFinal) {
+							if(subId == key) {
+
+								flSubKey = true;
+
+								valueFinal = arrFinal[key];
+
+								arrAttPrice = valueFinal.split(objSeparator);
+								var ourPrice = 0;
+								var rrpPrice = 0;
+								var savePrice = 0;
+								var flagVat = arrAttPrice[3];
+								var flagAddCart = arrAttPrice[6];
+
+								// product status
+								objSpanStockText = document.getElementById("spnStock");
+								objAddToCart = document.getElementById("addToCart");
+								var wishlist = "";
+								if(arrAttPrice[5] > 0 && flagAddCart == 'Y') {
+																			objSpanStockText.innerHTML = "In Stock";
+										objAddToCart.innerHTML = "<input class=\"btn1 addtocartbtn\" type=\"button\" onclick=\"javascript:submitFrmCart(1);\"/>" + wishlist;
+									
+								}
+								else {
+									objSpanStockText.innerHTML = "Out Of Stock";
+									objAddToCart.innerHTML = "<input class=\"btn1 addtocartbtn-disable\" type=\"button\"/>" + wishlist;
+								}
+
+								// rrp Price
+																	rrpPrice = arrAttPrice[1];
+									objSpanRrp = document.getElementById("spnrrpprice");
+									objDDRrp = document.getElementById("rrpDD");
+
+									if(rrpPrice != 0 && rrpPrice != 0.00) {
+										if(objDDRrp) {
+											objDDRrp.style.display = "";
+										}
+										if(objSpanRrp) {
+											objSpanRrp.innerHTML = rrpPrice;
+										}
+									}
+									else {
+										if(objDDRrp) {
+											objDDRrp.style.display = "none";
+										}
+									}
+								
+								// ourPrice
+								objSpanFix = document.getElementById("spnFixprice");
+								ourPrice = arrAttPrice[0];
+
+								// inclusive VAT
+								if(flagVat == 'Y') {
+									priceWithoutVat = ourPrice;
+									objSpanIncVat = document.getElementById("spnInsFixprice");
+									if(objSpanIncVat) {
+										priceVat = arrAttPrice[2];
+										objSpanIncVat.innerHTML = priceVat;
+										ourPrice = priceVat;
+									}
+								}
+								else {
+									priceWithoutVat = ourPrice;
+								}
+
+								// Save Price
+																	if(document.getElementById("spnSave")) {
+										objSpanSave = document.getElementById("spnSave");
+										objTDSave = document.getElementById("saveTD");
+										savePrice = arrAttPrice[4];
+										if(savePrice != 0 && savePrice != 0.00) {
+											if(objTDSave) {
+												objTDSave.style.display = "";
+											}
+											objSpanSave.innerHTML = savePrice;
+										}
+										else {
+											if(objTDSave) {
+												objTDSave.style.display = "none";
+											}
+										}
+									}
+								
+								// lastPrice hidden variable
+								document.frmCart.lastPrice.value = ourPrice;
+
+								// ourPrice
+								objSpanFix.innerHTML = priceWithoutVat;
+
+								objSpanImage = document.getElementById("productImage");
+								imageVal = arrAttPrice[7];
+
+								if(imageVal != "images/noimages/noimg_detail390x305.jpg") {
+									objSpanImage.src = 'http://www.hispek.com/' + imageVal;
+
+									objSpanImage.style.marginTop = (246 - (objSpanImage.height))/2 + "px";
+
+									var objTemp= document.getElementById("temp");
+									objTemp.value = "S";
+								}
+							}
+						}
+									}
+
+
+				// For images
+			var arrImg = new Array();
+
+			arrImg[1] = 'SMP6000ZKABTU-pr17727_pr17727_1.jpg';arrImg[2] = 'SMP6000ZKABTU-2_pr17727_2.jpg';arrImg[3] = 'SMP6000ZKABTU-3_pr17727_3.jpg';arrImg[4] = 'SMP6000ZKABTU-4_pr17727_4.jpg';arrImg[5] = 'SMP6000ZKABTU-pr17727_pr17727_1.jpg';
+			function changeRelatedPro(prevNext) {
+				Imgcnt = arrImg.length - 1;
+
+				var cnt1 = new Array();
+				var objName = new Array();
+				var objCnt = new Array();
+				var objImg = new Array();
+
+				for(i = 1; i <= 3; i++) {
+					objImg[i] = document.getElementById("image" + i);
+					objCnt[i] = document.getElementById("hidVarcount" + i);
+					cnt1[i] = objCnt[i].value;
+				}
+
+				if(prevNext == 'Next') {
+					for(i = 1; i <= 3; i++) {
+						cnt1[i] = parseInt(cnt1[i], 10) + 1;
+						if(cnt1[i] > Imgcnt) cnt1[i] = 1;
+					}
+				}
+				else {
+					for(i = 1; i <= 3 ; i++) {
+						cnt1[i] = parseInt(cnt1[i], 10) - 1;
+						if(cnt1[i] < 1) cnt1[i] = Imgcnt;
+					}
+				}
+
+				for(i = 1; i <= 3 ; i++) {
+					objCnt[i].value = cnt1[i];
+					objImg[i].src = "http://www.hispek.com/sysimages/rszleftrightimages/" + arrImg[cnt1[i]];
+				}
+
+			}
+			//]]>
+			</script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGHBJ8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGHBJ8');</script>
+<!-- End Google Tag Manager -->			</head><body id="onecolum1024">
+
+			<div id="main">
+				<a href="#" name="maintop"></a><!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.hispek.com/css/ie.css" />
+<![endif]-->
+<script language="JavaScript" type="text/javascript" src="http://www.hispek.com/js/fieldvalidation.js"></script>
+<div class="topbar-bg">
+	<div id="topbar">
+				<a href="http://www.hispek.com/" class="logo" title="Hi-Spek">Hi-Spek</a><div class="box-typ1 crv">
+				<span class="box-typ1-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span>
+				<div class="tbar-links"><a href="http://www.hispek.com/" target="_self" title="Home">Home</a><span class="sep">|</span><a href="http://www.hispek.com/privacypolicy.php" target="_self" title="Cookie &amp; Privacy Policy">Cookie &amp; Privacy Policy</a><span class="sep">|</span><a href="http://www.hispek.com/contacting_us.php" target="_self" title="Contact Us">Contact Us</a><span class="sep">|</span><a href="http://www.hispek.com/store_finder.php" target="_self" title="Store Finder">Store Finder</a><span class="sep">|</span><a href="https://www.hispek.com/register.php" title="Register">Register</a>
+						<span>|</span>
+						<a href="https://www.hispek.com/signin.php" title="Sign in">Sign in</a></div>
+			</div><script language="javascript" type="text/javascript">
+				function submitFrmTopSearch(srcType) {
+					var searchValue = '';
+					// search
+					if (document.getElementById('txtSearch1')) {
+						searchValue = document.getElementById('txtSearch1').value;
+						if (searchValue == 'Enter Search Keyword') {
+							searchValue = '';
+						}
+						if (searchValue == '') {
+							alert("Please enter search keyword.");
+							document.getElementById('txtSearch1').focus();
+							return;
+						}
+					}
+					objForm = document.frmTopSearch;
+					objForm.srcType.value = srcType;
+					objForm.submit();
+				}
+			</script>
+			<div class="search-bd">
+				<form name="frmTopSearch" id="frmTopSearch" action="http://www.hispek.com/search.php" method="get">
+					<input name="txtSearch1" id="txtSearch1" type="text" value="Enter Search Keyword" class="searchbox" onblur="if(!notEmpty(this,null,false,true)) this.value='Enter Search Keyword';"
+
+					 onfocus="if(document.getElementById('txtSearch1').value == 'Enter Search Keyword') document.getElementById('txtSearch1').value = '';"  />
+					<a href="javascript:submitFrmTopSearch('SP');" id="TbarSearchBtn" title="Search" class="btn1 gobtn" />go</a>
+					<input type="hidden" name="srcType" value="SP" />
+					<input type="hidden" name="flagSearch" value="Y" />
+				</form>
+			</div>
+			<link rel="stylesheet" href="http://www.hispek.com/css/jquery-ui.css" />
+			<script language="javascript" type="text/javascript">
+				// Function for ProductXLoad
+				var mycounter = 0; //Counter Set/Initiate With 0 Value
+				function loadAutoCompleteProdx(strCnt) {
+					if(document.getElementById('txtSearch1').value == 'Enter Search Keyword') {
+						document.getElementById('txtSearch1').value = '';
+					}
+
+					var strUrl = 'http://www.hispek.com/search.php?doAction=ajaxSearch'; //Set AJAX URL To Call Search Function
+					$("#txtSearch1").autocomplete({
+						source: function( request, response ) {
+							//document.getElementById('search-loader').style.display = "";
+							$.ajax({
+								url: strUrl,
+								data: request,
+								dataType: "json",
+								type: "POST",
+								success: function(data) {
+									response(data);
+									//document.getElementById('search-loader').style.display = "none";
+								}
+							});
+						},
+						minLength: 3,
+						select: function (event, ui) {
+							event.preventDefault();
+							//$(this).val($('<div/>').html(ui.item.value).text());
+							//document.location.href = ui.item.url;
+
+							$(this).val($('<div/>').html(ui.item.label).text());
+							document.location.href = ui.item.url; //Redirect To PD Case After Click From Ajax List Product Information Dropdown
+						}
+					});
+				}
+
+				/*
+					Uncumment Below Function And Comment Above Function To Use Toggle Format AJAX Dropdown
+					Function Name : loadAutoCompleteProdx();
+				*/
+
+
+				/*function loadAutoCompleteProdx(strCnt) {
+					if(document.getElementById('txtSearch1').value == 'Enter Search Keyword') {
+						document.getElementById('txtSearch1').value = '';
+					}
+
+					var strUrl = 'http://www.hispek.com/search.php?doAction=ajaxSearch'; //Set AJAX URL To Call Search Function
+					$("#txtSearch1").autocomplete({
+						source: function( request, response ) {
+							//document.getElementById('search-loader').style.display = "";
+							$.ajax({
+								url: strUrl,
+								data: request,
+								dataType: "json",
+								type: "POST",
+								success: function(data) {
+									response(data);
+									//document.getElementById('search-loader').style.display = "none";
+								}
+							});
+						},
+						minLength: 3,
+						select: function (event, ui) {
+							event.preventDefault();
+							//$(this).val($('<div/>').html(ui.item.value).text());
+							//document.location.href = ui.item.url;
+
+							$(this).val($('<div/>').html(ui.item.label).text());
+							document.location.href = ui.item.url; //Redirect To PD Case After Click From Ajax List Product Information Dropdown
+						}
+					}).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+							mycounter = mycounter + 1; //Counter Incr. With 1
+							var l = item.label;
+							var x = item.label;
+							var t = item.value;
+							//If Product Name String More Then 55 Char Then Limit With 50 Char. And '..' After String
+							if (l.length > 55) {
+							  l = l.substring(0,50) + '..';
+							}
+							//Toggle Row Color Style
+							if (mycounter % 2 === 0){
+								var my_style = ' style="margin-top:1px;" title="Click to search on \'' + x + '\'">';
+							} else {
+								var my_style = ' style="background-color:#CCFFFF; margin-top:1px;" title="Click to search on ' + x + '">';
+							}
+							//Build Dropdown With Prodct Name And (Code) Format
+							var searchterm = this.term.split(' ');
+							for (var i = 0, length = searchterm.length; i < length; i++) {
+								var s_term = searchterm[i];
+								if (s_term!=='') {
+									l= l.replace( new RegExp( "(" + preg_quote( s_term ) + ")" , 'gi' ), "<span style='font-weight:bold;color:Blue;'>$1</span>" );
+									t = t.replace( new RegExp( "(" + preg_quote( s_term ) + ")" , 'gi' ), "<span style='font-weight:bold;color:Blue;'>$1</span>" );
+								}
+							}
+							//Set Final String To Display In Dropdown Until AJAX Responded Products
+							var str = '<span style="float:left;">'+l+'</span><span style="float:right;">('+t+')</span><br style="clear:all;">';
+							return $( "<li>" )
+								.data( "item.autocomplete", item )
+								.append( '<a'+my_style+'>'+ str + "</a>" )
+								.appendTo( ul );
+						};
+				}*/
+				//Toggle Odd/Even Value For Row Display In Multi Color Format
+				function isOdd(num) {
+					return !( num & 1 );
+				}
+				//Replace/Clean String As Proper Format
+				function preg_quote( str ) {
+					return (str+'').replace(/([\\\.\+\*\?\[\^\]\$\(\)\{\}\=\!\<\>\|\:])/g, "\\$1");
+				}
+			</script><div class="tbar-cart">
+				<a href="http://www.hispek.com/shoppingcart.php" class="icon ico-shoppingcart" title="View shopping cart">Shopping cart</a>
+
+				<div class="tbar-cart-bd">
+					<h6>Shopping Cart</h6>
+
+					<div class="cart-data">
+						Item(s) : <span id="spnTopQty">0</span>
+						<span class="sep">|</span>
+						&pound;<span id="spnTopGrandTotal">0.00</span>
+					</div>
+				</div>
+
+				<a href="http://www.hispek.com/shoppingcart.php" title="View cart" class="btn1 tbar-viewcartbtn">View cart</a>
+				<a href="http://www.hispek.com/shoppingcart.php" title="Checkout" class="btn1 tbar-checkoutbtn">Checkout</a></div>
+
+		</div>
+</div><div class="navigation-bg crv">
+										<span class="nav-typ1-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span>
+										<div id="navigation">
+											<div id="megamenu">
+												<ul class="navbar"><li class="navbar-item navbar-link-typ2"><span class="navbar-link-in" style="cursor: default;">Home Entertainment</span><div class="subnav-bd"><div class="subnav-bd-inner"><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-pc-29.php"title="Televisions" class="lnk-typ1">Televisions</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-3d-televisions-pc-32.php"title="3D & Smart Televisions">3D &amp; Smart Televisions</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-4k-televisions-pc-727.php"title="4K Ultra HD Televisions">4K Ultra HD Televisions</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-lcd-led-televisions-pc-118.php"title="LCD & LED Televisions">LCD &amp; LED Televisions</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-plasma-televisions-pc-153.php"title="Plasma Televisions">Plasma Televisions</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-lcd-television-with-built-in-dvd-or-blu-ray-player-pc-115.php"title="LCD Television with Built In DVD or Blu-Ray Player">TV&#039;s with Built In DVD or Blu-Ray</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-television-pc-351.php?productCatId=353"title="3D Glasses">3D Glasses</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-television-pc-351.php"title="Accessories">Accessories</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/hi-fi-home-cinema-home-cinema-systems-pc-344.php"title="Hi Fi & Home Cinema" class="lnk-typ1">Hi Fi &amp; Home Cinema</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/hi-fi-home-cinema-hifi-separates-pc-17.php"title="Amplifiers, Receivers & Separates">Amplifiers, Receivers &amp; Separates</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-hifi-systems-pc-18.php"title="Hi Fi Systems">Hi Fi Systems</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-home-cinema-systems-pc-344.php"title="Home Cinema">Home Cinema</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-video-projectors-pc-23.php"title="Video Projectors">Video Projectors</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-speakers-pc-28.php"title="Speakers">Speakers</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-speakers-soundbars-sound-projectors-pc-343.php6"title="Sound Projectors">Soundbars &amp; Sound Projectors</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-av-blu-ray-package-deals-pc-5.php"title="AV Blu Ray Packages">AV Blu Ray Packages</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-av-speaker-package-deals-pc-4.php"title="AV Speaker Package Deals">AV Speaker Package Deals</a></li><li><a href="http://www.hispek.com/hi-fi-home-cinema-av-multi-room-products-pc-3.php"title="AV Muliti Room Products">AV Multi Room Products</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/accessories-audio-products-audio-products-pc-376.php"title="Audio Products" class="lnk-typ1">Audio &amp; Headphones</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-headphones-pc-386.php"title="Headphones">Headphones</a></li><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-personal-pc-378.php"title="Dab & CD Players">DAB Radios &amp; CD Players</a></li><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-ipod-mp3-players-ipod-mp3-players-pc-389.phphttp://www.hispek.com/accessories-audio-products-audio-products-ipod-mp3-players-ipod-mp3-players-pc-389.php"title="iPod & MP3 Players">iPod &amp; MP3 Players</a></li><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-ipod-mp3-players-ipod-mp3-speakers-docks-pc-390.php"title="iPod & MP3 Player Docks/Speakers">iPod &amp; MP3 Player Docks/Speakers</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/television-blu-ray-dvd-blu-ray-players-recorders-pc-6.php"title="Blu Ray Players/Recorders" class="lnk-typ1">Blu Ray Players/Recorders</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/television-blu-ray-dvd-blu-ray-players-recorders-blu-ray-players-pc-154.php"title="Blu Ray Players">Blu Ray Players</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-blu-ray-players-recorders-blu-ray-recorders-pc-166.php"title="Blu Ray Recorders">Blu Ray Recorders</a></li></ul>
+										</span><div class="clear">&nbsp;</div><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/television-blu-ray-dvd-dvd-players-recorders-pc-14.php"title="DVD Players/Recorders" class="lnk-typ1">DVD Players/Recorders</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/television-blu-ray-dvd-dvd-players-recorders-dvd-players-pc-79.php"title="DVD Players">DVD Players</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-dvd-players-recorders-dvd-hard-disk-recorders-pc-80.php"title="DVD/Hard Disk Recorders">DVD/Hard Disk Recorders</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-dvd-players-recorders-dvd-vhs-combi-pc-81.php"title="DVD/VHS Combi">DVD/VHS Combi</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-dvd-players-recorders-portable-dvd-players-pc-156.php"title="Portable DVD players">Portable DVD players</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/television-blu-ray-dvd-set-top-boxes-pc-26.php"title="Set Top Boxes" class="lnk-typ1">Set Top Boxes</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/television-blu-ray-dvd-set-top-boxes-freeview-freeview-set-top-boxes-pc-88.php"title="Freeview & Freeview+ Set Top Boxes">Freeview &amp; Set Top Boxes</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-set-top-boxes-freeview-hd-set-top-boxes-pc-89.php"title="Freeview HD Set Top Boxes">Freeview HD Set Top Boxes</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-set-top-boxes-freesat-high-definition-receivers-pc-90.php"title="Freesat High Definition Receivers">Freesat HD Receivers</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-set-top-boxes-media-streaming-set-top-box-pc-307.php"title="Media Streaming Set Top Box">Media Streaming Set Top Box</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/digital-imaging-pc-221.php"title="Digital Imaging" class="lnk-typ1">Digital Imaging</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/digital-imaging-camcorders-pc-8.php"title="Camcorders">Camcorders</a></li><li><a href="http://www.hispek.com/digital-imaging-digital-slr-cameras-pc-11.php"title="Digital & SLR Cameras">Digital &amp; SLR Cameras</a></li><li><a href="http://www.hispek.com/digital-imaging-digital-frames-media-players-pc-12.php"title="Digital Frames/Media Players">Digital Frames/Media Players</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/accessories-audio-products-accessories-pc-350.php" target='_blank' title="Accessories" class="lnk-typ1">Accessories</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/accessories-audio-products-accessories-connectivity-pc-360.php"title="Connectivity">Connectivity</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-hi-fi-accessories-cables-pc-364.php"title="Hi Fi & Cables">Hi Fi &amp; Cables</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-dongles-pc-365.php"title="Dongles">Dongles</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-camcorder-pc-366.php"title="Camcorder">Camcorder Accessories</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-photographic-pc-370.php"title="Photographic">Photographic Accessories</a></li><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-ipod-mp3-players-ipod-mp3-accessories-pc-391.php"title="iPod & MP3 Accessories">iPod &amp; MP3 Accessories</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-television-pc-351.php"title="Television">Television Accessories</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-television-television-wall-brackets-pc-352.php"title="Television Brackets">Television Brackets</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-television-television-stands-pc-355.php"title="Television Stands">Television Stands</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-projector-screens-and-accessories-pc-555.php"title="Projector Screens/Accessories">Projector Screens/Accessories</a></li><li><a href="http://www.hispek.com/accessories-audio-products-accessories-recordable-media-pc-756.php"title="Recordable Media">Recordable Media</a></li></ul>
+										</span><div class="clear">&nbsp;</div><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/accessories-audio-products-readers-pc-373.php" target='_blank' title="eBooks" class="lnk-typ1">eBooks</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/accessories-audio-products-readers-accessories-pc-375.php"title="Accessories">Accessories</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/computing-pc-551.php"title="Computing" class="lnk-typ1">Computing</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/computing-gaming-pc-784.php"title="Gaming">Gaming</a></li><li><a href="http://www.hispek.com/computing-laptop-computing-pc-734.php"title="Laptop Computers">Laptop Computers</a></li><li><a href="http://www.hispek.com/digital-imaging-sony-vaio-laptops-pc-477.php"title="Laptop Computers">Sony VAIO Computing</a></li><li><a href="http://www.hispek.com/computing-tablet-computers-pc-749.php"title="Tablet PC's">Tablet PC&#039;s</a></li><li><a href="http://www.hispek.com/computing-usb-memory-pc-552.php"title="USB Memory">USB Memory</a></li><li><a href="http://www.hispek.com/digital-imaging-sony-vaio-accessories-pc-478.php"title="Laptop Accessories">Laptop Accessories</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/bose-store-hispek-authorised-bose-dealers-pc-441.php"title="Bose Store at Hispek - Authorised Bose Dealers" class="lnk-typ1">Bose Store</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/bose-studio-acoustimass-pc-444.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=acoustimass"title="Acoustimass">Acoustimass</a></li><li><a href="http://www.hispek.com/bose-studio-cinemate-pc-443.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=cinemate"title="Cinemate">Cinemate</a></li><li><a href="http://www.hispek.com/bose-studio-companion-pc-447.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=companion"title="Companion">Companion</a></li><li><a href="http://www.hispek.com/bose-studio-lifestyle-pc-442.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=lifestyle"title="Lifestyle">Lifestyle</a></li><li><a href="http://www.hispek.com/bose-studio-solo-tv-pc-630.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=solo"title="SoloTV">SoloTV</a></li><li><a href="http://www.hispek.com/bose-studio-sounddock-pc-445.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=sounddock"title="SoundDock">SoundDock</a></li><li><a href="http://www.hispek.com/bose-studio-soundlink-pc-446.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=soundlink"title="SoundLink">SoundLink</a></li><li><a href="http://www.hispek.com/bose-studio-videowave-pc-476.php?source=bosestore&utm_source=bosestore&utm_medium=topnav&utm_term=videowave"title="VideoWave">VideoWave</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/samsung-elite-shop-pc-453.php"title="Samsung 2013 Elite Shop" class="lnk-typ1">Samsung 2013 Elite Shop</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/samsung-elite-f7000-pc-661.php"title="F7000 Range">F7000 Range</a></li><li><a href="http://www.hispek.com/samsung-elite-f8000-pc-662.php"title="F8000 Range">F8000 Range</a></li><li><a href="http://www.hispek.com/samsung-elite-f8500-pc-663.php"title="F8500 Range">F8500 Range</a></li><li><a href="http://www.hispek.com/samsung-f9-series-pc-759.php"title="F9000 UHD Range">F9000 UHD Range</a></li></ul>
+										</span><div class="clear">&nbsp;</div></div></div>
+										</li><li class="navbar-item nav-sep navbar-link-typ2"><span class="navbar-link-in" style="cursor: default;">Appliances</span><div class="subnav-bd"><div class="subnav-bd-inner"><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-laundry-pc-21.php"title="Laundry" class="lnk-typ1">Laundry</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-samsung-2013-appliance-range-samsung-laundry-2013-range-pc-658.php?source=topnav&utm_source=topnav&utm_medium=catimg&utm_term=samsung2013range"title="Samsung Laundry Range">Samsung Laundry Range</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-laundry-washing-machines-pc-201.php"title="Washing Machines">Washing Machines</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-laundry-tumble-dryers-pc-193.php"title="Tumble Dryers">Tumble Dryers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-laundry-washer-dryers-pc-200.php"title="Washer Dryers">Washer Dryers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-laundry-pc-113.php"title="Built In Laundry">Built In Laundry</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-laundry-rotary-irons-pc-169.php"title="Rotary Irons">Rotary Irons</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-pc-25.php"title="Refrigeration" class="lnk-typ1">Refrigeration</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-fridge-freezers-pc-92.php"title="Fridge Freezers">Fridge Freezers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-fridges-pc-93.php"title="Fridges">Fridges</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-freezers-pc-91.php"title="Freezers">Freezers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-american-style-fridge-freezers-pc-34.php"title="American Style Fridge Freezers">American Style Fridge Freezers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-refrigeration-wine-coolers-ice-makers-pc-231.php"title="Wine Coolers & Ice Makers">Wine Coolers &amp; Ice Makers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-samsung-2013-appliance-range-samsung-refrigeration-2013-range-pc-659.php?source=topnav&utm_source=topnav&utm_medium=catimg&utm_term=samsung2013range"title="Samsung Refrigeration Range">Samsung Refrigeration Range</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-built-in-pc-7.php"title="Built-In" class="lnk-typ1">Built-In</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-ovens-pc-39.php"title="Ovens">Ovens</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-hobs-pc-38.php"title="Hobs">Hobs</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-cooker-hoods-pc-104.php"title="Cooker Hoods">Cooker Hoods</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-microwaves-pc-395.php"title="Microwaves">Microwaves</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-built-in-dishwashers-pc-41.php"title="Dishwashers">Dishwashers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-laundry-pc-113.php"title="Laundry">Laundry</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-fridge-freezers-pc-394.php"title="Fridge Freezers">Fridge Freezers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-fridges-pc-392.php"title="Fridges">Fridges</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-freezers-pc-393.php"title="Freezers">Freezers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-warming-drawers-pc-199.php"title="Warming Drawers">Warming Drawers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-coffee-machines-pc-229.php"title="Coffee Machines">Coffee Machines</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-built-in-sinks-and-taps-pc-171.php"title="Sinks and Taps">Sinks and Taps</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-samsung-2013-appliance-range-samsung-cooking-2013-range-pc-660.php?source=topnav&utm_source=topnav&utm_medium=catimg&utm_term=samsung2013range"title="Samsung Built-in Appliances">Samsung Built-in Appliances</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-cooking-pc-10.php"title="Cooking" class="lnk-typ1">Cooking</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-free-standing-cookers-pc-94.php"title="Free Standing Cookers">Free Standing Cookers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-range-cookers-pc-163.php"title="Range Cookers">Range Cookers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-cooker-hoods-pc-104.php"title="Cooker Hoods">Cooker Hoods</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-cooker-splashbacks-pc-184.php"title="Splashbacks">Splashbacks</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-microwaves-pc-133.php"title="Microwaves">Microwaves</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-warming-drawers-pc-199.php"title="Warming Drawers">Warming Drawers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-samsung-2013-appliance-range-samsung-cooking-2013-range-pc-660.php?source=topnav&utm_source=topnav&utm_medium=catimg&utm_term=samsung2013range"title="Samsung Cooking Appliances">Samsung Cooking Appliances</a></li></ul>
+										</span><div class="clear">&nbsp;</div><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-pc-13.php"title="Dishwashers" class="lnk-typ1">Dishwashers</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-freestanding-dishwashers-pc-185.php"title="Freestanding Dishwashers">Freestanding Dishwashers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-built-in-dishwashers-pc-41.php"title="Built In Dishwashers">Built In Dishwashers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-compact-table-top-dishwashers-pc-52.php"title="Compact & Table Top Dishwashers">Compact Dishwashers</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-pc-27.php"title="Small Appliances" class="lnk-typ1">Small Appliances</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-hotpoint-hd-line-small-kitchen-appliances-pc-755.php"title="Hotpoint HD Line">Hotpoint HD Line</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-coffee-machines-pc-229.php"title="Coffee Machines">Coffee Machines</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-kettles-pc-295.php"title="Kettles">Kettles</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-toasters-pc-294.php"title="Toasters">Toasters</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-steam-irons-pc-111.php"title="Steam Irons">Steam Irons</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-fans-portable-air-conditioning-cooling-pc-58.php"title="Fans & Air Conditioning">Fans, Portable Air Conditioning &amp; Cooling</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-hostess-trolleys-heated-serving-dishes-pc-230.php"title="Hostess Trolleys & Heated Serving Dishes">Hostess Trolleys &amp; Servers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-small-cooking-appliances-pc-56.php"title="Food Preparation">Food Preparation</a></li><li><a href="http://www.hispek.com/search.php?txtSearch1=Bread+Maker&srcType=SP&flagSearch=Y"title="Bread Makers">Bread Makers</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-pc-31.php"title="Vacuum Cleaners" class="lnk-typ1">Vacuum Cleaners</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-upright-vacuum-cleaners-pc-197.php"title="Upright Vacuum Cleaners">Upright Vacuum Cleaners</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-cylinder-vacuum-cleaners-pc-61.php"title="Cylinder Vacuum Cleaners">Cylinder Vacuum Cleaners</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-handheld-vacuum-cleaners-pc-629.php"title="Hand Held Vacuum Cleaners">Hand Held Vacuum Cleaners</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-heating-pc-16.php"title="Heating" class="lnk-typ1">Heating</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-heating-electric-heaters-pc-85.php"title="Electric Heaters">Electric Heaters</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-heating-storage-heaters-pc-187.php"title="Storage Heaters">Storage Heaters</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-heating-electric-gas-effect-fires-pc-86.php"title="Electric & Gas Effect Fires">Electric &amp; Gas Effect Fires</a></li></ul>
+										</span><div class="clear">&nbsp;</div><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-health-beauty-pc-624.php"title="Health & Beauty" class="lnk-typ1">Health &amp; Beauty</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-health-beauty-hair-care-pc-627.php"title="Hair Care">Hair Care</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-health-beauty-shavers-clippers-and-trimmers-pc-628.php"title="Shavers, Clippers and Trimmers">Shavers, Clippers and Trimmers</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-health-beauty-dental-care-pc-626.php"title="Dental Care">Dental Care</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-health-beauty-health-wellbeing-pc-625.php"title="Health & Wellbeing">Health &amp; Wellbeing</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-communications-cordless-dect-phone-pc-62.php"title="Communications" class="lnk-typ1">Communications</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-communications-cordless-dect-phone-pc-62.php"title="Cordless DECT Phone">Cordless DECT Phone</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-cleaning-accessories-pc-1.php"title="Accessories" class="lnk-typ1">Accessories</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-vacuum-cleaner-accessories-pc-198.php"title="Vacuum Cleaner Accessories">Vacuum Cleaner Accessories</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cleaning-accessories-kitchen-appliance-cleaning-accessories-pc-49.php"title="Kitchen Appliance Cleaning Accessories">Appliance Cleaners</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-laundry-laundry-accessories-pc-114.php"title="Laundry Accessories">Laundry Accessories</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-cooking-cooker-accessories-pc-54.php"title="Cooker Accessories">Cooker Accessories</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-pc-637.php"title="Neff Store" class="lnk-typ1">Neff Store</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-ovens-pc-449.php"title="Ovens">Ovens</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-hobs-pc-633.php"title="Hobs">Hobs</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-hoods-pc-636.php"title="Hoods">Hoods</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-microwaves-pc-632.php"title="Microwaves">Microwaves</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-fridge-freezers-pc-634.php"title="Refrigeration">Refrigeration</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-store-appliances-neff-dishwashers-pc-635.php"title="Dishwashers">Dishwashers</a></li></ul>
+										</span><div class="clear">&nbsp;</div></div></div>
+										</li><li class="navbar-item nav-sep"><a class="navbar-link" href="http://www.hispek.com/computing-pc-551.php"title="PC's and Tablets"><span class="navbar-link-in" style="">PC&#039;s and Tablets</span></a><div class="subnav-bd"><div class="subnav-bd-inner"><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/computing-pc-551.php"title="Computing - Tablets, PCs and Laptops" class="lnk-typ1">Computing</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/computing-laptop-computing-pc-734.php"title="Laptops">Laptops</a></li><li><a href="http://www.hispek.com/computing-pc-s-pc-785.php"title="PC's">PC&#039;s</a></li><li><a href="http://www.hispek.com/computing-tablet-computers-pc-749.php"title="Tablets">Tablets</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/computing-gaming-pc-784.php"title="Gaming Consoles - Games Consoles - Playstation - PS4" class="lnk-typ1">Gaming</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/computing-gaming-pc-784.php"title="Games Consoles">Games Consoles</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue">Accessories</strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/accessories-audio-products-accessories-recordable-media-pc-756.php"title="Blank Media - CD/DVD/BR">Blank Media - CD/DVD/BR</a></li><li><a href="http://www.hispek.com/computing-usb-memory-pc-552.php"title="USB Memory">USB Memory</a></li></ul>
+										</span></div></div>
+										</li><li class="navbar-item nav-sep navbar-link-typ2"><span class="navbar-link-in" style="cursor: default;">Promotions</span><div class="subnav-bd"><div class="subnav-bd-inner"><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/television-blu-ray-dvd-bank-holiday-tv-deals-pc-667.php"title="Hispek Hot Offers" class="lnk-typ1">Hispek Hot Offers</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/sonos/soundbars-sound-projectors/sonos-playbar-tv-soundbar-and-wireless-music-streaming-system-pd-15117.php"title="FREE Sonos BRIDGE & Spotify Premium">FREE Sonos BRIDGE &amp; Spotify Premium</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-lg-free-passes-pc-820.php?page=2"title="FREE 3 month Sky Movies Pass and 7 Sky Sports Day Passes with LG TV's">FREE 3 month Sky Movies Pass and 7 Sky Sports Day Passes with LG TV&#039;s</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-great-package-savings-pc-836.php"title="Great Package Savings on Sony & Samsung TV">Great Package Savings on Sony &amp; Samsung TV</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-bosch-trade-in-and-save-50-on-selected-bosch-models-pc-859.php"title="£50 Trade In Saving on Selected Bosch Appliances">&pound;50 Trade In Saving on Selected Bosch Appliances</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-neff-up-to-100-trade-in-saving-promotion-pc-858.php"title="Up to £100 Trade In Saving on Selected Neff Appliances">Up to &pound;100 Trade In Saving on Selected Neff Appliances</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-aeg-cashback-promotion-pc-329.php?source=&utm_source=sale&utm_medium=image&utm_term=aegcookTU"title="Cashback Offers" class="lnk-typ1">Cashback Offers</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-bosch-cashback-offer-up-to-100-cashback-pc-762.php"title="Up to £100 Cashback with Selected Bosch Appliances">Up to &pound;100 Cashback with Selected Bosch Appliances</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-hotpoint-cash-back-pc-460.php"title="Up to £100 Cashback with Selected Hotpoint Appliances!">Up to &pound;100 Cashback with Selected Hotpoint Appliances!</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-the-ecological-decision-heat-pump-cashback-pc-846.php"title="£100 Cashback with selected Miele Heat Pump Dryers">&pound;100 Cashback with selected Miele Heat Pump Dryers</a></li><li><a href="http://www.hispek.com/miele/freestanding-dishwashers/miele-g4210-freestanding-dishwasher-in-white-with-13-place-settings-50-cashback-and-60-day-money-back-guarantee-pd-16385.php"title="£50 Cashback with Miele G4210 Dishwasher">&pound;50 Cashback with Miele G4210 Dishwasher</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue">Extended Warranty Deals</strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-samsung-5-year-warranty-pc-329.php"title="Samsung FREE 5 Year Warranty on Selected Appliances">Samsung FREE 5 Year Warranty on Selected Appliances</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-aeg-5-year-warranty-pc-298.php"title="AEG 5 Year Deals">AEG 5 Year Deals</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-panasonic-6-year-vacuum-cleaner-warranty-pc-620.php"title="Panasonic 6 Year Warranty on Vacuum Cleaners">Panasonic 6 Year Warranty on Vacuum Cleaners</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-panasonic-laundry-warranty-offers-pc-475.php"title="Panasonic 5 and 6 Year Warranty on Laundry">Panasonic 5 and 6 Year Warranty on Laundry</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-dyson-offers-pc-469.php"title="Dyson 5 Year Guarantee">Dyson 5 Year Guarantee</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-siemens-5-year-warranty-via-registration-pc-853.php"title="Siemens FREE 5 Year Warranty via Registration">Siemens FREE 5 Year Warranty via Registration</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/kitchen-home-appliances-zanussi-free-vacuum-cleaner-pc-508.php"title="Appliance Offers" class="lnk-typ1">Appliance Offers</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/ex-display-clearance-pc-290.php"title="Clearance Sale">Clearance Sale</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-bosch-free-joseph-joseph-kitchen-set-with-selected-bosch-refrigeration-pc-855.php"title="FREE Joseph Joseph Kitchen Set with Selected Bosch Refrigeration">FREE Joseph Joseph Kitchen Set with Selected Bosch Refrigeration</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-free-saucepan-set-with-neff-flexinduction-hob-pc-848.php"title="Free Saucepan Set with Neff FlexInduction Hobs">Free Saucepan Set with Neff FlexInduction Hobs</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-siemens-free-saucepan-set-with-touchslider-flexinduction-hobs-pc-854.php"title="FREE Saucepan Set with Siemens touchSlider flexInduction Hobs">FREE Saucepan Set with Siemens touchSlider flexInduction Hobs</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-half-price-hood-and-half-price-splashback-with-belling-rangecooker-pc-622.php"title="Half price hood and splashback with Belling Rangecooker">Half price hood and splashback with Belling Rangecooker</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-half-price-hood-and-half-price-splashback-with-stoves-rangecooker-pc-647.php"title="Half price hood and splashback with Stoves Rangecooker">Half price hood and splashback with Stoves Rangecooker</a></li></ul>
+										</span><div class="clear">&nbsp;</div><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue">New at Hispek</strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-sony-new-2014-tv-range-pc-851.php"title="Sony 2014 TV's">Sony 2014 TV&#039;s</a></li><li><a href="http://www.hispek.com/bose-studio-bose-sounddock-series-iii-digital-music-system-pc-832.php"title="NEW - Bose SoundDock III">Bose SoundDock III</a></li><li><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-4k-uhd-televisions-pc-727.php?source=homepage&utm_source=homepage&utm_medium=banner&utm_term=hp4kuhd"title="4K Ultra HD TV has arrived">4K Ultra HD TV has arrived</a></li><li><a href="http://www.hispek.com/kitchen-home-appliances-small-appliances-hotpoint-hd-line-small-kitchen-appliances-pc-755.php"title="Hotpoint HD Line Small Appliances">Hotpoint HD Line Small Appliances</a></li><li><a href="http://www.hispek.com/accessories-audio-products-audio-products-ferrari-headphones-by-logic-3-pc-833.php"title="Ferrari Headphones">Ferrari Headphones</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue"><a href="http://www.hispek.com/what-hifi-award-winners-pc-334.php"title="Award Winning" class="lnk-typ1">Award Winning</a></strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/what-hifi-award-winners-pc-334.php"title="What HiFi Awards 2013 Winners">What HiFi Awards 2013 Winners</a></li></ul>
+										</span><span class="sublink ">
+												<span class="header">
+													<strong class="f-blue">In Store Offers</strong>
+												</span><ul class="nav-lnk"><li><a href="http://www.hispek.com/kitchen-home-appliances-rangemaster-shop-pc-480.php"title="1/2 Price Hood & Splashback with Rangemaster Range Cookers">1/2 Price Hood &amp; Splashback with Rangemaster Range Cookers</a></li></ul>
+										</span></div></div>
+										</li><li class="navbar-item nav-sep"><a class="navbar-link" href="http://www.hispek.com/bose-store-hispek-authorised-bose-dealers-pc-441.php"title="BOSE STUDIO"><span class="navbar-link-in" style=""> <b class="txt txt-bose">BOSE STUDIO</b></span></a></li><li class="navbar-item nav-sep"><a class="navbar-link" href="http://www.hispek.com/kitchen-home-appliances-rangemaster-shop-pc-480.php"title="Hispek are an authorised Rangemaster Design Centre In Hertfordshire"><span class="navbar-link-in" style=""> <b class="txt txt-euronics">Rangemaster Store</b></span></a></li><li class="navbar-item nav-sep"><a class="navbar-link" href="http://www.hispek.com/hispektv.php"title="HiSpek.TV - watch the latest Appliance, Home Cinema and Entertainment videos from Hispek in St Albans"><span class="navbar-link-in" style=""> <b class="txt txt-hstv">Hispek.tv</b></span></a></li><li class=""><a class="btn6 wintersalebtn" href="http://www.hispek.com/ex-display-clearance-pc-290.php?source=homepage&utm_source=homepage&utm_medium=banner&utm_term=clearance"title="Clearance"><span class="" style="">Clearance</span></a></li>					<li class="clear">&nbsp;</li>
+												</ul>
+											</div>
+										</div>
+									</div><div class="callus"><div class="tbar-lnk1"><a href="http://www.hispek.com/aboutus.php" target="_self" title="Why us?">Why us?</a><span class="sep">|</span><a href="http://www.hispek.com/deliverypage.php" target="_self" title="Delivery Info">Delivery Info</a><span class="sep">|</span><a href="http://www.hispek.com/brandlisting.php" target="_self" title="Shop By Brand">Shop By Brand</a></div></div>
+
+<script language="javascript" type="text/javascript">
+	function closeWindow() {
+		document.getElementById("divClose").style.display = "none";
+	}
+</script><div class="box-typ4 crv mrg12-B">
+						<span class="box-typ4-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span>
+							<div class="pagepath"><a href="http://www.hispek.com/" class="home" title="Home">Home</a><span>&nbsp;&#8250;&nbsp;</span><a href="http://www.hispek.com/computing-pc-551.php" title="Computing">Computing</a><span>&nbsp;&#8250;&nbsp;</span><a href="http://www.hispek.com/computing-tablet-computers-pc-749.php" title="Tablet Computers">Tablet Computers</a><span>&nbsp;&#8250;&nbsp;</span><strong>Samsung&nbspSMP6000ZKABTU</strong></div>
+					</div><div id="container"><div id="contentarea"><div class="contenttxt"><div class="pageheader">
+									<h1>Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive</h1>
+								</div><div class="subcontainer"><div id="subcontentarea"><div id="subcontenttxt"><div class="cmstxt">
+											<div id="productdetails_pg"><!--CMS CONTENT WILL START HERE --><form id="frmCart" name="frmCart" action="http://www.hispek.com/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php" method="post" onsubmit="return false">
+	<div class="box-typ3 crv mrg15-B proinfo">
+		<span class="box-typ3-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span>
+		<div class="box-inner pd10 probox-bd">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tr><div style='display:none;'>
+						<div id='detail-popup' style='padding:10px; background:#fff;'>
+							<iframe class="video-object" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe>
+						</div>
+
+						<div id='video-popup' style='padding:10px; background:#fff;'>
+							<iframe class="video-object" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+
+					<td class="probox-l">
+						<div class="mainimg-typ1"><div id="slider1" style="width:390px;"><div class="item-box"><a href="http://www.hispek.com/sysimages/origimages/SMP6000ZKABTU-pr17727_pr17727_1.jpg" class="openimgpopup">
+											<span class="btn3 enlargebtn enlarge-img">Click to Enlarge</span>
+											<img border="0" alt="" src="http://www.hispek.com/sysimages/rszsubimages/SMP6000ZKABTU-pr17727_pr17727_1.jpg" style="margin-top:27px" /></a></div><div class="item-box"><a href="http://www.hispek.com/sysimages/origimages/SMP6000ZKABTU-2_pr17727_2.jpg" class="openimgpopup">
+											<span class="btn3 enlargebtn enlarge-img">Click to Enlarge</span>
+											<img border="0" alt="" src="http://www.hispek.com/sysimages/rszsubimages/SMP6000ZKABTU-2_pr17727_2.jpg" style="margin-top:50px" /></a></div><div class="item-box"><a href="http://www.hispek.com/sysimages/origimages/SMP6000ZKABTU-3_pr17727_3.jpg" class="openimgpopup">
+											<span class="btn3 enlargebtn enlarge-img">Click to Enlarge</span>
+											<img border="0" alt="" src="http://www.hispek.com/sysimages/rszsubimages/SMP6000ZKABTU-3_pr17727_3.jpg" style="margin-top:1px" /></a></div><div class="item-box"><a href="http://www.hispek.com/sysimages/origimages/SMP6000ZKABTU-4_pr17727_4.jpg" class="openimgpopup">
+											<span class="btn3 enlargebtn enlarge-img">Click to Enlarge</span>
+											<img border="0" alt="" src="http://www.hispek.com/sysimages/rszsubimages/SMP6000ZKABTU-4_pr17727_4.jpg" style="margin-top:0px" /></a></div></div><!-- <a href="javascript:openpopup(this,'17727');" title="Click to Enlarge" class="btn3 enlargebtn">Click to Enlarge</a> -->
+							<!-- <a href="#"  class="btn3 enlargebtn enlarge-img">Click to Enlarge</a> -->
+						</div><div class="img-th">
+								<div id="slider2" class="thumbs" style="width:350px;"><a href="" class="item-box openimgpopup"><img style='margin-top:5px'src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-pr17727_pr17727_1.jpg" id="1" border="0" alt=""  onclick="javascript:setImage(this);" /></a><a href="" class="item-box openimgpopup"><img style='margin-top:10px'src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-2_pr17727_2.jpg" id="2" border="0" alt=""  onclick="javascript:setImage(this);" /></a><a href="" class="item-box openimgpopup"><img style='margin-top:0px'src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-3_pr17727_3.jpg" id="3" border="0" alt=""  onclick="javascript:setImage(this);" /></a><a href="" class="item-box openimgpopup"><img style='margin-top:0px'src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-4_pr17727_4.jpg" id="4" border="0" alt=""  onclick="javascript:setImage(this);" /></a></div>
+							</div></td><td class="probox-r">
+						<!-- <div class="page-addons">
+							<a href="javascript:self.print();" title="Print this page" class="icon ico-printer">Print this page</a>
+							<a href="javascript:;" rel="#rel-emailtofriendfrm" title="Email to Friend" class="icon ico-email emailtofriend">Email to Friend</a>
+							<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" title="Bookmark this page" target="_blank" class="icon ico-bookmark">Bookmark this page</a>
+							<script type="text/javascript">var addthis_pub = 'DIY25TMFR640191A';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>
+						</div> -->
+
+
+						<div class="info">
+
+							<div class="logo-review"><img src="http://www.hispek.com/sysimages/rszsubimages/SamsungLogo_bd62.jpg" alt="Samsung" title="Samsung" border="0"  /><div class="rightbox">
+									<a class="reevoomark" href="http://mark.reevoo.com/partner/ESC/SMP6000ZKABTU" rel="nofollow">Samsung SMP6000ZKABTU reviews</a><!-- <a class="reevoomark reevoo-conversations" href="http://mark.reevoo.com/partner/ESC/SMP6000ZKABTU">Ask an Owner</a> -->
+								</div>
+							</div><div class="stock-position" style="display:none;">
+							<table cellpadding="0" cellspacing="0" border="0" width="100%">
+								<tr>
+									<td valign="center" align="left"><img src="http://www.hispek.com/sysimages/rszsubimages/SamsungLogo_bd62.jpg" alt="Samsung" title="Samsung" border="0"  /></td>
+									<td valign="top"><span class="icon ico-instock" title="Available for Pre Order">Available to order</span>
+											<span class="instock-txt">Available<br />to Order</span><!-- <span class="awaiting">Delivered within</span> --></td>
+								</tr>
+							</table><!--<div class="instock">In Stock</div>
+							<div class="limitedstock">Limited Stock</div>-->
+						</div><div class="price"><div class="was" id="rrpDD" style="display:;">was  &pound;<span id="spnrrpprice">449.00</span></div><div class="our">
+									<span class="currency">&pound;</span><span class="integer" id="spnInsFixprice">429</span><span class="decimal">.00</span>
+								</div><input type="hidden" class="txtbox" name="txtQuantity" id="txtQuantity" style="width:48px;" value="1" maxlength="4" /><div class="delv-msg"><span class="icon ico-instock"  title="Available to Order">Available to Order</span>
+									<!-- <span class="instock-txt">Available<br />to Order</span> --><!-- <span class="icon ico-outofstock">Delivered within</span> --><span title="Available to Order" class="instock-txt">Available to<br /> Order</span></div></div><div class="warrantybox">
+									<table cellpadding="0" cellspacing="0" border="0" width="100%" class="pd10-B">
+										<tr>
+											<td valign="top" align="left">2Yr Warranty on Home Appliances OR 1Yr on TVs &amp; AV</td>
+											<td valign="top" align="right">FREE <input type="radio" checked="checked" name="rdWar" value="17737"/></td>
+										</tr><tr>
+												<td valign="top" align="left">3 Year Warranty 1+2  Laptop/Desktop Up to &pound;500</td>
+												<td valign="top" align="right">&pound;139.99 <input type="radio" name="rdWar" value="15991"/></td>
+											</tr><tr>
+												<td valign="top" align="left">5 Year Warranty 1+4  Laptop/Desktop Up to &pound;500</td>
+												<td valign="top" align="right">&pound;259.99 <input type="radio" name="rdWar" value="16001"/></td>
+											</tr><tr>
+											<td valign="top" align="left">
+											 <span  class="fs12">
+												<a href="javascript:MM_openBrWindow('http://www.hispek.com/orderterms.php?code=BNEFT','','scrollbars=yes,resizeable=yes,width=500,height=500')" title="click here to see the advantages of a HiSpek Warranty" class="lnk-typ4"><strong>click here</strong></a> to see the advantages of a HiSpek Warranty
+											</span>
+											</td>
+											<td align="right">&nbsp;</td>
+										</tr>
+									</table>
+								</div><div class="mrg5-B"><input type="button" onclick="javascript:return submitFrmCart(1);" title="Add to Basket" class="btn2 buynowbtn1"  /></div><div class="btnbar pd10-T " style="display:none;">
+									<table cellpadding="0" cellspacing="0" border="0" width="100%">
+										<tr><td>&nbsp;</td><td align="right">
+												<input type="button" onclick="javascript:return submitFrmCart(1);" title="Add to Basket" class="btn2 buynowbtn1"  /></td>
+										</tr>
+									</table>
+								</div></div></div>
+					</div><!-- <div style="position:relative; min-height:90px;">
+					<div id="alatest_award" style="position:absolute; width:150px;height:90px;z-index:10;left:-37px; top:10px;"></div>
+			        </div> --></td>
+				</tr>
+			</table>
+		</div>
+	</div><input type="hidden" name="warLastPrice15991" value="139.99" /><input type="hidden" name="warLastPrice16001" value="259.99" /><input type="hidden" name="flagWarranty" value="Y" /><input type="hidden" name="lastPrice" value="429.00" />
+	<input type="hidden" id="temp" name="temp" value="P" />
+	<input type="hidden" id="prodId" name="prodId" value="17727" />
+	<input type="hidden" name="doAction" value="" /><input type="hidden" name="subProId" id="subProId" value="17737" /></form><div style='display:none;'>
+	<div id='reserve-popup'>
+		<form id="frmreserve" name="frmreserve"  method="post" action="http://www.hispek.com/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php">
+			<div class="box-typ3 pd20">
+				<span class="box-typ3-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span><div class="box-inner">
+					<h2 class="hd-typ2 pd15-LR pd15-T pd5-B">Your In-Store Collection Item Information</h2><div class="frm-typ2 lbl-w2"><!-- <div class="msg-box info-msg-typ1">
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tr>
+									<td class="msg-icon"><span class="icon ico-lock">&nbsp;</span></td>
+									<td class="msg-txt">
+										Simply complete the form below (we've tried to keep the questions to a minimum). Don't worry - we won't share your details with any other third party. We hate spam as much as you do!
+									</td>
+								</tr>
+							</table>
+						</div> --><ul class="frm-data">
+							<li>
+								<label class="lbl">&nbsp;</label>
+								<div class="fields align-R">
+									<span class="icon ico-mandatory">*</span> <strong class="pd15-R">Denotes mandatory field.</strong>
+								</div>
+							</li>
+							<li>
+								<label class="lbl">Product Name</label>
+								<div class="fields"><input type="text" title="Product Name" 
+									name="txtProdName" id="txtProdName"
+									readonly maxlength="100" style="width:275px;" onfocus="this.className='frm-txtbox active-txtbox';" value="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive" onblur="this.className='frm-txtbox';" class="frm-txtbox"/>									
+									<br /><span class="f-red" id="prodName" style="display:none;">Please enter Product Name.</span>
+								</div>
+							</li>
+							<li>
+								<label class="lbl">Product Code</label>
+								<div class="fields"><input type="text" title="Product Code" 
+									readonly maxlength="100" class="frm-txtbox" name="txtProdCode" id="txtProdCode"
+									style="width:275px;" onfocus="this.className='frm-txtbox active-txtbox';" value="SMP6000ZKABTU" onblur="this.className='frm-txtbox';" />
+									<br /><span class="f-red" id="prodCode" style="display:none;">Please enter Product Code.</span>
+								</div>
+							</li>
+							<li>
+								<label class="lbl">First Name</label>
+								<div class="fields"><input class="frm-txtbox" type="text" title="First Name"
+									name="txtFirstName" id="txtFirstName"
+									maxlength="100" style="width:275px;" onfocus="this.className='frm-txtbox active-txtbox';" value="" onblur="this.className='frm-txtbox';" />
+									<span class="icon ico-mandatory">*</span>
+									<br /><span class="f-red" id="firstName" style="display:none;">Please enter First Name.</span>
+								</div>
+							</li>
+							<li>
+								<label class="lbl">Last Name</label>
+								<div class="fields"><input class="frm-txtbox" type="text" title="Last Name"
+									name="txtLastName" id="txtLastName"
+									maxlength="100" style="width:275px;" onfocus="this.className='frm-txtbox active-txtbox';" value="" onblur="this.className='frm-txtbox';" />
+									<span class="icon ico-mandatory">*</span>
+									<br /><span class="f-red" id="lastName" style="display:none;">Please enter Last Name.</span>
+								</div>
+							</li>
+							<li><label class="lbl">Email</label>
+								<div class="fields">
+									<input class="frm-txtbox" type="text" title="Email" name="txtEmail" id="txtEmail"  maxlength="100" onfocus="this.className='frm-txtbox active-txtbox';" onblur="this.className='frm-txtbox';" style="width:275px;" value="" />
+									<span class="icon ico-mandatory">*</span>
+									<br /><span class="f-red" id="email" style="display:none;">Please enter Email.</span>
+								</div>
+							</li>
+							<li>
+								<label class="lbl">Phone No.</label>
+								<div class="fields"><input class="frm-txtbox" type="text" title="Phone Number"
+									name="txtPhone" id="txtPhone"
+									maxlength="50" style="width:275px;" onfocus="this.className='frm-txtbox active-txtbox';" value="" onblur="this.className='frm-txtbox';" />
+									<span class="icon ico-mandatory">*</span>
+									<br /><span class="f-red" id="phone" style="display:none;">Please enter Phone No.</span>
+								</div>
+							</li>
+							<li><label class="lbl">Address</label>
+								<div class="fields">
+									<textarea style="width:275px;" class="frm-txtbox" title="Enquiry" cols="20" rows="4" name="taAddress" id="taAddress" onfocus="this.className='frm-txtbox active-txtbox';" onblur="this.className='frm-txtbox';"
+									></textarea>
+									<br /><span class="f-red" id="address" style="display:none;">Please enter Address.</span>
+								</div>
+							</li>
+							<li class="captcha">
+								<label class="lbl">&nbsp;</label>
+								<div class="fields">
+									<div class="iframe">
+										<iframe name="ifrmCaptcha" id="ifrmCaptcha" src="http://www.hispek.com/imageframe.php" marginheight="0" marginwidth="0" width="200" frameborder="0" height="48" scrolling="no"></iframe>
+										<a href="javascript:reloadIframe();"  class="btn1 refreshbtn">&nbsp;</a>
+									</div>
+								</div>
+								<label class="lbl">Characters</label>
+								<div class="fields">
+									<input type="text" title="form label" name="txtCharacters" maxlength="6" size="6"  class="frm-txtbox"   id="txtCharacter" onfocus="this.className='frm-txtbox active-txtbox';" onblur="this.className='frm-txtbox';"/> <span class="icon ico-mandatory">*</span>
+									<br /><span class="f-red" id="char" style="display:none;">Please type the 6 characters you see in the picture.</span>
+								</div>
+							</li>
+							<li class="hr-line">&nbsp;</li>
+							<li>
+								<label class="lbl">&nbsp;</label>
+								<div class="fields">
+									<input type="button" id="SubmitBtn" title="Submit" class="btn1 submitbtn" onclick="javascript:return submitReserveItemForm(this.form);" />
+									<input type="hidden" name="doAction" value="SendEmailReserve" />
+								</div>
+							</li>
+						</ul>
+						<div class="hr-line">&nbsp;</div>
+					</div>
+				</div></div>		
+		</form>
+	</div>
+</div><!-- PACKAGE SAVING BOX START --><script>
+	//This JS Function Used To Add Package Into Basket/Cart
+	function addCart(objForm, price, prodId, subProdId){
+		objForm.lastPrice.value = price;
+		objForm.prodId.value = prodId;
+		objForm.subProId.value = subProdId;
+		objForm.submit();
+
+	}
+</script><div class="tab-typ1 mrg15-B"><ul class="tabs tabs-js"><li><a href="#Overview" rel="tb2-pn53469" class="selected"><span>Overview</span></a></li><li><a href="#Description" rel="tb2-pn53470" class="selected"><span>Description</span></a></li><li><a href="#Specification" rel="tb2-pn53471" class="selected"><span>Specification</span></a></li><li id="review" style="display:none;"><a class="" href="#reviews" rel="tb2-pnReview" onclick="ReevooMark.show_popup('SMP6000ZKABTU');return false;"><span><b class="txt txt-review">reviews</b></span></a></li><li id="askanowner" style="display:none;"><a href="#ask an owner" rel="pnAskReview" onclick="ReevooMark.show_popup('SMP6000ZKABTU', {'tab': 'ask_an_owner'});return false;"><span><b class="txt txt-askanowner">ask an owner</b></span></a></li><li><a href="#similar products" class="" rel="tb2-pnSimi"><span>Similar Products</span></a></li></ul><div class="tab-panes tb-pn1 box-typ3 crv tb-pane-bd-js">
+														<span class="box-typ3-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span><div id="tb2-pn53469" class="pane box-inner mrg10-B pd10"><div class="probox-typ4 mrg30-B"><div class="info1"></div><div class="clear">&nbsp;</div><div class="pd15-T"><b><span style="font-size: 12px;"><span style="font-family: Verdana;">Samsung SMP6000ZKABTU Galaxy Note 10.1'' 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive</span></span></b><span style="font-size: 12px;"><span style="font-family: Verdana;"><br /><br />Introducing the Samsung Galaxy Note 10.1 2014 Edition offering sharp and vivid viewing at ultra-high WQXGA resolution, so you can make the most of videos, photos and more - making you more productive, creative and entertained than ever before. The stylish magazine-style layout is also customisable, giving you fast access to your favourite apps. With enhanced Multi Window, you can also enjoy great multitasking on the Note 10.1&rsquo;s spacious screen. And, thanks to sleek and ultraportable design, it&rsquo;s easy to use and carry on the go.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-1.jpg" width="580" height="250" align="left" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />The new Galaxy Note 10.1 boasts extremely high WQXGA resolution with crystal clear viewing quality and big screen. The outstanding resolution offers you the utmost viewing experience. Full HD contents are fully supported without compromising quality. Every image and video is displayed more vividly and more sharply.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-2.jpg" width="598" height="250" align="right" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />Design your own screen. Galaxy Note 10.1 allows magazine-like experiences via the 10.1&rdquo; large screen. You can create your own menu screen by pinning your most used and loved apps, websites, videos, files, and folders to your screen.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-3.jpg" width="560" height="250" align="left" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />Galaxy Note 10.1 offers you enough screen space to do multiple tasks simultaneously. You can activate two Apps, such as Movie Player and Note App at the same time. And you can draw or scribble while you are doing something else, like watching a movie.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-4.jpg" width="503" height="250" align="right" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />Samsung&rsquo;s continuous innovation has given Galaxy Note 10.1 a remarkably optimised exterior design. The extra space from the bezel is removed. Thus, it is smaller in size and lighter in weight without a reduction in the screen size. Expand your task capability on the go with maximum mobility.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-5.jpg" width="561" height="250" align="left" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />The premium leather-like back cover gives the new Galaxy Note 10.1 a more classic and more beautiful look. The detailed stitching that appears hand-crafted enhances the superior feeling of the notepad and provides high usability, such as extra protection against scratches and cracks.&nbsp;<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-6.jpg" width="337" height="203" align="right" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />Compose and manage notes easily and quickly. Quickly scribble notes and sketch shapes then S Note edit them beautifully without having to rewrite or redraw them. You draw shapes and handwrite first, then S Note turns them into perfect shapes and digital text instantly. Draw well organised charts using Easy Chart with only a little bit of effort.<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-7.jpg" width="396" height="200" align="left" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />Experience great comfort with Action Memo. Tap to turn your handwriting into an actionable link to one of a range of useful features. This memo connects you to 7 things you are most likely going to do (call, save contact info, send SMS or email, search web and location, add tasks) via Link Memos to Actions.&nbsp;<br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><img src="/userfiles/SMP600-8.jpg" width="520" height="250" align="right" alt="" style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" /><br style="font-family: Verdana; font-size: 12px;" />No more struggling to organise information or track down contents from various sources. Now you can easily collect and organise a variety of content, including webpages, Youtube videos, videos on your device etc, in one place called 'Scrapbook&lsquo;.&nbsp;</span></span></div><div class="clear">&nbsp;</div><br /></div></div><div id="tb2-pn53470" class="pane box-inner mrg10-B pd10"><div class="probox-typ4 mrg30-B"><div class="info1"></div><div class="clear">&nbsp;</div><div class="pd15-T"><b><span style="font-size: 12px;"><span style="font-family: Verdana;">Samsung SMP6000ZKABTU Galaxy Note 10.1'' 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive</span></span></b><span style="font-size: 12px;"><span style="font-family: Verdana;"><br /><br />Samsung's continuous innovation has given Galaxy Note 10.1 a remarkably optimised exterior design. The extra space from the bezel is removed. Thus, it is smaller in size and lighter in weight without a reduction in the screen size. Expand your task capability on the go with maximum mobility. The premium leather-like back cover gives the Galaxy Note 10.1 a more classic and more beautiful look. The detailed stitching that appears hand-crafted enhances the superior feeling of the notepad and provides high usability, such as extra protection against scratches and cracks. Compose and manage notes easily and quickly. Quickly scribble notes and sketch shapes then S Note edit them beautifully without having to rewrite or redraw them. You draw shapes and handwrite first, then S Note turns them into perfect shapes and digital text instantly. Draw well organised charts using Easy Chart with only a little bit of effort. Experience great comfort with Action Memo. Tap to turn your handwriting into an actionable link to one of a range of useful features. This memo connects you to 7 things you are most likely going to do (call, save contact info, send SMS or email, search web and location, add tasks) via Link Memos to Actions. No more struggling to organise information or track down contents from various sources. Now you can easily collect and organise a variety of content, including webpages, Youtube videos, videos on your device etc, in one place called 'Scrapbook'.</span></span></div><div class="clear">&nbsp;</div></div></div><div id="tb2-pn53471" class="pane box-inner mrg10-B pd10"><div class="probox-typ4 mrg30-B"><div class="info1"></div><div class="clear">&nbsp;</div><div class="pd15-T"><b><span style="font-size: 12px;"><span style="font-family: Verdana;">Samsung SMP6000ZKABTU Galaxy Note 10.1'' 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive</span></span></b><span style="font-size: 12px;"><span style="font-family: Verdana;"><br /><br /><br /><br /></span></span><table class="gblListTableS" cellspacing="1" cellpadding="0" width="100%" border="0" style="border: none; margin: 0px; padding: 0px; font-family: Calibri; font-size: 12px; line-height: 14px; vertical-align: baseline; border-spacing: 0px; color: rgb(102, 102, 102); background-color: rgb(255, 255, 255);"><tbody style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline;"><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Features&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Enjoy more vivid and sharp viewing at WQXGA resolution</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" align="right" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Use an attractive and customisable magazine-like layout</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" align="right" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Multitask with enhanced Multi Window on a large 10' screen</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" align="right" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Do more on the go thanks to sleek and portable design</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Audio Formats Supported&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Format: MP3, M4A, AAC, WMA, ASF, OGG, FLAC, AMR, WAV, MID, XMF, MXMF, iMY, RTTTL, RTX, OTA Codec: MP3, AAC, AAC+, eAAC+, WMA, OGG, FLAC, AMR-NB / WB, WAV, MIDI</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Barcode&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">8806085899995</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Battery&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">8220mAh</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Bluetooth&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Bluetooth Type&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Bluetooth 4.0</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Built in Flash&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Camera Features&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">AutoFocus</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Camera Resolution&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Front: 2.0 Megapixels / Rear: 8.0 Megapixels</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Case Colour&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Jet Black</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Connectivity Features&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">DLNA, MHL 2.0</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">CPU Family&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">ARM Cortex</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Depth&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">0.79 cm</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Display Sensor&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Accelerometer, Geo-magnetic, Gyro, RGB Light, Hall</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Form Factor&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Handheld Mobile Computer</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">GPS Receiver Type&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">S-GPS (GLONASS)</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">GPS Support&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Headphone Ports&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">1 x 3.5mm Earphone Jack</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Height&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">17.14 cm</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Internal Memory&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">16 GB</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">&nbsp;</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Mobile Broadband&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">WiFi only</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Model Name&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">SM-P600</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Movie Play Format&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Full HD (1080p)</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Movie Record Format&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Full HD (1080p)</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Music Playback Performance&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Up to 98 Hours</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Operating System&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Android</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">PC Synchronisation&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Pointing Device&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">S-Pen</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Product Family&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Galaxy Note</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Product Type&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Tablet PC</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">RF Network Standard&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">802.11</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">RF Standard&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">a/b/g/n/ac</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Screen Res. Type&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">WQXGA</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Screen Resolution&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">1600 x 2560 Pixels</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Screen Size&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">10.1 in</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Screen Type&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Super Clear LCD 16 Million Colours</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Secure Digital&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Supported: microSD</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Software Included&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Samsung Apps, Music Hub, Readers Hub, Game Hub, ChatON, ActiveSync</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Touchscreen&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">USB Ports&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">1 x Micro USB 2.0 (5.3V 2A)</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">USB Support&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Video Playback&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Video Playback Performance&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Up to 10 Hours</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Video Recording&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Yes</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Webcam&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Integrated (Front/Rear)</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Weight&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">0.540 kg</span></span></td></tr><tr class="gblListLine2" style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 704px; background-color: rgb(241, 241, 241);"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Width&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">24.31 cm</span></span></td></tr><tr class="gblListLine1" style="margin: 0px; padding: 5px 3px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; vertical-align: baseline; width: 698px;"><td class="gblListLine5" valign="top" width="150" style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; width: 200px;"><span style="font-size: 12px;"><span style="font-family: Verdana;">Wireless System&nbsp;:</span></span></td><td style="border: 0px; margin: 0px; padding: 5px 3px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;"><span style="font-size: 12px;"><span style="font-family: Verdana;">WiFi Direct</span></span></td></tr></tbody></table></div><div class="clear">&nbsp;</div></div></div><div id="tb2-pnReview" style="display:none;" class="pane box-inner mrg10-B pd10">&nbsp;</div><div id="tb2-pnAskReview" style="display:none;" class="pane box-inner mrg10-B pd10">&nbsp;</div><div class="pane ">
+																<div class="crv mrg15-B">
+																	<div class="box-inner pd5">
+																		<div ><div class="gr-main">
+																					<div class="gr-bd gr-3 gutter-15"><div class="gr-b">
+																								<div class="gr-in"><div class="item-box" style="border-bottom : 1px solid #EDEDED;margin-bottom : 12px;min-height: 77px;">
+																							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/sony/tablet-computers/sony-sgp312gb-xperia-tablet-z-32gb-wifi-in-black-pd-16427.php" title="Sony SGP312GB Xperia Tablet Z 32GB WiFi in Black"><img src="http://www.hispek.com/sysimages/rszleftrightimages/SGP312GB-2_pr16427_1.jpg" border="0" style="margin-top:4px" title="Sony SGP312GB Xperia Tablet Z 32GB WiFi in Black" alt="Sony SGP312GB Xperia Tablet Z 32GB WiFi in Black" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/sony/tablet-computers/sony-sgp312gb-xperia-tablet-z-32gb-wifi-in-black-pd-16427.php" title="Sony SGP312GB Xperia Tablet Z 32GB WiFi in Black">Sony SGP312GB Xperia Tablet Z 32GB WiFi ...</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">399</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>																						</div></div></div><div class="gr-b">
+																								<div class="gr-in"><div class="item-box" style="border-bottom : 1px solid #EDEDED;margin-bottom : 12px;min-height: 77px;">
+																							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn8010zwabtu-galaxy-note-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-17454.php" title="Samsung GTN8010ZWABTU Galaxy Note 10.1 Tablet White with Wi-Fi and 16GB Hard Drive"><img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN8010ZWABTU-1_pr17454_1.jpg" border="0" style="margin-top:0px" title="Samsung GTN8010ZWABTU Galaxy Note 10.1 Tablet White with Wi-Fi and 16GB Hard Drive" alt="Samsung GTN8010ZWABTU Galaxy Note 10.1 Tablet White with Wi-Fi and 16GB Hard Drive" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn8010zwabtu-galaxy-note-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-17454.php" title="Samsung GTN8010ZWABTU Galaxy Note 10.1 Tablet White with Wi-Fi and 16GB Hard Drive">Samsung GTN8010ZWABTU Galaxy Note 10.1 T...</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">349</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>																						</div></div></div><div class="gr-b">
+																								<div class="gr-in"><div class="item-box" style="border-bottom : 1px solid #EDEDED;margin-bottom : 12px;min-height: 77px;">
+																							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/samsung/tablet-computers/samsung-gtn8010eaabtu-galaxy-note-10-1-tablet-grey-with-wi-fi-and-16gb-hard-drive-pd-17726.php" title="Samsung GTN8010EAABTU Galaxy Note 10.1 Tablet Grey with Wi-Fi and 16GB Hard Drive"><img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN8010EAABTU-2_pr17726_1.jpg" border="0" style="margin-top:0px" title="Samsung GTN8010EAABTU Galaxy Note 10.1 Tablet Grey with Wi-Fi and 16GB Hard Drive" alt="Samsung GTN8010EAABTU Galaxy Note 10.1 Tablet Grey with Wi-Fi and 16GB Hard Drive" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/samsung/tablet-computers/samsung-gtn8010eaabtu-galaxy-note-10-1-tablet-grey-with-wi-fi-and-16gb-hard-drive-pd-17726.php" title="Samsung GTN8010EAABTU Galaxy Note 10.1 Tablet Grey with Wi-Fi and 16GB Hard Drive">Samsung GTN8010EAABTU Galaxy Note 10.1 T...</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">339</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>																						</div></div></div><div class="gr-b">
+																								<div class="gr-in"><div class="item-box" style="border-bottom : 1px solid #EDEDED;margin-bottom : 12px;min-height: 77px;">
+																							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtp5210zwabtu-galaxy-tab-iii-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-16916.php" title="Samsung GTP5210ZWABTU Galaxy Tab III 10.1&#039;&#039; Tablet White with Wi-Fi and 16GB Hard Drive"><img src="http://www.hispek.com/sysimages/rszleftrightimages/GTP5210ZWABTU-1_pr16916_1.jpg" border="0" style="margin-top:2px" title="Samsung GTP5210ZWABTU Galaxy Tab III 10.1&#039;&#039; Tablet White with Wi-Fi and 16GB Hard Drive" alt="Samsung GTP5210ZWABTU Galaxy Tab III 10.1&#039;&#039; Tablet White with Wi-Fi and 16GB Hard Drive" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtp5210zwabtu-galaxy-tab-iii-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-16916.php" title="Samsung GTP5210ZWABTU Galaxy Tab III 10.1&#039;&#039; Tablet White with Wi-Fi and 16GB Hard Drive">Samsung GTP5210ZWABTU Galaxy Tab III 10....</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">299</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>																						</div></div></div><div class="gr-b">
+																								<div class="gr-in"><div class="item-box" style="border-bottom : 1px solid #EDEDED;margin-bottom : 12px;min-height: 77px;">
+																							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn5110zwabtu-galaxy-note-8-tablet-with-wi-fi-and-16gb-hard-drive-pd-17520.php" title="Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Tablet with Wi-Fi and 16GB Hard Drive"><img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN5110ZWABTU-1_pr17520_1.jpg" border="0" style="margin-top:0px" title="Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Tablet with Wi-Fi and 16GB Hard Drive" alt="Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Tablet with Wi-Fi and 16GB Hard Drive" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn5110zwabtu-galaxy-note-8-tablet-with-wi-fi-and-16gb-hard-drive-pd-17520.php" title="Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Tablet with Wi-Fi and 16GB Hard Drive">Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Ta...</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">299</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>																						</div></div></div><div class="clear">&nbsp;</div></div>
+																	</div></div></div>
+																</div>
+															</div></div>
+												</div><div class="clear">&nbsp;</div></div>
+										</div></div></div><div class="clearfloat"></div>
+						</div></div></div><div class="clearfloat"></div></div><div class="box-typ3 crv pd10 mrg15-B">
+		<span class="box-typ3-crv"><span class="lt">&nbsp;</span>
+<span class="lb">&nbsp;</span>
+<span class="rt">&nbsp;</span>
+<span class="rb">&nbsp;</span></span>
+		<div class="f-blue pos-rel mrg10-B"><strong>Recently viewed items</strong></div>
+		<div class="box-inner pd5 recentproduct-slider">
+			<div id="recentproduct-slider-js" style="width:232px;"><div class="item-box">
+							<div class="probox-typ4">
+	<div class="probox-bd"><div class="image">
+			<a href="http://www.hispek.com/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php" title="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive"><img src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-pr17727_pr17727_1.jpg" border="0" style="margin-top:5px" title="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive" alt="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive" /></a>
+		</div><div class="info"><h6 class="name"><a href="http://www.hispek.com/samsung/tablet-computers/samsung-smp6000zkabtu-galaxy-note-10-1-2014-edition-tablet-in-jet-black-wifi-with-16gb-hard-drive-pd-17727.php" title="Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039; 2014 Edition Tablet in Jet Black - WiFi with 16GB Hard Drive">Samsung SMP6000ZKABTU Galaxy Note 10.1&#039;&#039;...</a></h6><div class="price">
+					<span class="our">
+						<span class="currency">&pound;</span>
+						<b class="integer">429</b><span class="decimal">.00</span>
+					</span>
+				</div></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>						</div></div>
+		</div>
+	</div><div id="footer"><div class="ft-newsletter-bd">
+    	<div class="ft-newsletter">
+			<form name="frmNewsLetter" method="post" action="http://www.hispek.com/newsletter.php">
+				<span class="txt txt-join-newsletter">Join our newsletter</span>
+				<input type="text" name="txtNLEmail" id="txtNLEmail" class="searchbox" value="Your Email Address"
+					onblur="if(!notEmpty(this,null,false,true)) this.value='Your Email Address';" onfocus="if(this.value=='Your Email Address') this.value=''" />
+				<input type="button" id="Fbarnewsletter1" onclick="javascript:this.form.submit();" title="Subscribe" class="btn1 subscribebtn" />
+			</form>
+		</div>
+    </div><div class="footer-link">
+					<div class="gr-main">
+					<div id="bbcontainer">
+						<div id="tradingname">Hispek is a registered trade mark of Strangewood Ltd</div>
+						<br clear="all">
+						<div id="socialbkmrks">
+							<a href="http://www.hispek.com/blog/?source=hispek&utm_source=hispek&utm_medium=homepage&utm_term=blog" target="_blank"><img src="/images/blog.jpg" alt="follow Hispek Blog" width="31" height="33" border="0" class="socialiconhp"></a>
+							<a href="https://www.pinterest.com/hispek/" target="_blank"><img src="/images/pinterest.jpg" alt="follow Hispek on Pinterest" width="31" height="33" border="0" class="socialiconhp"></a>
+							<a href="https://plus.google.com/+hispek/" target="_blank"><img src="/images/googleplus.jpg" alt="follow Hispek on Google Plus" width="31" height="33" border="0" class="socialiconhp"></a>
+							<a href="http://www.youtube.com/user/HispekElectronics?feature=mhee" target="_blank"><img src="/images/youtube.jpg" alt="follow Hispek on Youtube for the latest Home Appliance and Electronic Videos" width="31" height="33" border="0" class="socialiconhp"></a>
+							<a href="https://twitter.com/hispekonline" target="_blank"><img src="/images/twitter.jpg" alt="follow Hispek on Twitter" width="31" height="33" border="0" class="socialiconhp"></a>
+							<a href="https://www.facebook.com/hispekelectronics" target="_blank"><img src="/images/facebook.jpg" alt="follow Hispek on Facebook" width="31" height="33" border="0" class="socialiconhp"></a>
+						</div>
+					</div>
+					
+						<div class="gr-bd gr-4 gutter-10"><div class="gr-b">
+				<div class="gr-in">
+					<span class="ft-lnk">
+						<strong class="ft-title">About Us</strong><a href="http://www.hispek.com/social.php"  title="Social">
+								Social							</a><br /><a href="http://www.hispek.com/aboutus.php"  title="About Hispek Electronics">
+								About Hispek Electronics							</a><br /><a href="http://www.hispek.com/contacting_us.php"  title="Contact Us">
+								Contact Us							</a><br /><a href="http://www.hispek.com/careers.php"  title="Careers">
+								Careers							</a><br /><a href="http://www.hispek.com/termsandconditions.php"  title="Terms and Conditions">
+								Terms and Conditions							</a><br /><a href="http://www.hispek.com/privacypolicy.php"  title="Privacy Policy">
+								Privacy Policy							</a><br /><a href="http://www.hispek.com/mobile/"  title="Mobile Site">
+								Mobile Site							</a><br /></span>
+				</div>
+			</div><div class="gr-b">
+				<div class="gr-in">
+					<span class="ft-lnk">
+						<strong class="ft-title">Help</strong><a href="http://www.hispek.com/sitemap.php"  title="Sitemap">
+								Sitemap							</a><br /><a href="http://www.webgains.com/signup.html?programid=2903&action=stepzero"  target='_blank'  title="Join our Affiliate Program">
+								Join our Affiliate Program							</a><br /><a href="http://www.hispek.com/jargon_buster.php"  title="Jargon Buster">
+								Jargon Buster							</a><br /><a href="http://www.hispek.com/help.php"  title="FAQs">
+								FAQs							</a><br /><a href="http://www.hispek.com/deliverypage.php"  title="Delivery Information">
+								Delivery Information							</a><br /><a href="http://www.hispek.com/tv_buying_guide.php"  title="TV Buying Guide">
+								TV Buying Guide							</a><br /><a href="http://www.hispek.com/installation__connection.php"  title="Installation & Connection">
+								Installation & Connection							</a><br /></span>
+				</div>
+			</div><div class="gr-b">
+				<div class="gr-in">
+					<span class="ft-lnk">
+						<strong class="ft-title">Our Store</strong><a href="http://www.hispek.com/finance_form.php"  title="Finance">
+								Finance							</a><br /><a href="http://www.hispek.com/store_finder.php"  title="Store Finder">
+								Store Finder							</a><br /><a href="http://www.hispek.com/contacting_us.php"  title="Contact the store directly">
+								Contact the store directly							</a><br /><a href="http://www.hispek.com/price_promise.php"  title="Hispek Price Promise">
+								Hispek Price Promise							</a><br /></span>
+				</div>
+			</div><div class="clear">&nbsp;</div>
+					</div>
+				</div>
+			</div><div class="ft-data"><div class="ft-pro-ls">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tbl-pro-ls"><tr>
+								<td width="14%" valign="top"><strong>Popular Brands  :</strong>&nbsp;&nbsp;</td>
+								<td width="86%" valign="top"><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-dyson-cleaners-at-hispek-pc-892.php#"  title="Dyson">Dyson</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Neff-bb-50.php"  title="Neff">Neff</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/AEG-bb-5.php"  title="AEG">AEG</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Bosch-bb-13.php"  title="Bosch">Bosch</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Miele-bb-46.php"  title="Miele">Miele</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Hotpoint-bb-36.php"  title="Hotpoint">Hotpoint</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Sony-bb-66.php"  title="Sony">Sony</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Samsung-bb-62.php"  title="Samsung">Samsung</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/LG-bb-40.php"  title="LG">LG</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Panasonic-bb-53.php"  title="Panasonic">Panasonic</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/Bose-bb-14.php"  title="Bose">Bose</a></td>
+							</tr><tr>
+								<td width="14%" valign="top"><strong>Popular Categories  :</strong>&nbsp;&nbsp;</td>
+								<td width="86%" valign="top"><a href="http://www.hispek.com/tv-blu-ray-dvd-televisions-3d-televisions-pc-32.php"  title="3D Televisions">3D Televisions</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/kitchen-home-appliances-laundry-washing-machines-pc-201.php"  title="Washing Machines">Washing Machines</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/television-blu-ray-dvd-televisions-pc-29.php"  title="LED Televisions">LED Televisions</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/kitchen-home-appliances-dishwashers-freestanding-dishwashers-pc-185.php"  title="Freestanding Dishwashers">Freestanding Dishwashers</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/kitchen-home-appliances-vacuum-cleaners-cylinder-vacuum-cleaners-pc-61.php"  title="Cylinder Vacuum Cleaners">Cylinder Vacuum Cleaners</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/kitchen-home-appliances-built-in-built-in-ovens-pc-39.php"  title="Built in Ovens">Built in Ovens</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/kitchen-home-appliances-laundry-tumble-dryers-pc-193.php"  title="Tumble Dryers">Tumble Dryers</a><span class="sep-ft"> | </span><a href="http://www.hispek.com/hi-fi-home-cinema-home-cinema-systems-pc-344.php"  title="Home Cinema">Home Cinema</a></td>
+							</tr></table>
+			</div><span class="ft-logo1">
+    	<img src="http://www.hispek.com/images/payment_logos.png" border="0" />
+    </span>
+	</div>
+	<a href="#maintop" title="Go to top" class="btn1 backtotopbtn">Go to top</a>
+
+</div>
+<script src="http://www.hispek.com/js/jquery.tools.min.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.hispek.com/js/jquery-ui-1.10.0.custom.min.js"></script>
+<script src="http://www.hispek.com/js/bx-sllider.js" type="text/javascript" language="javascript"></script>
+<script src="http://www.hispek.com/js/design-global.js" type="text/javascript" language="javascript"></script>
+<script src="http://www.hispek.com/js/megamenu_new.js" type="text/javascript" language="javascript"></script><script type="text/javascript">
+
+// all tabs js case
+$(document).ready(function() {
+	$(".tabs-js").tabs(".tb-pane-bd-js > .pane", {
+	current: 'selected'
+	});
+});
+
+
+		$(document).ready(function(){
+
+			//For main filters
+			jQuery(".title-js").removeClass('up').next(".option-js").css({'display':'none'});
+			if(jQuery(".title-js").eq(0).attr("title") == "Status") {
+				jQuery(".title-js").eq(0).addClass('up').next(".option-js").css({'display':'block'});
+				jQuery(".title-js").eq(1).addClass('up').next(".option-js").css({'display':'block'});
+			}
+			else {
+				jQuery(".title-js").eq(0).addClass('up').next(".option-js").css({'display':'block'});
+			}
+
+			jQuery(".title-js").click(function(){
+
+				jQuery(this).next(".option-js").slideToggle("slow").siblings(".option-js:visible").slideUp("slow");
+
+				if(jQuery(this).hasClass("up"))
+					jQuery(this).toggleClass("up");
+				else
+					jQuery(this).addClass("up");
+
+			});
+
+			$(".sb-filter form").each(function(){
+
+				if($(this).attr('id') != "frmSideAtt")
+				{
+					var curObj = $(this);
+					$(this).find(".sb-fields .sb-chkbox").each(function(){
+
+						if($(this).attr("checked") == "checked")
+						{
+							curObj.find('.option-js').css({'display':'block'});
+						}
+
+					});
+				}
+
+			});
+
+
+			//For attribute section
+			jQuery("#divAttribute .title-js1").removeClass('up').next(".option-js1").css({'display':'none'});
+
+			var attrCheckFlag = 0;
+
+			jQuery("#divAttribute .title-js1").each(function(){
+
+				var curObj = $(this);
+
+				$(this).next(".option-js1").find(".sb-chkbox").each(function(){
+					if(attrCheckFlag == 0)
+					{
+						if($(this).attr("checked") == "checked")
+						{
+
+							curObj.next(".option-js1").css({'display':'block'});
+							curObj.addClass("up");
+							attrCheckFlag = 1;
+						}
+					}
+				});
+				attrCheckFlag = 0;
+			});
+
+			jQuery("#divAttribute .title-js1").click(function(){
+
+				jQuery(this).next(".option-js1").slideToggle("slow");
+
+				if(jQuery(this).hasClass("up"))
+					jQuery(this).toggleClass("up");
+				else
+					jQuery(this).addClass("up");
+
+			});
+
+
+		});
+
+
+//sidebar case
+//ddaccordion.init({ headerclass: "title-js", contentclass: "option-js", revealtype: "click", mouseoverdelay: 200, collapseprev: false, defaultexpanded: [0], onemustopen: false, animatedefault: false, persiststate: true, toggleclass: ["", "up"], togglehtml: ["none", "", ""], animatespeed: "fast", oninit:function(expandedindices){ }, onopenclose:function(header, index, state, isuseractivated){} })
+
+</script>
+
+<script language="javascript">
+  $(document).ready(function() {
+	$('a[title="Cookie & Privacy Policy"]').css("color","#cc0000");
+  });
+</script>
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancy_splash.js"></script>
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/jquery.cookie.js"></script>
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+			<link rel="stylesheet" href="http://www.hispek.com/js/fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
+			<link rel="stylesheet" href="http://www.hispek.com/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+			<link rel="stylesheet" href="http://www.hispek.com/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+			<script type="text/javascript" language="javascript" src="http://www.hispek.com/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+<script type="text/javascript">
+    (function () {
+    var _tsid = 'X5E7C35326661A3FB38EF30D07B1850C3';
+    _tsConfig = {
+        'yOffset': '0', //offset from page bottom
+        'variant': '', // small, text, empty = normal
+    };
+    var _ts = document.createElement('script');
+    _ts.type = 'text/javascript';
+    _ts.async = true;
+    _ts.src = '//widgets.trustedshops.com/js/' + _tsid + '.js';
+    var __ts = document.getElementsByTagName('script')[0];
+    __ts.parentNode.insertBefore(_ts, __ts);
+    })();
+</script>
+<noscript><a href="https://www.trustedshops.de/shop/certificate.php?shop_id=X5E7C35326661A3FB38EF30D07B1850C3"><img title="Trusted Shops trustmark - click to verify." src="//widgets.trustedshops.com/images/badge.png" style="position:fixed;bottom:0;right:0;" /></a></noscript>
+
+<script type="text/javascript">
+
+// Reevoo Review case
+$(document).ready(function(){
+	// Done with inteval
+
+		//$('.review-box').css({'display':'none'});
+
+		var interval = setInterval(function(){
+
+			$('.rightbox').each(function(){
+
+				if($(this).find('div').hasClass('reevoomark_badge'))
+				{
+					//alert($(this).attr('class') + " == >> " + $(this).find('div').attr('id'));
+					if($(this).find('div .reevoomark_badge a:last').hasClass('ask_an_owner'))
+					{
+						//$(this).find('div .reevoomark_badge').addClass('ask');
+						if(document.getElementById('askanowner')) {
+							$("#askanowner").css({'display':''});
+						}
+					}
+					//$(this).css({'display':'block'});
+					//$(".rightbox").css({'display':'block'});
+
+					if(document.getElementById('review')) {
+						$("#review").css({'display':''});
+					}
+				}
+				else {
+
+					$(this).attr({'class':''});
+					$(this).find('span').remove();
+				}
+			});
+
+			clearInterval(interval);
+
+		},2000);
+
+
+	});
+
+</script>
+
+<script src="http://mark.reevoo.com/reevoomark/ESC.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8"> ReevooMark.init_badges(); </script></div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" class="custom-overlay2 custom-popup-js1" style="display:none;">
+        <tr>
+            <td valign="top" class="overlay-box overlaytd">
+				<div class="w-height">
+                <div id="shoppingcartpopup-bd">
+                 <a href="#" class="closebtn1 closebtn-js">Close</a><div class="hd-bd"><span class="cart-hd">1 item was added to your basket</span></div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="mrg10-B">
+							  <tr>
+								<td width="50%" align="left">
+									<div class="cart-imgbox">
+									<img src="http://www.hispek.com/sysimages/rszleftrightimages/SMP6000ZKABTU-pr17727_pr17727_1.jpg" style="margin-top:5;"/>
+									</div><div class="name-price">
+										<span class="cart-itemname">Samsung&nbspSMP6000ZKABTU</span><br />
+										 <span class="cart-price">&pound;429.00</span>
+									</div>
+
+								</td>
+								<td align="right" valign="middle">
+									<a href="https://www.hispek.com/shoppingcart.php" class="btn2 proceedtocheckoutbtn" title="Proceed to Checkout">proceed to checkout</a>
+								</td>
+							  </tr>
+							</table><!--  ITEMS CART  -->
+					<div class="box-typ19 cart-probox-typ3 mrg15-B minus10-LR">
+						<table width="100%" cellspacing="0" cellpadding="0" border="0" class="cart-tbl5">
+							<tbody></tbody>
+						</table></div><br /><div class="head head-typ2">You may also be interested in
+							<span class="cor-l">&nbsp;</span>
+						</div>
+        				<div class="clear">&nbsp;</div>
+						<div class="probox-typ8">
+						 <div class="vr-scroller-typ2"><div class="scroll-pane"><div class="mrg7-R">
+									<div class="gr-main">
+											<div class="gr-bd gr-2 gutter-15"><div class="gr-b">
+														<div class="gr-in">
+															<div class="pro-bd">
+																<div class="pro-imgbox">
+																<img src="http://www.hispek.com/sysimages/rszleftrightimages/SGP312GB-2_pr16427_1.jpg" style="margin-top:4px;" />
+																</div>
+																<div class="pro-info">
+																	<div class="pro-name">
+																	Sony SGP312GB Xperia Tablet Z 32GB WiFi ...																	</div><div class="our">
+																			<span class="currency">&pound;</span>
+																			<span id="spnInsFixprice" class="integer">399</span><span class="decimal">.00</span>
+																			<a href="http://www.hispek.com/sony/tablet-computers/sony-sgp312gb-xperia-tablet-z-32gb-wifi-in-black-pd-16427.php" class="btn2 buynowbtn" title="Buy Now">Buy Now</a>
+																		</div></div>
+
+															</div>
+														</div>
+													</div><div class="gr-b">
+														<div class="gr-in">
+															<div class="pro-bd">
+																<div class="pro-imgbox">
+																<img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN8010ZWABTU-1_pr17454_1.jpg" style="margin-top:0px;" />
+																</div>
+																<div class="pro-info">
+																	<div class="pro-name">
+																	Samsung GTN8010ZWABTU Galaxy Note 10.1 T...																	</div><div class="our">
+																			<span class="currency">&pound;</span>
+																			<span id="spnInsFixprice" class="integer">349</span><span class="decimal">.00</span>
+																			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn8010zwabtu-galaxy-note-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-17454.php" class="btn2 buynowbtn" title="Buy Now">Buy Now</a>
+																		</div></div>
+
+															</div>
+														</div>
+													</div><div class="clear">&nbsp;</div><div class="gr-b">
+														<div class="gr-in">
+															<div class="pro-bd">
+																<div class="pro-imgbox">
+																<img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN8010EAABTU-2_pr17726_1.jpg" style="margin-top:0px;" />
+																</div>
+																<div class="pro-info">
+																	<div class="pro-name">
+																	Samsung GTN8010EAABTU Galaxy Note 10.1 T...																	</div><div class="our">
+																			<span class="currency">&pound;</span>
+																			<span id="spnInsFixprice" class="integer">339</span><span class="decimal">.00</span>
+																			<a href="http://www.hispek.com/samsung/tablet-computers/samsung-gtn8010eaabtu-galaxy-note-10-1-tablet-grey-with-wi-fi-and-16gb-hard-drive-pd-17726.php" class="btn2 buynowbtn" title="Buy Now">Buy Now</a>
+																		</div></div>
+
+															</div>
+														</div>
+													</div><div class="gr-b">
+														<div class="gr-in">
+															<div class="pro-bd">
+																<div class="pro-imgbox">
+																<img src="http://www.hispek.com/sysimages/rszleftrightimages/GTP5210ZWABTU-1_pr16916_1.jpg" style="margin-top:2px;" />
+																</div>
+																<div class="pro-info">
+																	<div class="pro-name">
+																	Samsung GTP5210ZWABTU Galaxy Tab III 10....																	</div><div class="our">
+																			<span class="currency">&pound;</span>
+																			<span id="spnInsFixprice" class="integer">299</span><span class="decimal">.00</span>
+																			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtp5210zwabtu-galaxy-tab-iii-10-1-tablet-white-with-wi-fi-and-16gb-hard-drive-pd-16916.php" class="btn2 buynowbtn" title="Buy Now">Buy Now</a>
+																		</div></div>
+
+															</div>
+														</div>
+													</div><div class="clear">&nbsp;</div><div class="gr-b">
+														<div class="gr-in">
+															<div class="pro-bd">
+																<div class="pro-imgbox">
+																<img src="http://www.hispek.com/sysimages/rszleftrightimages/GTN5110ZWABTU-1_pr17520_1.jpg" style="margin-top:0px;" />
+																</div>
+																<div class="pro-info">
+																	<div class="pro-name">
+																	Samsung GTN5110ZWABTU Galaxy Note 8&#039;&#039; Ta...																	</div><div class="our">
+																			<span class="currency">&pound;</span>
+																			<span id="spnInsFixprice" class="integer">299</span><span class="decimal">.00</span>
+																			<a href="http://www.hispek.com/computing-tablet-computers/samsung/samsung-gtn5110zwabtu-galaxy-note-8-tablet-with-wi-fi-and-16gb-hard-drive-pd-17520.php" class="btn2 buynowbtn" title="Buy Now">Buy Now</a>
+																		</div></div>
+
+															</div>
+														</div>
+													</div><div class="clear">&nbsp;</div></div>
+										</div>
+								 </div>
+							  </div>
+						  </div>
+						</div></div>
+                </div>
+            </td>
+        </tr>
+    </table><script src="http://www.hispek.com/js/jquery.mousewheel.js" type="text/javascript" language="javascript"></script>
+		<script src="http://www.hispek.com/js/jquery.jscrollpane.min.js" type="text/javascript" language="javascript"></script>
+		<script type="text/javascript" charset="utf-8">
+			ReevooMark.observe("click", function(rm){_gaq.push(['_trackEvent', 'Reevoo', rm.product.sku])});
+			ReevooMark.init_badges();
+		</script>
+		<script type="text/javascript">
+			//<![CDATA[
+			ddaccordion.init({ headerclass: "expandbox", contentclass: "collapase", revealtype: "click", mouseoverdelay: 200, collapseprev: true, defaultexpanded: false, onemustopen: false, animatedefault: false, persiststate: false, toggleclass: ["", "up"], togglehtml: ["none", "", ""], animatespeed: "fast", oninit:function(expandedindices){ }, onopenclose:function(header, index, state, isuseractivated){} })
+			//]]>
+		</script>
+
+		<script type="text/javascript">
+				$(document).ready(function() {
+
+
+				});
+
+		//<![CDATA[
+
+			//Onload Addto Cart popup
+			// If isset flagAddCart then we will be dispplay this popup
+			
+			$(document).ready(function() {
+				$('.vr-scroller-typ1 .scroll-pane').jScrollPane({autoReinitialise: true});
+				$('.vr-scroller-typ2 .scroll-pane').jScrollPane({autoReinitialise: true});
+
+			});
+
+		   $(document).ready(function(){
+
+				$(".youtube.openvideopopup, #slider2 .openvideopopup").colorbox({
+					inline:true,
+					href:"#detail-popup",
+					onOpen: function(){
+						$("#detail-popup").find('iframe').attr('src',$(this).attr('href'));
+					}
+				});
+
+				$(".watchvideobtn.openvideopopup").colorbox({
+					inline:true,
+					href:"#video-popup",					
+					onOpen: function(){
+						$("#video-popup").find('iframe').attr('src',$(this).attr('href'));
+					}
+				});
+
+				var flagPopup = false;
+				
+								
+
+				$(".reserveitembtn.openreservepopup").colorbox({
+					width:"60%",
+					inline:true,
+					href:"#reserve-popup",
+					open:flagPopup
+				});
+
+
+				$("#slider1 .item-box .openimgpopup").colorbox();
+
+				
+
+			});
+
+
+			//JavaScript goes here
+
+		//]]>
+
+		</script>
+
+		<script type="text/javascript" language="javascript" >
+
+			$(document).ready(function() {/*this js is used at sidebar to show hide verticle scroller for shop by producer*/
+				$(".shopbyproducer-js").each(function(index, domEle){
+
+					var domHeight=$(domEle).height();
+					if(domHeight>600){
+					$(".shopbyproducer-js").addClass('sb-vr-scroller-js1');
+					$(".vr-scroller2 .scroll-pane").height(600);
+					$('.sb-vr-scroller-js1 .scroll-pane').jScrollPane({scrollbarWidth:5, showArrows:false});
+					$('.sb-vr-scroller-js1 .scroll-pane').wrap($("<div></div>").attr({'className':'scroll-pane-overflow'}) );
+					$(".vr-scroller2 .scroll-pane-overflow").height(600);
+
+					}
+					else{
+						$(".vr-scroller2 .scroll-pane, .vr-scroller2 .scroll-pane-overflow ").css({height: "auto"});
+						}
+
+				});
+			});
+
+			$(document).ready(function(){
+
+				$("#slider1 .item-box").each(function(){
+
+					if($(this).find("span").hasClass("openvideopopup"))
+					{
+						var newsrc = $(this).find("span.openvideopopup iframe.video-object").attr('src') + "?wmode=opaque";
+						$(this).find("span.openvideopopup iframe.video-object").attr('src',newsrc);
+
+						$(this).hover(function(){
+							$(this).find("span.enlargebtn").css({'display':'block'});
+						},function(){
+							$(this).find("span.enlargebtn").css({'display':'none'});
+						})
+					}
+				});
+
+				//Examples of how to assign the ColorBox event to elements
+				$("#slider1 .item-box .openvideopopup").colorbox({
+					inline:true,
+					href:"#detail-popup",
+					onOpen: function(){
+
+						if($(".pager-active").index() == 0)
+						{
+							$("#detail-popup").html($('#slider1 .item-box').eq($(".pager-active").index()).html());
+						}
+						else
+						{
+							$("#detail-popup").html($('#slider1 .item-box').eq($(".pager-active").index() - 1).html());
+						}
+
+						$("#detail-popup .video-object").unwrap();
+						$("#detail-popup").find('span').remove();
+
+					}
+				});
+
+				$("#slider1 .item-box .openimgpopup").colorbox();
+
+			});
+		</script>
+		<script type="text/javascript">
+            //<![CDATA[
+            //FOR CHECKING HEIGHTS OF PROMOTIONAL BANNERS IN PRODUCT DETAILS CASE
+            $(document).ready(function(){
+                if($(".pro-banner-boxbd").find("div").hasClass("pro-bannerbox") && !$(".pro-banner-boxbd").find("div").hasClass("promo-bd"))
+                {
+                    $(".pro-banner-boxbd").height(85)
+					$(".proinfo .probox-bd").css('min-height', '399px')
+                }
+                if(!$(".pro-banner-boxbd").find("div").hasClass("pro-bannerbox") && $(".pro-banner-boxbd").find("div").hasClass("promo-bd"))
+                {
+                    $(".pro-banner-boxbd").height(70)
+					$(".proinfo .probox-bd").css('min-height', '385px')
+                }
+				if($(".pro-banner-boxbd").find("div").hasClass("pro-bannerbox") && $(".pro-banner-boxbd").find("div").hasClass("promo-bd"))
+                {
+					$(".proinfo .probox-bd").css('min-height', '473px')
+                }
+				if($(".voucher-imagebox").find("div").hasClass("pro-bannerbox") && $(".voucher-imagebox").find("div").hasClass("promo-bd"))
+                {
+					$(".proinfo .probox-bd").css('min-height', '385px')
+                }
+            });
+            //]]>
+        </script>
+		<script type="text/javascript">
+		   $(document).ready(function(){
+			//Examples of how to assign the ColorBox event to elements
+			$(".packages-js").colorbox({width:"970", inline:true, href:"#packagebox-js"});
+			});
+		</script><script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/79798.js?r="+Math.random()*1e16+"&m=992&a=79798"+(iatDev?"&d=1":"")))</script>
+
+			<script type="text/javascript">var journeycode='396793fc-cd58-41b4-9ff5-2345d2d5e2b2';var captureConfigUrl='drs2.veinteractive.com/CaptureConfigService.asmx/CaptureConfig'; (function() {     var ve = document.createElement('script'); ve.type = 'text/javascript'; ve.async = true;     ve.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'config1.veinteractive.com/vecapturev7.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ve, s);})();</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-154446-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

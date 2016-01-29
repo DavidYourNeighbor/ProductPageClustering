@@ -1,0 +1,1355 @@
+
+  
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Acer T232HLbmidz 23 Inch LED IPS Touch Screen Monitor | UM.VT2EE.001</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8" /> 
+<meta name="keywords" content="UM.VT2EE.001,Acer,T232HLbmidz,23,Inch,LED,IPS,Touch,Screen,Monitor,10,Point,Touch,for,Windows,8,16:9,Aspect,Ratio,1920,x,1080,Full,HD,Resolution,5ms,response,time,HDMI,DVI-D,and,VGA,Input,Speakers" />
+<meta name="description" content="10 Point Touch for Windows 8, 16:9 Aspect Ratio, 1920 x 1080 Full HD Resolution, 5ms response time, HDMI, DVI-D and VGA Input, Speakers Free delivery on Orders over £50." />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/global-layout.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery.rating.css" rel="stylesheet" type="text/css">
+<link href="/css/prettyPhoto.css" rel="stylesheet" type="text/css">
+<link href="/css/specpage.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/js/jquery.rating.pack.js"></script>
+<script type="text/javascript" src="/js/jquery.carouFredSel-6.0.3-packed.js"></script>
+<script type="text/javascript"> 
+$(document).ready(function() {
+	$('#back-to-top').click(function(){
+		$('html, body').animate({scrollTop:0}, 'slow');
+		return false;
+		});
+});
+
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 790) {
+    	if($(window).width()>1150){
+    		$("#back-to-top").show();	
+    	}
+    	else { 
+    		$("#back-to-top").hide();
+    	}	
+    }
+    else {
+        $("#back-to-top").hide();
+    }
+});
+
+
+</script>
+
+<link href="/css/jquery.gritter.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery.gritter.min.js"></script>
+<script type="text/javascript" src="/js/novatech.js?v5"></script>
+
+<!--[if IE]>
+<link href="/css/ie.css" rel="stylesheet" type="text/css">
+<!-->
+
+
+
+
+
+
+
+
+  
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-151318-1']);
+  _gaq.push(['_setDomainName', '.novatech.co.uk']);
+  _gaq.push(['_setAllowAnchor', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script> 
+<script>
+$(document).ready(function() {
+
+	var url=window.location;
+	var anchor=url.hash;
+	
+	if (anchor=="#reviews"){
+		$("#sub-main").show();
+	}
+	
+	$(function() {
+		 
+	    $("#productsCarousel-small").carouFredSel({
+	    	items: 3,
+
+		auto : false,
+		prev : {	
+			button	: "#productsCarousel-small_prev",
+			key		: "left"
+		},
+		next : { 
+			button	: "#productsCarousel-small_next",
+			key		: "right"
+		},
+		pagination	: "#productsCarousel-small_pag"
+	});
+	});
+	
+	
+	addRecentlyViewed('ACE-T232HL');
+	
+	
+	$("input.star").rating();
+	
+		$("#product-details-page-leftcolumn-share").load("/includes/socialmediaicons.html");
+		
+		$.getScript('http://connect.facebook.net/en_US/all.js', function() {
+			if(FB){
+				FB.init({appId: '', status: true, cookie: true, xfbml: true});
+			}
+			});  
+		
+		$(".css-tabs2").tabs(".css-panes2 > div");
+		
+		
+		
+		
+		
+		  
+			    $("a[rel^='productImage']").prettyPhoto({
+			    	animation_speed: 'fast', /* fast/slow/normal */
+					slideshow: 5000, /* false OR interval time in ms */
+					autoplay_slideshow: false, /* true/false */
+					opacity: 0.80, /* Value between 0 and 1 */
+					show_title: false, /* true/false */
+					allow_resize: true, /* Resize the photos bigger than viewport. true/false */
+					default_width: 500,
+					default_height: 344,
+					counter_separator_label: '/', /* The separator for the gallery counter 1 "of" 2 */
+					theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
+					horizontal_padding: 20, /* The padding on each side of the picture */
+					hideflash: false, /* Hides all the flash object on a page, set to TRUE if flash appears over prettyPhoto */
+					wmode: 'opaque', /* Set the flash wmode attribute */
+					autoplay: true, /* Automatically start videos: True/False */
+					modal: false, /* If set to true, only the close button will close the window */
+					deeplinking: false, /* Allow prettyPhoto to update the url to enable deeplinking. */
+					overlay_gallery: true, /* If set to true, a gallery will overlay the fullscreen image on mouse over */
+					keyboard_shortcuts: true, /* Set to false if you open forms inside prettyPhoto */
+					changepicturecallback: function(){}, /* Called everytime an item is shown/changed */
+					callback: function(){}, /* Called when prettyPhoto is closed */
+					ie6_fallback: true
+			    });
+		
+
+});
+
+var lightbox_resize = false;
+$(window).resize(function() {
+
+if (lightbox_resize)
+    clearTimeout(lightbox_resize);
+lightbox_resize = setTimeout(function() {
+	$.prettyPhoto.changePage('next');
+	$.prettyPhoto.changePage('previous');
+}, 500);
+
+});
+		
+		
+</script>
+
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="container-wrapper">
+<div id="global-container">
+
+
+ 
+<script type="text/javascript">
+function remHover(){
+	$(theEl).removeClass("hovering");
+}
+var hto;
+var theEl;
+ $(document).ready(function() {
+	
+	 socialhide();
+
+	 $(window).scroll(function(){
+		 $(".wintest").css("top",$(".wintest").parent().position().top + 40-$(window).scrollTop());
+		 }); 
+	 
+$("ul#menu li").hover(
+  function () {
+	 	try{
+	  if($(this).attr('class').indexOf("mega")!=-1){
+  clearTimeout(hto);
+  remHover(theEl);
+   $(this).addClass("hovering");
+  	$(".wintest").css("top",$(this).parent().position().top + 45 - $(window).scrollTop()); 
+ 	
+  	var leftHang = $(this).position().left;
+  	var divWidth = 0;
+  	divWidth = $('.wintest:visible').outerWidth();
+  	$('.wintest:visible').each(function(index) {
+  	   $(this).css("width",divWidth);
+  	    
+  	    if($(this).html().length<97){
+  	    	$(this).hide();
+  	    }
+  	});
+  	
+  	if((leftHang+divWidth)>(($(document).width()/2)+495-10)){  		
+  		if ( $.browser.msie ) {
+  			$(".wintest").css("left",(($(document).width() / 2) + 495)-divWidth-20);
+  		}else{
+  			$(".wintest").css("left",(($(document).width() / 2) + 495)-divWidth-10);
+  		}
+  		alert($(".wintest").css());
+  	}else{
+  		$(".wintest").css("left",$(this).position().left);	
+  	}
+
+
+	  }
+	 	}catch(Exception){}
+  },
+  function () { 
+  theEl=this;
+   hto=setTimeout("remHover(this)",100);  
+  
+  }
+);
+
+});
+</script>
+
+<script>
+
+var socTimer;
+
+function socialhide(){
+	if($(window).width()< 1050) {
+		$('#header-social-container').hide();		
+	}	
+	else { 
+		$('#header-social-container').show();		
+	}
+}
+	
+	function socHide(){
+		$(".header-social").width("30px");
+	}
+	
+$(document).ready(function(){
+	
+	$(".header-social").hover(
+			  function () {
+				  $("#debug").html("over");
+				  clearTimeout(socTimer);
+				  $(".header-social").width("140px");
+				  $(this).find(".header-social-info").width("0px");				 
+				  $(this).find(".header-social-info").stop().animate({width:"100px"});
+				   },
+			  function () {	 	
+					$("#debug").html("without");
+			      clearTimeout(socTimer);
+				  socTimer = setTimeout("socHide();", 500);  
+				  $(this).find(".header-social-info").stop().animate({width:'0px'}, 400);
+				 	
+			  }
+			);
+	
+	$('#header-aboutus').click(function(){
+		$("#header-about-us-box").slideDown(300);
+		$("#header-whatwedo-box").hide();
+		$("#header-contact-us-box").hide();
+	});
+	
+	$('#header-about-us-box').mouseleave(function(){
+	$('#header-about-us-box').hide();
+	});
+
+	$('#header-whatwedo').click(function(){
+		$("#header-whatwedo-box").slideDown(300);
+		$("#header-about-us-box").hide();
+		$("#header-contact-us-box").hide();
+	});
+	
+	$('#header-whatwedo-box').mouseleave(function(){
+	$('#header-whatwedo-box').hide();
+	});
+	
+	
+	
+	
+	
+
+	$(window).resize(function() {
+
+		 if ($(this).scrollTop() > 790) {
+	if($(window).width()>1150){
+		
+		$('#back-to-top').show();	
+	}
+	else { 
+		$('#back-to-top').hide();
+	}	
+		 }
+		 
+	socialhide(); 
+		 
+		 });
+	
+
+	
+
+	
+});
+
+	</script>
+
+<div class="promoButtonOuter1"><a href="/promo/amd-neversettleforever.html" target="_blank"><div class="promoButton1"></div></a></div>
+<div class="promoButtonOuter2"><a href="/promo/pitcairn2.html" target="_blank"><div class="promoButton2"></div></a></div>
+<div class="promoButtonOuter3"><a href="/promo/nvidia-daylight.html" target="_blank"><div class="promoButton3"></div></a></div>
+<div class="promoButtonOuter4"><a href="/promo/nvidia-free2play2.html" target="_blank"><div class="promoButton4"></div></a></div>
+<div class="promoButtonOuter5"><a href="/promo/nvidia-metrolastlight.html" target="_blank"><div class="promoButton5"></div></a></div>
+<div class="promoButtonOuter6"><a href="/" target="_blank"><div class="promoButton6"></div></a></div>
+<div class="promoButtonOuter7"><a href="" target="_blank"><div class="promoButton7"></div></a></div>
+<div class="promoButtonOuter8"><a href="" target="_blank"><div class="promoButton8"></div></a></div>
+<div class="promoButtonOuter9"><a href="" target="_blank"><div class="promoButton9"></div></a></div>
+
+<div class="basketOverlay3" id="business-popup" style="z-index: auto; background-image: none; float:left; margin-left:50%; left:-300px; position: absolute; display: none;"><a class="close"></a>
+
+<div id="business-popup-top">
+<h1>Welcome to the <span class="business-popup-bold-text">Novatech Business</span> Site</h1>
+
+<p>We've designed this site to make it easier for you to find what you're looking for so sign in and you can buy on your business account, get instant quotes for POs, request preferred pricing, track your orders and get live product availability.  If you don't have a web account, contact your account manager or fill in the form.</p>
+
+</div>
+
+<div id="business-popup-middle">
+
+<p>If you'd like to open a Novatech Business Account please fill in the form below and a member of the team will be in touch shortly.</p>
+
+</div>
+
+<!-- POPUP FORM -->
+<div id="business-popup-form">
+<script language="javascript">
+
+function checkFormbusiness(){
+	if ($("#n").val().length<1){
+		alert("Please enter a name");
+		return false;
+	}else{
+		if ($("#c").val().length<1){
+		alert("Please enter a Company Name");
+		return false;
+		}else{
+			if ($("#e").val().length<1){
+			alert("Please enter an Email");
+			return false;
+			}else{
+				if ($("#emp").val().length<1){
+					alert("Please enter your number of employees");
+					return false;
+					}else{
+				if ($("#t").val().length<1){
+					alert("Please enter a Contact Number");
+					return false;
+				}else{
+					return true;
+				}
+					}
+			}	
+		}		
+	}
+}
+
+
+
+function submitFormbusiness(){
+
+var name = $("#n").val();
+var company = $("#c").val();
+var email = $("#e").val();
+var tel = $("#t").val();
+var emp = $("#emp").val();
+
+var dataString = 'n='+ escape(name) + '&c=' + escape(company) + '&e=' + escape(email) + '&t=' + escape(tel) + '&emp=' + escape(emp); 
+
+
+   if (checkFormbusiness()){
+    $.ajax({  
+      type: "POST",  
+      url: "/includes/business/businesspopupemail.html",  
+      data: dataString,  
+      success: function() {  
+	  $(".business-form-container").hide();
+                  $(".business-form-thanks").show();
+}    
+    });  
+ 
+	}
+}
+</script>
+
+<div class="business-form-container">
+<!-- ROW -->
+<div class="business-popup-form-row">
+<div class="business-popup-form-row-left">Name</div>
+<div class="business-popup-form-row-right"><input type="text" class="business-popup-form-textbox" name="n" id="n"></div>
+</div>
+<!-- ROW -->
+
+<!-- ROW -->
+<div class="business-popup-form-row">
+<div class="business-popup-form-row-left">Company</div>
+<div class="business-popup-form-row-right"><input type="text" class="business-popup-form-textbox" name="c" id="c"></div>
+</div>
+<!-- ROW -->
+
+<!-- ROW -->
+<div class="business-popup-form-row">
+<div class="business-popup-form-row-left">No. of Employees</div>
+<div class="business-popup-form-row-right">
+<select id="emp">
+<option value="1-10">1-10</option>
+<option value="10-50">10-50</option>
+<option value="50-250">50-250</option>
+<option value="250+">250+</option>
+</select>
+</div>
+</div>
+<!-- ROW -->
+
+<!-- ROW -->
+<div class="business-popup-form-row">
+<div class="business-popup-form-row-left">Email</div>
+<div class="business-popup-form-row-right"><input type="text" class="business-popup-form-textbox" name="e" id="e"></div>
+</div>
+<!-- ROW -->
+
+<!-- ROW -->
+<div class="business-popup-form-row">
+<div class="business-popup-form-row-left">Contact Number</div>
+<div class="business-popup-form-row-right"><input type="text" class="business-popup-form-textbox" name="t" id="t"></div>
+<img src="http://images.novatech.co.uk/website2011/business-popup-submit-button.jpg" onclick="submitFormbusiness();" class="business-popup-submit-button">
+</div>
+<!-- ROW -->
+</div>
+
+<div class="business-form-thanks">
+
+<p>Thank you, a member of the team will be in touch shortly.</p>
+
+</div>
+
+<p class="business-popup-notregistered-text">Already registered? <a onClick="createCookie('businessPop','1',365);" href="/login.html?b=1">Sign In</a></p>
+
+</div>
+<!-- POPUP FORM -->
+
+<div id="business-popup-bottom">
+<a href="javascript:void(0);" onClick="eraseCookie('businessPref');refresh();"><img src="http://images.novatech.co.uk/website2011/not-a-business-customer.jpg" class="business-popup-notbusiness-button"></a>
+<a href="javascript:void(0);" onClick="$('#business-popup').overlay().close();"><img src="http://images.novatech.co.uk/website2011/continue-businesspopup-button.jpg"></a>
+</div>
+
+</div>
+
+<div id="cover" onclick="hideN3D();"></div>
+
+&nbsp;
+
+<!-- SOCIAL ICONS -->
+<div id="header-social-container">
+
+<a href="https://twitter.com/NovatechLtd" target="_blank">
+<div class="header-social">
+<div class="header-social-info"><span>Twitter</span></div>
+<div class="twitter"></div>
+</div>
+</a>
+
+<a href="https://www.facebook.com/NovatechLtd" target="_blank">
+<div class="header-social">
+<div class="header-social-info"><span>Facebook</span></div>
+<div class="facebook"></div>
+</div>
+</a>
+
+<a href="https://www.youtube.com/user/NovatechLTD" target="_blank">
+<div class="header-social">
+<div class="header-social-info"><span>You Tube</span></div>
+<div class="youtube"></div>
+</div>
+</a>
+
+<a href="http://blog.novatech.co.uk" target="_blank">
+<div class="header-social">
+<div class="header-social-info"><span>Blog</span></div>
+<div class="blog"></div>
+</div>
+</a>
+
+<a href="http://forum.novatech.co.uk" target="_blank">
+<div class="header-social">
+<div class="header-social-info"><span>Forum</span></div>
+<div class="forum"></div>
+</div>
+</a>
+
+</div>
+
+
+<!-- NAVBAR CONTAINER -->
+<div id="new-navbar-container">
+
+<div id="new-navbar-container-left">
+<div class="new-header-logo">
+<a href="/"><img src="http://images.novatech.co.uk/website2011/new-header-logo.png"></a></div>
+</div>
+
+<div id="new-navbar-container-right">
+
+<div id="new-header-links">
+
+<ul id="signinlist">
+<li><a href="/contact.html">Help</a></li>
+<li>&#124;</li>
+<li><a href="/myaccount.html">Sign in</a></li>
+<li>&#124;</li>
+<li><a href="/createaccount.html">Sign up</a></li>
+</ul>
+
+</div>
+
+<div id="new-navigation-bar-top">
+
+<div id="header-shop">
+<ul>
+<li><a href="/" class="current">Shop</a></li>
+<li>
+
+<a href="javascript:void(0);" onClick="createCookie('businessPref','1',365);refresh();">Go to our Business Site</a>
+
+</li>
+</ul>
+</div>
+<a href='/basket.html'>
+<div id="mybasket">
+<img src="http://images.novatech.co.uk/website2011/shopping-basket-logo-new.png" class="basket-icon"> 
+<div id="minibasket">
+
+
+
+<span class='basket-entry'>0 item</span> <span class='basket-price'> &pound;0.00</span> <span class='basket-vat'> inc VAT</span>
+
+
+<script language="javascript">
+jsItemsInBasket = 0
+</script>
+
+</div>  
+</div>
+</a>
+<div class="header-search">
+<input type="button" value="" onClick="setSearch();" class="search-submit-new">
+<input type="text" id="searchBox" value="keywords or product code" onFocus="doClear(this)" name="s" autocomplete="off" > 
+<div id="search_suggest"> </div>		
+</div>
+</div>
+
+<!-- BOTTOM NAV -->
+<div id="new-navigation-bar">
+
+<ul id="menu">
+<li class="mega1"><h2><a href="/pc/" class="dropdown">Desktop PCs</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/pc/?s=1" class="menuLink">Everyday use</a></li><li><a href="/pc/?s=2" class="menuLink">Pro</a></li><li><a href="/pc/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/pc/home/" class="menuLink">Home</a></li><li><a href="/pc/business/" class="menuLink">Business</a></li><li><a href="/pc/gaming/" class="menuLink">Gaming</a></li><li><a href="/pc/all/" class="rangeallLink">View all PCs</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Bundles</h2><ul class="nav-list"><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>PC Extras</h2><ul class="nav-list"><li><a href="/products/components/memory-pc/" class="menuLink">Memory - PC</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice &amp; Trackballs</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/carepackinformation.html" class="menuLink">Carepack Information</a></li><li><a href="/clearance.html" class="menuLink">Clearance PCs</a></li><li><a href="/servicecentre" class="menuLink">Repairs</a></li></ul></td></td></tr></table></div><li class="mega2"><h2><a href="/laptop/" class="dropdown">Laptops</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/laptop/?s=1" class="menuLink">Everyday use</a></li><li><a href="/laptop/?s=2" class="menuLink">Pro</a></li><li><a href="/laptop/?s=3" class="menuLink">Ultrabook</a></li><li><a href="/laptop/?s=4" class="menuLink">Slimbook</a></li><li><a href="/laptop/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/laptop/home/" class="menuLink">Home</a></li><li><a href="/laptop/business/" class="menuLink">Business</a></li><li><a href="/laptop/gaming/" class="menuLink">Gaming</a></li></ul><p></p><ul class="nav-list"><li><a href="/laptop/all/" class="rangeallLink">View all Laptops</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Laptop Extras</h2><ul class="nav-list"><li><a href="/products/laptops/laptopaccessories/acadapters/" class="menuLink">Adapters</a></li><li><a href="/products/laptops/laptopaccessories/" class="menuLink">Accessories</a></li><li><a href="/products/laptops/laptopbatteries/" class="menuLink">Batteries</a></li><li><a href="/products/laptops/laptopcases/" class="menuLink">Cases</a></li><li><a href="/products/laptops/laptopaccessories/security/" class="menuLink">Security</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/carepackinformation.html" class="menuLink">Carepack Information</a></li><li><a href="/clearance.html" class="menuLink">Clearance Laptops</a></li><li><a href="/servicecentre" class="menuLink">Repairs</a></li></ul></td></td></tr></table></div><li class="mega3"><h2><a href="/products/tabletpcs/" class="dropdown">Tablets</a></h2><div class='wintest'><table><tr></ul></td></td></tr></table></div><li class="mega4"><h2><a href="/products/components/" class="dropdown">PC Components</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Components</h2><ul class="nav-list"><li><a href="/products/components/casemodsandlighting/" class="menuLink">Case Mods & Lighting</a></li><li><a href="/products/components/cases/" class="menuLink">Cases</a></li><li><a href="/products/components/controllercards/" class="menuLink">Controller Cards</a></li><li><a href="/products/components/cooling/" class="menuLink">Cooling</a></li><li><a href="/products/components/floppydiskdrives/" class="menuLink">Floppy Disk Drives</a></li><li><a href="/products/components/modems/" class="menuLink">Modems</a></li><li><a href="/products/components/motherboards/" class="menuLink">Motherboards</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/components/pctoolsandkits/" class="menuLink">PC Tools & Kits</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/soundcards/" class="menuLink">Sound Cards</a></li><li><a href="/products/components/tvtunercards/" class="menuLink">TV Tuner Cards</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Memory</h2><ul class="nav-list"><li><a href="/products/components/memory-laptop/" class="menuLink">Laptop Memory</a></li><li><a href="/products/components/memory-pc/" class="menuLink">PC Memory</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Processors</h2><ul class="nav-list"><li><a href="/products/components/processors/amd/" class="menuLink">AMD Processors</a></li><li><a href="/products/components/processors/intel/" class="menuLink">Intel Processors</a></li><li><a href="/products/components/cooling/cpucoolers/" class="menuLink">Processor cooling</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Bundles</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/storage/" class="menuLink">Backup Storage</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drive - External</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-internal/solidstate/" class="menuLink">Hard Drives - SSD</a></li><li><a href="/products/digitalcameras/cameramemory/" class="menuLink">Flash Memory Cards</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached Storage</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li><li><a href="/products/components/harddrives-external/harddriveenclosures/" class="menuLink">Hard Drive Enclosures</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Graphics Cards</h2><ul class="nav-list"><li><a href="/products/components/amdradeongraphicscards/" class="menuLink">Graphics - AMD</a></li><li><a href="/products/components/nvidiageforcegraphicscards/" class="menuLink">Graphics - NVIDIA</a></li></ul></td></td></tr></table></div><li class="mega5"><h2><a href="/products/monitors/" class="dropdown">Monitors</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"><li><a href="/products/monitors/17inchmonitors/" class="menuLink">17" Monitors</a></li><li><a href="/products/monitors/19inchmonitors/" class="menuLink">19" Monitors</a></li><li><a href="/products/monitors/20inchmonitors/" class="menuLink">20" Monitors</a></li><li><a href="/products/monitors/22inchmonitors/" class="menuLink">22" Monitors</a></li><li><a href="/products/monitors/23inchmonitors/" class="menuLink">23" Monitors</a></li><li><a href="/products/monitors/24inchmonitors/" class="menuLink">24" Monitors</a></li><li><a href="/products/monitors/27inchmonitors/" class="menuLink">27" Monitors</a></li><li><a href="/products/monitors/28inchplusmonitors/" class="menuLink">28"+ Monitors</a></li><li><a href="/products/monitors/3dmonitors/" class="menuLink">3D Monitors</a></li><li><a href="/products/monitors/cctvmonitors/" class="menuLink">CCTV Monitors</a></li><li><a href="/products/monitors/hardglassmonitors/" class="menuLink">Hard Glass Monitors</a></li><li><a href="/products/monitors/touchscreenmonitors/" class="menuLink">Touch Screen</a></li><li><a href="/products/monitors/monitoraccessories/" class="menuLink">Accessories</a></li></ul></td></td></tr></table></div><li class="mega6"><h2><a href="/products/peripherals/" class="dropdown">Peripherals</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Peripherals</h2><ul class="nav-list"><li><a href="/products/peripherals/desktopkits/" class="menuLink">Desktop Kits</a></li><li><a href="/products/peripherals/graphicstablets/" class="menuLink">Graphics Tablets</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/kvmandswitchboxes/" class="menuLink">KVM & Switch Boxes</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice and Trackballs</a></li><li><a href="/products/peripherals/mousemats/" class="menuLink">Mouse Mats</a></li><li><a href="/products/peripherals/pcjoysticksandcontrollers/" class="menuLink">PC Joysticks & Controllers</a></li><li><a href="/products/peripherals/pduandsurgeprotection/" class="menuLink">PDU & Surge Protection</a></li><li><a href="/products/peripherals/uninterruptiblepowersupplies/" class="menuLink">Uninterruptible Power Supplies</a></li><li><a href="/products/peripherals/usbhubs/" class="menuLink">USB Hubs</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Multimedia</h2><ul class="nav-list"><li><a href="/products/digitalcameras/" class="menuLink">Digital Cameras</a></li><li><a href="/products/soundandvision/mediaextenders/" class="menuLink">Media Extenders</a></li><li><a href="/products/printers/" class="menuLink">Printers</a></li><li><a href="/products/peripherals/microphonesandheadsets/" class="menuLink">Microphones & Headsets</a></li><li><a href="/products/peripherals/scanners/" class="menuLink">Scanners</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li><li><a href="/products/soundandvision/" class="menuLink">Sound & Vision</a></li><li><a href="/products/toysandgadgets/" class="menuLink">Toys & Gadgets</a></li><li><a href="/products/peripherals/webcams/" class="menuLink">Web Cams</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables</h2><ul class="nav-list"><li><a href="/products/cables/" class="rangeallLink">View all</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Consumables</h2><ul class="nav-list"><li><a href="/products/consumables/blankcds/" class="menuLink">Blank CDs</a></li><li><a href="/products/consumables/blankdvds/" class="menuLink">Blank DVDs</a></li><li><a href="/products/consumables/laserprinterconsumables/" class="menuLink">Laser Print Supplies</a></li><li><a href="/products/consumables/printercartridges/" class="menuLink">Printer Cartridges</a></li><li><a href="/products/consumables/printerpaper/" class="menuLink">Printer Paper</a></li><li><a href="/inkandtoner.html" class="menuLink">Ink and Toner Selector</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/components/opticaldrives/externaldvdwriters/" class="menuLink">DVD Writers - External</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li></ul></td></td></tr></table></div><li class="mega7"><h2><a href="/products/networking/" class="dropdown">Networking</a></h2><div class='wintest'><table><tr><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Network</h2><ul class="nav-list"><li><a href="/products/networking/modems/" class="menuLink">Modems</a></li><li><a href="/products/cables/networkingcables/" class="menuLink">Networking Cables</a></li><li><a href="/products/networking/networkinterfacecards/" class="menuLink">Network Interface Cards</a></li><li><a href="/products/networking/networksecurity/" class="menuLink">Network Security</a></li><li><a href="/products/networking/powerline/" class="menuLink">Powerline</a></li><li><a href="/products/networking/printservers/" class="menuLink">Print Servers</a></li><li><a href="/server/" class="menuLink">Servers</a></li><li><a href="/products/networking/switches/" class="menuLink">Switches</a></li><li><a href="/products/networking/wirelessnetworking/" class="menuLink">Wireless Networking</a></li><li><a href="/products/networking/routers/" class="menuLink">Wired Routers</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Extras</h2><ul class="nav-list"><li><a href="/products/networking/bluetooth/" class="menuLink">Bluetooth</a></li><li><a href="/products/networking/cctvandsecurity/" class="menuLink">CCTV & Security</a></li><li><a href="/products/networking/ipsecurity/" class="menuLink">IP Security</a></li><li><a href="/products/networking/iptelephony/" class="menuLink">IP Telephony</a></li><li><a href="/products/networking/kvm/" class="menuLink">KVM</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached Storage</a></li><li><a href="/products/networking/poweroverethernet/" class="menuLink">Power Over Ethernet (PoE)</a></li><li><a href="/products/networking/racksandcabinets/" class="menuLink">Racks & Cabinets</a></li><li><a href="/products/networking/toolsandtoolkits/" class="menuLink">Tools & Tool Kits</a></li><td valign="top" align='left'><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Servers</h2><ul class="nav-list"><li><a href="/server/?s=7" class="menuLink">Rackmount</a></li><li><a href="/server/?s=6" class="menuLink">Tower</a></li><li><a href="/server/?s=9" class="menuLink">Workstation</a></li><li><a href="/server/all/" class="rangeallLink">View all</a></li></ul></td></td></tr></table></div><li class="mega8"><h2><a href="/gaming.html" class="dropdown">Gaming</a></h2><div class='wintest'><table><tr></ul></td></td></tr></table></div><li class="mega9"><h2><a href="/products/software/" class="dropdown">Software</a></h2><div class='wintest'><table><tr></ul></td></td></tr></table></div><li class="mega10"><h2><a href="/deals" class="dropdown">Deals</a></h2><div class='wintest'><table><tr></ul></td></td></tr></table></div>
+</ul>
+     
+ </div>
+<!-- BOTTOM NAV -->
+
+<!-- BOTTOM HEADER -->
+<div id="header-bottom">
+
+<p class="header-callus"><a href="/contact.html">Chat online</a> or Call us <span class="header-callus-bold">023 9232 2500</span> Mon - Fri, 9am - 5pm</p>
+
+
+
+</div>
+<!-- BOTTOM HEADER -->
+
+</div>
+
+</div>
+<!-- NAVBAR CONTAINER -->  
+    
+  
+    
+<div itemprop="breadcrumb" id="breadcrumb-bar">
+<p><a href="/">Home</a>
+<span class="bold_text">&gt;</span> 
+
+<a href="/products/monitors/">Monitors</a> <span class="">&gt;</span><a href="/products/monitors/touchscreenmonitors/">Touch Screen Monitors</a> 
+</p>
+</div>
+
+<div id="product-details-page-container" itemscope itemtype="http://schema.org/Product">
+
+
+<!-- TOP SECTION -->
+<div id="spec-page-top-section">
+
+<!-- TOP LEFT SECTION -->
+<div class="spec-page-section-left">
+
+<div id="product-details-page-leftcolumn-top">
+
+<img src="http://images.novatech.co.uk/acer-um.vt2ee.001.jpg                             " style="width:200px !important;"> 
+
+</div>
+
+<!--  <div id="product-details-page-leftcolumn-imagebuttons"> <img src="http://images.novatech.co.uk/website2011/zoom-image.jpg"> Zoom Image <img src="http://images.novatech.co.uk/website2011/launch-gallery-image.jpg"> Launch Gallery</div> -->
+<div id="product-details-page-leftcolumn-imageicons"> 
+ 
+
+<div id="thumbnails">
+
+<div id="img-thumb-container">
+
+
+
+
+<a href="http://images.novatech.co.uk/acer-um.vt2ee.001_extra1.jpg" rel="productImage[ACE-T232HL]"><img src="http://images.novatech.co.uk/acer-um.vt2ee.001_extra1.jpg" alt="novatech" title="novatech" /></a>
+
+
+<a href="http://images.novatech.co.uk/acer-um.vt2ee.001_extra2.jpg" rel="productImage[ACE-T232HL]"><img src="http://images.novatech.co.uk/acer-um.vt2ee.001_extra2.jpg" alt="novatech" title="novatech" /></a>
+
+
+<a href="http://images.novatech.co.uk/acer-um.vt2ee.001_extra3.jpg" rel="productImage[ACE-T232HL]"><img src="http://images.novatech.co.uk/acer-um.vt2ee.001_extra3.jpg" alt="novatech" title="novatech" /></a>
+
+
+
+</div>
+
+</div>
+
+
+</div>
+
+
+</div>
+<!-- TOP LEFT SECTION -->
+
+<!-- TOP RIGHT SECTION -->
+<div class="spec-page-section-right"> 
+
+
+<!-- SPEC PAGE TOP -->
+<div id="product-details-page-rightcolumn-top">
+
+<!-- LEFT SECTION -->
+<div id="product-details-page-rightcolumn-top-left"> 
+
+<!-- TITLE -->
+<div id="product-details-page-rightcolumn-title">
+
+<h1 itemprop="name">Acer T232HLbmidz 23 Inch LED IPS Touch Screen Monitor                                                                                                                </h1>
+
+</div>
+<!-- TITLE -->
+
+
+<!-- PROD DESCRIPTION -->
+<div id="product-details-page-rightcolumn-desc">
+<div id="product-details-page-rightcolumn-desc-left">
+
+10 Point Touch for Windows 8, 16:9 Aspect Ratio, 1920 x 1080 Full HD Resolution, 5ms response time, HDMI, DVI-D and VGA Input, Speakers
+
+</div> 
+<div class="clearfix"></div>
+</div>
+<!-- PROD DESCRIPTION -->
+
+
+<!-- PRICE SECTION -->
+<div id="product-details-page-rightcolumn-price">
+
+
+
+
+
+<div id="product-details-page-rightcolumn-price-left">
+
+<span class="product-details-page-rightcolumn-price-redprice">&pound;399.29</span><span class="product-details-page-rightcolumn-price-incvat"> inc vat</span>
+
+</div> 
+
+
+</div>
+<!-- PRICE SECTION -->
+
+<!-- REVIEW SECTION -->
+<div id="product-details-page-rightcolumn-reviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+<meta itemprop="ratingValue" content="0">
+<meta itemprop="reviewCount" content="0">
+
+
+<img src="http://images.novatech.co.uk/website2011/homepage-star-empty.jpg" alt="Review Star">
+
+
+
+<img src="http://images.novatech.co.uk/website2011/homepage-star-empty.jpg" alt="Review Star">
+
+
+
+<img src="http://images.novatech.co.uk/website2011/homepage-star-empty.jpg" alt="Review Star">
+
+
+
+<img src="http://images.novatech.co.uk/website2011/homepage-star-empty.jpg" alt="Review Star">
+
+
+
+<img src="http://images.novatech.co.uk/website2011/homepage-star-empty.jpg" alt="Review Star">
+
+
+
+
+<p><a href="#reviews" id="reviewButton2">Write a Review</a></p>
+
+</div>
+<!-- REVIEW SECTION -->
+
+
+
+<!-- STOCKCODE SECTION -->
+<div id="product-details-page-rightcolumn-stockcode">
+
+<p>Order Code: <span class="product-details-page-rightcolumn-codes-bold">
+ACE-T232HL</span></p> <p>Manf.Code: <span class="product-details-page-rightcolumn-codes-bold" itemprop="productID">UM.VT2EE.001                  </span>
+</p>
+<meta itemprop="manufacturer" content="Acer">
+
+</div>
+<!-- STOCKCODE SECTION -->
+
+<div class="clearfix"></div>
+
+</div>
+<!-- LEFT SECTION -->
+
+<!-- RIGHT SECTION -->
+<div id="product-details-page-rightcolumn-top-right"> 
+
+<div id="details-page-rightcolumn-boxes">
+
+
+
+
+
+
+
+<!-- BUY ONLINE BOX -->
+<div id="product-specpage-rightcol-buyonline">
+
+<div class="product-rightcol-top">
+<img src="http://images.novatech.co.uk/website2011/buyonline-basket-icon-new.jpg" class="left-icon">
+<h2>Buy Online</h2>
+</div>
+
+ <span class="buyonline-stockcheck-text">Ordered Upon Request                    </span>
+
+	
+	<span class="specpage-freedelivery-text">Free Delivery</span>
+	
+
+<div class="quantity-basket"><div class="left-quantity">Quantity: <input type="text" class="quantity-button" name="quantity" id="delqty" value="1" /> </div> <div class="right-basket"><A href="javascript:void(0);" onclick="delivery();addBasket('ACE-T232HL',document.getElementById('delqty').value,'0',1);" class="add-to-basket-icon"></A></div></div>
+</div>
+<!-- BUY ONLINE BOX END  -->
+
+<!-- COLLECT @ STORE BOX START  -->
+<div id="product-specpage-rightcol-collectatstore">
+
+<div class="product-rightcol-top">
+<img src="http://images.novatech.co.uk/website2011/collectstore-basket-icon-new.jpg" class="left-icon">
+<h2>Collect @ Store</h2>
+</div>
+
+<p class="greybg-collectatstore-text"><span class="collect-stockcheck-text">Portsmouth : Ordered Upon Request                    </span></p>
+
+<div class="quantity-basket"><div class="left-quantity">Quantity: <input type="text" class="quantity-button" name="quantity" id="collectqty" value="1"/> </div> <div class="right-basket"> <a href="javascript:void(0);" onclick="collection('HBR');addBasket('ACE-T232HL',document.getElementById('collectqty').value,'0',1);" class="order-to-collect"></a></div></div>
+
+</div> <!-- COLLECT @ STORE BOX END  -->
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div>
+<!-- RIGHT SECTION -->
+
+<div class="clearfix"></div>
+
+</div>
+<!-- TOP RIGHT SECTION -->
+
+
+
+<div class="clearfix"></div>
+
+</div>
+<!-- TOP SECTION -->
+
+</div>
+
+<!-- BOTTOM SECTION -->
+<div id="spec-page-bot-section">
+
+<!-- BOTTOM LEFT SECTION -->
+<div class="spec-page-section-left"> 
+
+
+
+
+
+<!--  you may also like section start -->
+<div id="product-details-page-leftcolumn-alsolike">
+
+<h2>You may also like...</h2> 
+
+
+<!-- product row for also like section start -->
+<div class="alsolike-row"> 
+<div class="alsolike-left"><a href="/products/monitors/touchscreenmonitors/plt1731sr-b.html"><img src="http://images.novatech.co.uk/pics/100/iiyama-plt1731sr-b.jpg                            " style="width:90px !important;"></a></div>
+<div class="alsolike-right">
+<div class="alsolike-right-top"><span><a href="/products/monitors/touchscreenmonitors/plt1731sr-b.html">Iiyama T1731SR-B 17" Touchscreen Monitor                                                                                                                             </a></span></div> 
+<div class="alsolike-right-stock"><span class="option-row-instock">Ordered Upon Request                                                                                </span></div>
+<div class="alsolike-right-price"><span class="red-price">&pound;429.56</span><span class="product-details-page-rightcolumn-price-incvat"> inc vat</span></div>
+</div>
+</div>
+<!-- product row for also like section end -->
+
+<!-- product row for also like section start -->
+<div class="alsolike-row"> 
+<div class="alsolike-left"><a href="/products/monitors/touchscreenmonitors/t2336msc-b1.html"><img src="http://images.novatech.co.uk/pics/100/iiyama-t2336msc-b1.jpg                            " style="width:90px !important;"></a></div>
+<div class="alsolike-right">
+<div class="alsolike-right-top"><span><a href="/products/monitors/touchscreenmonitors/t2336msc-b1.html">Iiyama T2336MSC-B1 23 Inch HD LED Touch Screen Monitor                                                                                                               </a></span></div> 
+<div class="alsolike-right-stock"><span class="option-row-instock">1 in stock</span></div>
+<div class="alsolike-right-price"><span class="red-price">&pound;344.99</span><span class="product-details-page-rightcolumn-price-incvat"> inc vat</span></div>
+</div>
+</div>
+<!-- product row for also like section end -->
+
+
+<!-- product row for also like section end -->
+
+</div> <!-- end div to also like section -->
+
+
+
+
+
+</div>
+<!-- BOTTOM LEFT SECTION -->
+
+<!-- BOTTOM RIGHT SECTION -->
+<div class="spec-page-section-right"> 
+
+<!--  BOTTOM TOP SECTION STUFF -->
+
+
+
+<div id="specpage-paybreak-section">
+
+<img src="http://images.novatech.co.uk/website2011/paybreak-logo-small.jpg">
+
+<p>Spend between &pound;100 and &pound;1000 to get your goods before you pay</p>
+
+<a href="/paybreak.html" target="_blank">More information</a>
+
+</div>
+
+
+
+
+
+
+
+
+<!--  BOTTOM TOP SECTION STUFF -->
+
+<!--  SOCIAL MEDIA STUFF -->
+
+<div id="specpage-overview-container">
+
+<div id="product-details-page-leftcolumn-share">
+</div>
+
+<!--  SOCIAL MEDIA STUFF -->
+
+
+	<ul class="css-tabs2">
+		<li><a href="#overview" name="overview" id="overview">Overview</a></li>
+		<li><a href="#spec" name="spec" id="spec">Specification</a></li>
+		
+		
+		<li><a href="#taf" name="taf" id="taf">Tell a Friend</a></li>
+		
+	</ul>
+
+<div class="css-panes2">
+	<div>
+		<p><table>
+<tr>
+<td width="150"><img src="http://www.e-weekly.co.uk/images/garyt/acer/t232hl/touch.jpg" width="350"></img></td>
+<td width="5%"></td>
+<td><b><font size ="4">HD Touch</font></b><br />
+Explore the fun of touch. Adjust the screen as you wish and lock it into position or mount it on the wall. Favourite movie moments are even more touching with Full HD resolution, superb contrast and fast response. Connect to other devices with USB 3.0, VGA, HDMI® or DVI ports.<br><br>
+</td>
+</tr>
+</table>
+<br /><Br />
+<table>
+<tr>
+<td width="150"><img src="http://www.e-weekly.co.uk/images/garyt/acer/t232hl/3D.jpg" width="350"></img></td>
+<td width="5%"></td>
+<td><b><font size ="4">Amazing 3D</font></b><br />
+Experience amazing depth and clarity. Acer's 3D lineup features some of the world's first widescreen monitors to support NVIDIA® 3D LightBoost™ technology, producing an image that's two times brighter and groundbreaking Vision® 2 glasses, which sync wirelessly with Acer 3D monitors to deliver a truly believable and immersive 3D experience.</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="150"><img src="http://www.e-weekly.co.uk/images/garyt/acer/t232hl/focus.jpg" width="350"></img></td>
+<td width="5%"></td>
+<td><b><font size ="4">3D Focus</font></b><br />
+Hardware Calibration is the solution that directly adjusts the monitor’s colour settings to deliver the most accurate colours, rather than adjusting its graphic board to deliver predictable colours. </td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="150"><img src="http://www.e-weekly.co.uk/images/garyt/acer/T232HL/green.jpg" width="350"></img></td>
+<td width="5%"></td>
+<td><b><font size ="4">Green</font></b><br />
+Touch & 3D Series monitors are RoHS compliant and mercury free. You'll see power savings of up to 68% thanks to advanced Acer EcoDisplay technologies and white LED backlighting,1 which cut your costs and conserve the earth's resources. Acer also uses recyclable packaging to further reduce ecological impact.</td>
+</tr>
+</table></p>
+	</div>
+	<div>
+		<p><span class="span10Dgrey"><b>Display</b></span>
+<table style="border: 1px solid #cccccc;" width="95%" align=center cellspacing=0 cellpadding=2>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Monitor Size</td>
+<td class="span10blue" valign="top" width="55%">23"</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Panel Type</td>
+<td class="span10blue" valign="top" width="55%">IPS</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Aspect Ratio</td>
+<td class="span10blue" valign="top" width="55%">16:9</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Resolution (Max)</td>
+<td class="span10blue" valign="top" width="55%">1920 x 1080</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Brightness ( typ.)</td>
+<td class="span10blue" valign="top" width="55%">250 cd/?</td>
+</tr>
+
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Contrast Ratio Typical</td>
+<td class="span10blue" valign="top" width="55%">1000:1</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Viewing Angle</td>
+<td class="span10blue" valign="top" width="55%">178°/178°</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Response Time</td>
+<td class="span10blue" valign="top" width="55%">5ms</td>
+</tr>
+
+</table>
+
+<span class="span10Dgrey"><b>Inputs and Outputs</b></span>
+<table style="border: 1px solid #cccccc;" width="95%" align=center cellspacing=0 cellpadding=2>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Input Connector</td>
+<td class="span10blue" valign="top" width="55%">VGA, DVI-D, HDMI, USB</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Output Connector</td>
+<td class="span10blue" valign="top" width="55%">Headphone Out, Speakers</td>
+</tr>
+
+</table>
+
+<span class="span10Dgrey"><b>Power</b></span>
+<table style="border: 1px solid #cccccc;" width="95%" align=center cellspacing=0 cellpadding=2>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Type</td>
+<td class="span10blue" valign="top" width="55%">Adaptor / 100~240V</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Power Consumption (On mode)</td>
+<td class="span10blue" valign="top" width="55%">25.4W</td>
+</tr>
+
+</table>
+
+<span class="span10Dgrey"><b>Physical Characteristics</b></span>
+<table style="border: 1px solid #cccccc;" width="95%" align=center cellspacing=0 cellpadding=2>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Vesa Mount</td>
+<td class="span10blue" valign="top" width="55%">100 x 100</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Colour</td>
+<td class="span10blue" valign="top" width="55%">Black</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Dimemsions (W x D x H mm)</td>
+<td class="span10blue" valign="top" width="55%">574 x 38 x 420</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Weight with Stand</td>
+<td class="span10blue" valign="top" width="55%">5.7kg</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Weight without Stand</td>
+<td class="span10blue" valign="top" width="55%">5.16kg</td>
+</tr>
+
+</table>
+
+<span class="span10Dgrey"><b>Accessories</b></span>
+<table style="border: 1px solid #cccccc;" width="95%" align=center cellspacing=0 cellpadding=2>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">VGA Cable</td>
+<td class="span10blue" valign="top" width="55%">Included</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">HDMI Cable</td>
+<td class="span10blue" valign="top" width="55%">Included</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">DVI Cable</td>
+<td class="span10blue" valign="top" width="55%">Included</td>
+</tr>
+
+<tr>
+<td class="hNavMain" valign="top" width="45%">Power Cord</td>
+<td class="span10blue" valign="top" width="55%">Included</tr>
+
+</table></p>
+	</div>
+	
+	
+	
+		<div id="taf" class="tellafriend">
+			<p>Why not Tell A Friend about this product, all you need to do is fill out their information below and click send.</p>
+
+		<div class="tellafriend-row"><div class="tellafriend-left"><p>Your Name</p></div> 		 <div class="tellafriend-right"><input type="text" class="dropdown-form-textbox-long" id="taf-yourname" /></div></div>
+		<div class="tellafriend-row"><div class="tellafriend-left"><p>Your Email</p></div>		 <div class="tellafriend-right"><input type="text" class="dropdown-form-textbox-long" id="taf-youremail" /></div></div>
+		<div class="tellafriend-row"><div class="tellafriend-left"><p>Friends Name</p></div>	 <div class="tellafriend-right"><input type="text" class="dropdown-form-textbox-long" id="taf-friendname" /></div></div>
+		<div class="tellafriend-row"><div class="tellafriend-left"><p>Friends Email</p></div>	 <div class="tellafriend-right"><input type="text" class="dropdown-form-textbox-long" id="taf-friendemail" /></div></div>
+		<div class="tellafriend-row"><div class="tellafriend-left"><p>Personal Message</p></div> <div class="tellafriend-right"><Textarea class="dropdown-form-textarea-long" id=taf-pmessage></Textarea></div></div>
+		<div class="tellafriend-row"><div class="tellafriend-left"><input type="button" value="" class="tell-a-friend-submit-button" onClick="tellAFriend('ACE-T232HL');"> </div></div>
+	</div>
+	
+	<div>
+	</div>
+</div> 
+ <a href="#reviews" name="reviews" id="reviews"></a>
+ <div>
+
+<div id="divreviews" >
+
+<div id="newreview-container">
+ <div id="divreviews-top">
+<span class="reviews-title">Reviews</span>
+</div>
+	
+	
+	<p class="noreviewtext">This product currently has <span class="red_bold">no reviews</span>, if you own this product why not write one yourself?</p>
+	
+	
+	
+    <!-- SUBMIT A REVIEW -->
+	<div class="submit-a-review">
+	
+	<div class="review-text-top">
+	<span class="numberofreviews">Customer Reviews</span>
+	
+	<span>&#124;</span>
+	
+	<a href="javascript:void(0);" onclick="$('#sub-main').show();" id="sub-link">Submit A Review</a>
+	</div>
+	
+	<div class="submit-a-review-main-big" id="sub-main">
+	
+	<p class="text">We love having your feedback on all of your products, we do ask that you keep your reviews strictly about the product though. If you have any feedback about the service from the company please contact our<a href="http://www.novatech.co.uk/contact.html?d=c" target="_blank">Customer Services</a>team. Thank you.</p>
+	
+	<form>
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row">
+	<div class="submit-a-review-row-left"><p>Name</p> </div>
+	<div class="submit-a-review-row-right"><input type="text" class="submit-review-textbox" id="reviewname" /> </div>
+	</div>
+	<!-- REVIEW ROW -->
+	
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row">
+	<div class="submit-a-review-row-left"><p>Email</p> </div>
+	<div class="submit-a-review-row-right"><input type="text" class="submit-review-textbox" id="reviewemail" /> </div>
+	</div>
+	<!-- REVIEW ROW -->
+	
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row">
+	<div class="submit-a-review-row-left"><p>Location</p> </div>
+	<div class="submit-a-review-row-right"><input type="text" class="submit-review-textbox" id="reviewlocation" /> </div>
+	</div>
+	<!-- REVIEW ROW -->
+	
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row">
+	<div class="submit-a-review-row-left"><p>Rating</p> </div>
+	<div class="submit-a-review-row-right">
+	
+	<!-- STARS -->
+	<div> 
+	<input name="star1" type="radio" class="star" value="1">
+	<input name="star1" type="radio" class="star" value="2">
+	<input name="star1" type="radio" class="star" value="3">
+	<input name="star1" type="radio" class="star" value="4">
+	<input name="star1" type="radio" class="star" value="5">
+	</div>
+	<!-- STARS -->
+	
+	</div>
+	</div>
+	<!-- REVIEW ROW -->
+	
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row-bigger">
+	<div class="submit-a-review-row-left"><p>Review</p> </div>
+	<div class="submit-a-review-row-right"><textarea class="submit-review-textbox-big" id="reviewreview"></textarea> </div>
+	</div>
+	<!-- REVIEW ROW -->
+		
+	<!-- REVIEW ROW -->
+	<div class="submit-a-review-row">
+	<input type="button" value="" onclick="submitReview('ACE-T232HL');" class="review-submit-button">
+	</div>
+	<!-- REVIEW ROW -->
+		</form>
+		
+	</div> <!-- submit-a-review-main FINISH -->
+	
+	</div> <!-- submit-a-review FINISH -->
+	<!-- SUBMIT A REVIEW -->
+	 
+	 
+		
+	</div> 
+ </div>
+ </div>
+ 
+<script>
+$(function() {
+	// :first selector is optional if you have only one tabs on the page
+	$(".css-tabs2").tabs(".css-panes2 > div");
+});
+</script>
+
+</div>
+<!-- SPEC PAGE OVERVIEW -->
+
+</div>
+<!-- BOTTOM RIGHT SECTION -->
+
+</div>
+<!-- BOTTOM SECTION -->
+</div>
+<div class="clearfix"></div>
+
+
+
+
+
+
+
+<!-- FOOTER -->
+<div id="footer">
+
+<!-- BACK TO TOP SECTION -->
+<div id="back-to-top"><img src="http://images.novatech.co.uk/website2011/backtotop.png"></div>
+<!-- BACK TO TOP SECTION -->
+
+<!-- SOCIAL MEDIA BAR -->
+<div id="footer-socialmedia">
+
+<script language="javascript">
+function testSubForm(){
+	if($("#listemail").val().length > 0 && $("#listemail").val() != "Enter your email address here"){
+		return true;
+	}else{
+		alert("Please enter your email address to sign up to our mailing list.");
+		return false;
+	}
+}
+</script>
+
+<div id="footer-socialmedia-right">
+<span>Hear from us</span>
+<form action="http://listserve.novatech.co.uk/subscribe/subscribe.tml" method="POST" onSubmit="return testSubForm();">
+<input type="text" id="listemail" name="email" class="specialoffersbox" value="Enter your email address here" onFocus="doClear(this)" />
+<input type="submit" name="subscribe" value="" class="specialofferssignup">
+	    <input type="hidden" name="list" value="eweekly">
+	    <input type="hidden" name="confirm" value="none">
+	    <input type="hidden" name="showconfirm" value="F">
+	    <input type="hidden" name="url" value="http://www.novatech.co.uk/subscribed.html">
+	    <input type="hidden" name="appendsubinfotourl" value="T">
+</form>
+
+</div>
+
+</div>
+<!-- SOCIAL MEDIA BAR -->
+
+<div id="footer-left">
+
+<div class="footer-left-col">
+<span><a href="/contact.html">Contact Novatech</a></span>
+<ul>
+<li><a href="/contact.html?d=t">Technical Support</a></li>
+<li><a href="/contact.html?d=s">Sales</a></li>
+<li><a href="/contact.html?d=c">Customer Services</a></li>
+<li><a href="/servicecentre">Repairs</a>
+<li><a href="/stores.html">Our Showroom</a></li>
+<li><a href="/jobs.html">Jobs at Novatech</a></li>
+<li><a href="/webmaster.html">Get in touch (webmaster)</a></li>
+<li><a href="http://forum.novatech.co.uk" target="_blank">Forum</a></li>
+</ul>
+</div>
+
+<div class="footer-left-col">
+<span><a href="/about.html">About Novatech</a></span>
+<ul>
+<li><a href="/about.html">Who we are &amp; What we do</a></li>
+<li><a href="/whybuyfromus.html">Why Buy From Us</a></li>
+<li><a href="/stores.html">Stores &amp; Community</a></li>
+<li><a href="/customercomments.html">Customer Comments</a></li>
+<li><a href="/affiliates.html">Affiliates</a></li>
+<li><a href="/privacyandsecurity.html">Privacy &amp; Security</a></li>
+<li><a href="/WEEEregulations.html">Novatech &amp; WEEE Regulations</a></li>
+<li><a href="/tradingschemes.html">Trading Schemes</a></li>
+<li><a href="/quality-and-environmental-policy.html">Quality &amp; Environmental Policy</a></li>
+</ul>
+</div>
+
+<div class="footer-left-col">
+<span><a href="/login.html">Your Account</a></span>
+<ul>
+<li><a href="/login.html">Login / Register</a></li>
+<li><a href="/outstandingorders.html">Outstanding Orders</a></li>
+<li><a href="/ordertracking.html">Track an Order</a></li>
+<li><a href="/termsandconditions.html">Terms &amp; Conditions</a></li>
+<li><a href="/privacyandsecurity.html">Privacy &amp; Security</a></li>
+</ul>
+
+<span><a href="#" onClick="deleteMobilePref();">Mobile Website</a></span>
+<ul>
+<li><a href="#" onClick="deleteMobilePref();">m.novatech.co.uk</a></li>
+</ul>
+
+</div>
+
+</div>
+
+<!-- FOOTER RIGHT -->
+<div id="footer-right">
+
+<div id="footer-right-left">
+<span><a href="/about.html">About us</a></span>
+<p>In February 1987 Novatech was founded with a simple ethic of supplying high quality products at the lowest possible prices with excellent customer service.</p>
+</div>
+
+<div id="footer-right-right">
+
+<div id="footer-video">
+<a href="/about.html"><img src="http://images.novatech.co.uk/website2011/aboutus-video-image-new.jpg"></a>
+</div>
+
+
+</div>
+
+</div>
+<!-- FOOTER RIGHT -->
+
+
+
+<div id="footer-cards">
+
+<img src="http://images.novatech.co.uk/website2011/footer-cards-new.jpg">
+
+</div>
+
+
+
+
+<div id="footer-bottom">
+<p>© Copyright 2000-2014 Novatech Ltd - Computer Supplies | Company Reg No: 2605046 | WV 7.6.9fe - ba</p>
+<p>Head Office - Novatech Ltd, Harbour House, Hamilton Road, Cosham, Portsmouth, PO6 4PU</p>
+</div>
+
+</div> 
+<!-- FOOTER -->
+
+<div class="clearfix"></div>   
+</div> <!-- END div to right column  -->
+
+
+</body>
+</html>
+

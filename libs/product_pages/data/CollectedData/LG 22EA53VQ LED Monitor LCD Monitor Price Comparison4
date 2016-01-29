@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]><html class="ie ie7" lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" ><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" ><![endif]-->
+<!--[if IE 9]><html class="ie ie9" lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" ><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+                <meta name="viewport" content="width=1100">
+                <link rel="apple-touch-icon" href="http://s.nsit.com/uk01/en-gb/layout/favicon-ios.png">
+
+        <link rel="shortcut icon" href="http://s.nsit.com/uk01/en-gb/layout/ico/favicon.ico" type="image/x-icon">
+
+        
+        <link type="text/css" rel="stylesheet" href="http://s.nsit.com/uk01/en-gb/styles/5582/home.css">
+
+                    <link type="text/css" rel="stylesheet" href="http://s.nsit.com/uk01/en-gb/styles/5582/www.css">
+                    
+        <link type="text/css" rel="stylesheet" media="print" href="http://s.nsit.com/uk01/en-gb/styles/5582/wwwstyles.print.css">
+
+        <script type="text/plain" id="cookie-domain">
+            {
+                domain: 'www.uk.insight.com'
+            }
+        </script>
+
+        <script>
+var siteGfxBase               = 'http://s.nsit.com/uk01/en-gb';var siteProductGfxBase        = 'http://s.nsit.com/uk01';var siteHrefBase              = 'http://www.uk.insight.com/en-gb';var siteHrefCurrentBase       = 'http://www.uk.insight.com/en-gb';var siteHrefCurrentBaseNoLang = 'http://www.uk.insight.com';var siteHrefSecureBase        = 'https://www.uk.insight.com/en-gb';var siteServiceBase           = 'http://www.uk.insight.com/api';var styleBase                 = 'http://s.nsit.com/uk01/en-gb/styles/5582';var javascriptBase            = 'http://s.nsit.com/uk01/en-gb/js/5582/';var siteUserLanguage          = 'en-gb';var siteUserLanguageIso       = 'en-GB';var userCurrencySymbol        = '£';var loadFrameBuster           = true;var siteCountryCode           = 'GB';var logged_in = false;var login_status = 'N';var new_session = true;var menuStateToken = 1395249703;var ajax_login_enabled = false;var is_secure = false;var is_wp = false;var is_transactional = true;var cdn_enabled = false;var serviceBase = 'http://www.uk.insight.com/api';var DNALU = false;var NDOS = false;var RMT = false;var UWD = false;var DAS = false;current_url = 'http://www.uk.insight.com/en-gb/productinfo/monitors-and-displays/0002082566-00000001';
+</script>
+
+                <!-- External JS Files -->
+                    <script src="http://libs.coremetrics.com/eluminate.js"></script>
+        
+                <!-- Internal JS Files -->
+                    <script src="http://s.nsit.com/uk01/en-gb/js/5582/pre_load.js"></script>
+        
+                    <title>Insight UK</title>
+                <meta name="description" content="Insight UK is your one stop shop for great deals on IT products. Business clients can take advantage of Insight's award winning expertise while our 100,000 product catalogue and preferred partner status with many of the top brands, Sony, HP, Toshiba, Cisco and Microsoft to name but a few ensures anyone from a home user to an Enterprise and Public Sector organisation receives the best pricing and stock availability in the IT channel today. Choose Insight to be your Trusted Advisor.">
+    <meta name="keywords" content="motherboard, laptops, router, firewall, scanners, lcd monitors, tablet pc, wireless router, laser printers, computers, components, netbook, laserjet, software, network.">
+<meta http-equiv="content-language" content="en">
+
+                        <script>
+var cm_ClientID = "90225731";
+var cm_CookieDomain = "www.uk.insight.com";
+
+    cmSetClientID(cm_ClientID, true, "data.coremetrics.com", cm_CookieDomain);
+
+cmCreateErrorTag('404 Error', 'ERRORS');
+
+</script>
+        </head>
+    <body>
+        
+                <script>
+    popup_visiLogin = document.createElement('div');
+    popup_visiLogin.id = 'popupvisilogin';
+    popup_visiLogin.className = 'header-popup';
+    $(popup_visiLogin).html('<div id=\"login_box\"><h2 class=\"popup-header\">Login:<\/h2><img class=\"close_popup\" src=\"http://s.nsit.com/uk01/en-gb/layout/exit.png\" alt=\"Close Popup\" onclick=\"visiPopDown(popup_visiLogin);\" /><form id=\"login_form\" action=\"https://www.uk.insight.com/en-gb/apps/account/index.php\" method=\"post\" class=\"header-popup-form\"><fieldset><label for=\"visi_email\" class=\"popup-label\">Username<\/label><a class=\"login_box_link\" href=\"https://www.uk.insight.com/en-gb/apps/account/index.php?forgot=true\">Forgot your username?<\/a><input id=\"visi_email\" name=\"e\" tabindex=\"1\" maxlength=\"80\"><label for=\"visi_password\" class=\"popup-label\">Password<\/label><a class=\"login_box_link\" href=\"https://www.uk.insight.com/en-gb/apps/account/index.php?forgot=true\">Forgot your password?<\/a><input type=\"password\" name=\"wr\" id=\"visi_password\" maxlength=\"50\" tabindex=\"2\" autocomplete=\"off\"><input type=\"submit\" id=\"visi_login_button\" class=\"button-submit\" name=\"login\" value=\"Login\" tabindex=\"3\"><p class=\"clear\">New customer? <a href=\"https://www.uk.insight.com/en-gb/apps/signup/newaccount.php\" id=\"create_account\">Create an account<\/a><\/p><input type=\"hidden\" name=\"a\" value=\"nl\"><input type=\"hidden\" name=\"remember\" value=\"1\"><\/fieldset><\/form><\/div>');
+
+    popup_visiAccount = document.createElement('div');
+    popup_visiAccount.id = 'popupvisiaccount';
+    popup_visiAccount.className = 'header-popup';
+    $(popup_visiAccount).html('<div id=\"account-box\"><h2 class=\"popup-header\">Account Menu<\/h2><img class=\"close_popup\" src=\"http://s.nsit.com/uk01/en-gb/layout/exit.png\" alt=\"Close Popup\" onclick=\"visiAccountClose();\" /><\/div>');
+
+    
+    
+    popup_visiOrder = document.createElement('div');
+    popup_visiOrder.id = 'popupvisiorder';
+    popup_visiOrder.className = 'header-popup';
+    $(popup_visiOrder).html('');
+
+    
+        function displayVisiLoginSSLText()
+        {
+            var el = document.getElementById('visiLoginSSLText');
+            el.innerHTML = '<strong>Secure log in on every page</strong><br />The security of your personal information is of utmost importance. Be assured that when you log in using our visiLogin (located in the upper right of every page on our site) your username and password are secure.<br /><br />When you click the \"Log In\" button, your user name and password are sent to our servers using a Secure Sockets Layer (SSL) connection.  This secure and encrypted connection protects the privacy of any information you use or supply to us.<br /><br />For more information on our security measures, please visit our <a href=\"http://www.uk.insight.com/en-gb/static/privacy.php\">privacy policy<\/a>.';
+            document.getElementById('visiLoginSSL').style.display = 'block';
+        }
+
+        function visiLoginSSLClose()
+        {
+            document.getElementById('visiLoginSSL').style.display = 'none';
+            document.getElementById('visiLoginSSLText').innerHTML = '&nbsp;';
+        }
+    
+</script>
+
+<div id="blackout" class="blackout">
+</div>
+<div class="modal_panel" id="modal_panel">
+    <table border="0" cellspacing="1" cellpadding="3" width="100%" class="table">
+        <tr>
+            <td>
+                <div id="modal_panel_close_link_container"><a href="#" id="modal_panel_close_link">[x]</a></div>
+                <h3 class="header-block" id="modal_panel_title"></h3>
+            </td>
+        </tr>
+        <tr>
+            <td><div id="modal_panel_container" class="modal_panel_container"></div></td>
+        </tr>
+        <tr id="modal_panel_close">
+            <td align="center"><div id="modal_panel_close_container" class="left"><input class="button-action" type="submit" id="modal_panel_close_button" value="Close"></div></td>
+        </tr>
+    </table>
+</div>
+<div class="modal_panel" id="progress_panel">
+    <table border="0" cellpadding="3" cellspacing="1" width="100%" class="table">
+        <tr>
+            <td><strong>Please wait...</strong></td>
+        </tr>
+        <tr>
+            <td id="progress_panel_container"><img src="http://s.nsit.com/uk01/en-gb/layout/ajax_loading_bar.gif" alt="Loading..."></td>
+        </tr>
+    </table>
+</div>
+
+        <div id="container">
+            <header>
+                <a name="top"></a>
+                <!-- System: www.uk.insight.com -->
+                <!-- IP: 130.83.138.228 -->
+                <!-- Source Code : 000091 -->
+
+                
+                <div class="print_header">
+                    <div class="textBold"> www.uk.insight.com</div>
+                    <img src="http://s.nsit.com/uk01/en-gb/layout/insight_header.gif" alt="Insight">
+                </div>
+
+                <div id="topbar-container">
+                    <div id="topbar">
+                        <div id="topmenu">
+                            <ul id="topmenu_links" class="topbar-menu">
+                                                                                                                                                                                            <li id="visiLoginPopUpLink" class="loginlink">
+                                                <span></span>
+                                                <a href="https://www.uk.insight.com/en-gb/apps/account/index.php" id="login-link" onclick='var e = event||window.event;return visiPopUp(e, popup_visiLogin, "#login-link")'>Login</a>
+                                            </li>
+                                                                                <li>|</li>
+                                    
+                                                                                                        
+                                                                                                        <li id="visiOrderSummary">
+                                                    <a href="http://www.uk.insight.com/en-gb/apps/cart/myorder.php">Basket</a>
+    
+                                    </li>
+                                                                            <li>|</li>
+                                                                    
+                                                                    <li><a href="http://www.uk.insight.com/en-gb/information">Information</a></li>
+                                    <li>|</li>
+
+                                                                                                                    <li><a href="http://www.uk.insight.com/en-gb/information/configurators">Configurators</a></li>
+                                        <li>|</li>
+                                                                        <li><a href="http://www.uk.insight.com/en-gb/information/help">Help</a></li>
+                                
+                            </ul>
+                        </div>
+                        <div id="topbar-left">
+                            <ul class="topbar-menu">
+                                                                    <li id="country_select">
+                                        <a id="countryflag" href="http://www.uk.insight.com/en-gb/apps/account/index.php?a=selectsite">
+                                            <img id="country_flag" alt="United Kingdom site" src="http://s.nsit.com/uk01/en-gb/layout/mini_uk.gif">
+                                        </a>
+                                        <a id="country" class="lone-link" href="http://www.uk.insight.com/en-gb/apps/account/index.php?a=selectsite">United Kingdom<span></span></a>
+                                        <div id="country_change" class="header-showup">
+                                            <h2 class="popup-header">Country Selector:</h2>
+                                            <img class="close_popup" src="http://s.nsit.com/uk01/en-gb/layout/exit.png" alt="Close Popup">
+
+                                            
+                                                                                        
+                                            <h3 class="popup-header">Other Locations</h3>
+                                            <form action="http://www.uk.insight.com/en-gb/apps/selectcountry/index.php" method="post" class="header-popup-form">
+                                                <fieldset>
+                                                    <input type="hidden" name="mode" value="2">
+                                                    <select class="pseudo-select-apply" id="locale-change" name="locale-change">
+                                                        <option value="au">Australia</option>                                                        <option value="at">Austria</option>                                                        <option value="be-e">Belgium</option>                                                        <option value="ca-e">Canada</option>                                                        <option value="cn">China</option>                                                        <option value="cz">Czech Republic</option>                                                        <option value="dk">Denmark</option>                                                        <option value="fi">Finland</option>                                                        <option value="fr">France</option>                                                        <option value="de">Germany</option>                                                        <option value="hk">Hong Kong</option>                                                        <option value="hu">Hungary</option>                                                        <option value="ie">Ireland</option>                                                        <option value="it">Italy</option>                                                        <option value="nl">Netherlands</option>                                                        <option value="nz">New Zealand</option>                                                        <option value="no">Norway</option>                                                        <option value="pl">Poland</option>                                                        <option value="ru">Russia</option>                                                        <option value="sg">Singapore</option>                                                        <option value="es">Spain</option>                                                        <option value="se">Sweden</option>                                                        <option value="ch-d">Switzerland</option>                                                                                                                <option value="us">United States</option>                                                    </select>
+                                                    <input type="submit" id="language-change-submit" class="right button-submit" value="Go" name="submit">
+                                                </fieldset>
+                                            </form>
+                                        </div>
+                                    </li>
+                                    <li>|</li>
+                                                                                                    <li id="sector_select">
+    <a id="sector" class="lone-link" href="#">Sector<span></span></a>
+    <div id="sector_change" class="header-showup">
+        <img class="close_popup" src="http://s.nsit.com/uk01/en-gb/layout/exit.png" alt="Close Popup">
+        <a href="http://www.uk.insight.com/en-gb/business">Business</a><br>
+        <a href="http://www.uk.insight.com/en-gb/enterprise">Enterprise</a><br>
+        <a href="http://www.uk.insight.com/en-gb/public-sector">Public Sector</a>
+    </div>
+</li>
+<li>|</li>
+                                                                <li id="phone-number">0844 846 3333</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="header-container">
+                    <div id="header">
+                                                                            <a href="http://www.uk.insight.com/en-gb"><img id="logo" src="http://s.nsit.com/uk01/en-gb/layout/header/logo.jpg" alt="Insight"></a>
+                                                <nav>
+                                <div id="main-menu">
+                <ul id="main-menu-headers" class="clearfix">
+                            <li>
+                                            <a href="#" data-menu-name="products">Products<span></span></a>
+                                    </li>
+                            <li>
+                                            <a href="#" data-menu-name="services">Services<span></span></a>
+                                    </li>
+                            <li>
+                                            <a href="/licensing">Licensing<span></span></a>
+                                    </li>
+                            <li>
+                                            <a href="/cloud">Cloud<span></span></a>
+                                    </li>
+                            <li>
+                                            <a href="/apps/brands/">Brands<span></span></a>
+                                    </li>
+                            <li>
+                                            <a href="/deals">Deals<span></span></a>
+                                    </li>
+                    </ul>
+           </div>
+
+                        </nav>
+
+                        <div id="search">
+                                                            <form id="search_form" name="quicksearch" action="http://www.uk.insight.com/en-gb/apps/nbs/results.php">
+                                    <fieldset>
+                                        
+                                        
+                                        <div class="search-input-div search-input-no-approve">
+                                            <input id="search_input" class="placeholder" placeholder="Search" type="text" name="K" size="13" maxlength="100" autocomplete="off">
+                                            <input class="search_button" title="Search" type="submit" value="Search">
+                                        </div>
+                                        <div id="did-you-mean"></div>
+                                    </fieldset>
+                                </form>
+                                                    </div>
+                    </div>
+                    <!--[if lt IE 7]>
+                        <iframe class="popup-underlay" src="javascript:false;"></iframe>
+                    <![endif]-->
+                </div>
+
+                
+                                    <ul id="share-buttons">
+                        <li class="share-button"><a href="javascript:if(window.print)window.print()" class="share-link" id="share-printer" title="Print"></a></li>
+                        <li class="share-button"><a href="mailto:?body=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001%3Futm_source%3DAffiliates%26utm_medium%3DWebgains%26utm_campaign%3D%25255E%25255E%25255Eaffiliatename%25255E%25255E%25255E%26src%3D000091%26cm_mmc%3DAffiliates-_-Webgains-_-%25255E%25255E%25255Eaffiliatename%25255E%25255E%25255E-_-Text%252520Link%26%253fsrc%3D000091%26utm_source%3DAffiliates%26utm_medium%3DWebgains%26utm_campaign%3DIdealo%252520Internet%252520GmbH%26cm_mmc%3DAffiliates-_-Webgains-_-Idealo%252520Internet%252520GmbH-_-Text%252520Link" class="share-link" id="share-email" title="Email"></a></li>
+                        <li class="share-button"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001&amp;title=" class="share-link" id="share-linkedin" title="LinkedIn"></a></li>
+                        <li class="share-button"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001" target="_blank" class="share-link" id="share-facebook" title="Facebook"></a></li>
+                        <li class="share-button"><a href="http://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001&amp;text=&amp;url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001" target="_blank" class="share-link" id="share-twitter" title="Twitter"></a></li>
+                        <li class="share-button"><a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001" target="_blank" class="share-link" id="share-google" title="Google+"></a></li>
+                        <li class="share-button"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001&amp;title=" target="_blank" class="share-link" id="share-stumble" title="StumbleUpon"></a></li>
+                        <li class="share-button"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001&amp;title=" target="_blank" class="share-link" id="share-digg" title="Digg"></a></li>
+                        <li class="share-button"><a href="http://del.icio.us/post?url=http%3A%2F%2Fwww.uk.insight.com%2Fen-gb%2Fproductinfo%2Fmonitors-and-displays%2F0002082566-00000001&amp;title=" target="_blank" class="share-link" id="share-delicious" title="Delicious"></a></li>
+                    </ul>
+                            </header>
+            <div id="main-container">
+                <div id="main-width-restriction">
+                    <div id="main-menu-outer-wrap">
+                        <div class="spacer"></div>
+                    </div>
+                </div>
+                <div id="main" class="clearfix"><div class="error-div">
+    <div class="error-text">
+        <h2>You have encountered a bad link or a page that no longer exists.</h2>
+        <p>Please retype it or try one of the following:</p>
+        <ul class="bullets">
+                            <li><a href="http://www.uk.insight.com/en-gb/apps/nbs/categoryindex.php">Browse our product categories</a> to find the item you're looking for.</li>
+                <li><a href="http://www.uk.insight.com/en-gb/deals">Visit our Deals homepage</a> to see our latest offers.</li>
+                <li><a href="http://www.uk.insight.com/en-gb/information/configurators">Use our product selectors</a> to find compatible memory, printer ink and more.</li>
+                    </ul>
+        <p><strong>Trying to reach your smartPORTAL page? try http://www.uk.insight.com/en-gb/companyname</strong></p>
+
+        <h2>Still stuck?</h2>
+        <br>
+        <ul class="bullets">
+            <li><a href="http://www.uk.insight.com/en-gb/apps/problemsolver/index.php">Open a Help Desk Ticket</a> and track progress online.</li>
+            <li>Call <strong>0844 846 3333</strong> to speak to an Insight advisor.</li>
+        </ul>
+    </div>
+</div>            </div>
+        </div>
+        <footer>
+            <div id="footer-container">
+                                    <div id="footer">
+    <img id="footer-logo" src="http://s.nsit.com/uk01/en-gb/layout/footer/logo.jpg" alt="Insight Logo">
+                                        <div class="footer-column">
+                                            <h4>About Insight</h4>
+                        <ul class="sprite-bullets">
+                                                            <li>
+                                     <a title="Company Overview" href="/information/about"><span></span>Company Overview</a>
+                                </li>
+                                                            <li>
+                                     <a title="Careers" href="/careers"><span></span>Careers</a>
+                                </li>
+                                                            <li>
+                                     <a title="Social" href="/information/social"><span></span>Social</a>
+                                </li>
+                                                            <li>
+                                     <a title="Blog" href="/blog"><span></span>Blog</a>
+                                </li>
+                                                            <li>
+                                     <a title="Email Subscription" href="/email"><span></span>Email Subscription</a>
+                                </li>
+                                                    </ul>
+                                     </div>
+                            <div class="footer-column">
+                                            <h4>Popular Categories</h4>
+                        <ul class="sprite-bullets">
+                                                            <li>
+                                     <a title="Laptops & Notebooks" href="/category/computers/laptops-and-notebooks"><span></span>Laptops & Notebooks</a>
+                                </li>
+                                                            <li>
+                                     <a title="Desktop PCs" href="/category/computers/desktop-pcs"><span></span>Desktop PCs</a>
+                                </li>
+                                                            <li>
+                                     <a title="LCD & LED Monitors" href="/category/computers/monitors-and-displays"><span></span>LCD & LED Monitors</a>
+                                </li>
+                                                            <li>
+                                     <a title="Laser Printers" href="/category/printing/laser-printers"><span></span>Laser Printers</a>
+                                </li>
+                                                            <li>
+                                     <a title="External Hard Drives" href="/category/servers-and-storage/external-hard-disk-drives"><span></span>External Hard Drives</a>
+                                </li>
+                                                    </ul>
+                                     </div>
+                            <div class="footer-column">
+                                            <h4>Hot Topics</h4>
+                        <ul class="sprite-bullets">
+                                                            <li>
+                                     <a title="Clearance Deals" href="/promotions/clearance-deals"><span></span>Clearance Deals</a>
+                                </li>
+                                                            <li>
+                                     <a title="Cloud Computing" href="/cloud"><span></span>Cloud Computing</a>
+                                </li>
+                                                            <li>
+                                     <a title="Windows 8" href="/searchresults/?FK[]=windows+8&amp;slider_selected_low_price=0&amp;slider_selected_high_price=6400&amp;slider_low_price=0&amp;slider_high_price=6400&amp;currency_format=&pound;0&amp;LP=0&amp;HP=6400&amp;A-DAX-ManufacturerID-ExactField[]=22000&amp;lang=en-gb&amp;RF[]=&amp;SB=&amp;PS=10&amp;P=1&amp;all=y"><span></span>Windows 8</a>
+                                </li>
+                                                            <li>
+                                     <a title="Tablet PCs" href="/category/computers/tablets-pdas-and-smartphones"><span></span>Tablet PCs</a>
+                                </li>
+                                                            <li>
+                                     <a title="Ultrabooks" href="/apps/nbs/results.php?K=ultrabook"><span></span>Ultrabooks</a>
+                                </li>
+                                                    </ul>
+                                     </div>
+                            <div class="footer-column">
+                                            <h4>Site Information</h4>
+                        <ul class="sprite-bullets">
+                                                            <li>
+                                     <a title="Sitemap" href="/information/sitemap"><span></span>Sitemap</a>
+                                </li>
+                                                            <li>
+                                     <a title="Feedback" href="/apps/problemsolver/newticket.php?action=submit&amp;category_id=423&amp;subcat_id=424"><span></span>Feedback</a>
+                                </li>
+                                                            <li>
+                                     <a title="Contact Us" href="/information/contact"><span></span>Contact Us</a>
+                                </li>
+                                                            <li>
+                                     <a title="Help" href="/information/help"><span></span>Help</a>
+                                </li>
+                                                    </ul>
+                                     </div>
+                            <div class="footer-column">
+                                            <h4>Terms and Conditions</h4>
+                        <ul class="sprite-bullets">
+                                                            <li>
+                                     <a title="Standard Terms and Conditions" href="/apps/legal/policies.php"><span></span>Standard Terms and Conditions</a>
+                                </li>
+                                                            <li>
+                                     <a title="Privacy Statement" href="/information/privacy-statement"><span></span>Privacy Statement</a>
+                                </li>
+                                                            <li>
+                                     <a title="Cookie Policy" href="/information/cookie-policy"><span></span>Cookie Policy</a>
+                                </li>
+                                                            <li>
+                                     <a title="Standard Purchasing Terms" href="/information/trading-terms-and-conditions"><span></span>Standard Purchasing Terms</a>
+                                </li>
+                                                    </ul>
+                                     </div>
+                        </div>
+                            </div>
+        </footer>
+    </div>
+        <div id="post_footer">
+                    <p class="footer-text">Insight Direct (UK) Limited, Registered in England &amp; Wales.  Registered Office: Technology Building, Insight Campus, Terry Street, Sheffield S9 2BU, UK
+<br>
+Company Number: 2579852, VAT Registration Number: 746 0751 29
+</p>
+            </div>
+        
+                    <!-- External JS Files -->
+                    <!-- N/A -->
+        
+                <!-- Internal JS Files -->
+                    <script src="http://s.nsit.com/uk01/en-gb/js/5582/post_load.js"></script>
+            </body>
+</html>

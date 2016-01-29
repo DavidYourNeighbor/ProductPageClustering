@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>Redirection vers le site marchand</title>
+	</head>
+	<body onload="javascript:document.getElementById('goval').value='1';document.getElementById('redir').submit();">
+		<form method="post" id="redir">
+			<input type="hidden" id="goval" name="go" value="0"/>
+		</form>
+		<p>Redirection vers le site du marchand en cours. Si vous n'êtes pas redirigé automatiquement, <a href="http://pdt.tradedoubler.com/click?a(1993775)p(21701)prod(1527446497)ttid(5)url(http%3A%2F%2Fstore.hp.com%2FUKStore%2FMerch%2FProduct.aspx%3Fid%3DF0X90EA%26opt%3DABU%26sel%3DPCNB%26jumpID%3Dex_r11638_uk%2Fen%2Fhho%2Fpsg%2Fhpstore-tradedoubler_ot_aff_pu_ds_F0X90EA%2Ffeed_str%2Fdt)epi(JVShopping_C8524B86_37_5345123)">merci de cliquer ici</a>.</p>
+		<p>Redirection in progress to the online store. If you are not automatically redirected, <a href="http://pdt.tradedoubler.com/click?a(1993775)p(21701)prod(1527446497)ttid(5)url(http%3A%2F%2Fstore.hp.com%2FUKStore%2FMerch%2FProduct.aspx%3Fid%3DF0X90EA%26opt%3DABU%26sel%3DPCNB%26jumpID%3Dex_r11638_uk%2Fen%2Fhho%2Fpsg%2Fhpstore-tradedoubler_ot_aff_pu_ds_F0X90EA%2Ffeed_str%2Fdt)epi(JVShopping_C8524B86_37_5345123)">please click here</a>.</p>
+	</body>
+</html>
+	

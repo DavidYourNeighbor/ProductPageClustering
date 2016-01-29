@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+<title id="htmlheadercontent_0_htmlHeader__title">Play.com (UK)</title>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="icon" href="https://www.play.com/secureimg/SiteCSS/Play/Live1/images/brand/favicon.ico" />
+<link rel="shortcut icon" href="https://www.play.com/secureimg/SiteCSS/Play/Live1/images/brand/favicon.ico" />
+<link href="http://c.playserver1.com/SiteCSS/Play/Live1/css/browser-specific.min.css" rel="stylesheet" type="text/css"/>
+<link href="http://c.playserver1.com/SiteCSS/Play/Live1/css/play.min.css" rel="stylesheet" type="text/css"/>
+<script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://j.playserver1.com/SiteScript/Play/Live1/jquery-text-truncate.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://j.playserver1.com/SiteScript/Play/Live1/other.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://j.playserver1.com/SiteScript/Play/Live1/easing.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://j.playserver1.com/SiteScript/Play/Live1/master.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://j.playserver1.com/SiteScript/Play/Live1/style-select-boxes.min.js"></script>
+<link rel="apple-touch-icon" href="http://i.playserver1.com/SiteCSS/Play/Live2/images/brand/AppleTouch57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://i.playserver1.com/SiteCSS/Play/Live2/images/brand/AppleTouch72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://i.playserver1.com/SiteCSS/Play/Live2/images/brand/AppleTouch114x114.png">
+<style type="text/css">
+html { overflow-y: scroll; }
+body { background-color: #F5F5F5; margin: 0px; padding: 0px; font: 12px/1.5em Arial, Helvetica, sans-serif; text-align: center; }
+h2 { font-size: 2.6em; color: #666; font-weight: 400; line-height: 1.1em; padding: 20px 0; }
+p { font-size: 1em; line-height: 1.5em; margin: 0 0 1.1em; text-align: left; }
+.wrapper { }
+.content { margin: auto; margin-bottom:100px; background-color: #fff; padding: 25px; border: 1px solid #CCC; width: 450px; text-align: left; }
+a:hover { text-decoration: none; }
+.button, .primary.button, button { display: inline-block; position: relative; cursor: pointer; text-align: center; text-decoration: none; font-weight: 700; line-height: 1.25em; -moz-border-radius: .25em; -webkit-border-radius: .25em; border-radius: .25em; font-size: 1em; padding: .417em .833em .625em; padding: .417em .833em; color: white; border-width: .083em; border-style: solid; border-color: #FF7900; background: #FF7900; background: -webkit-linear-gradient(top, #F93 0%, #F93 50%, #FF7900 50%, #FF7900 100%); background: -moz-linear-gradient(top, #F93 0%, #F93 50%, #FF7900 50%, #FF7900 100%); background: -ms-linear-gradient(top, #F93 0%, #F93FFF 50%, #FF7900 50%, #FF7900 100%); background: -o-linear-gradient(top, #F93 0%, #F93 50%, #FF7900 50%, #FF7900 100%); background: linear-gradient(top, #F93 0%, #F93 50%, #FF7900 50%, #FF7900 100%);  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff9933', endColorstr='#FF7900');
+margin: 0 .25em 0 0; width: auto; overflow: visible; text-shadow: none; }
+.button:hover, .primary.button:hover, button:hover { text-decoration: none!important; background: -webkit-linear-gradient(top, #FFAB5F 0%, #FF7900 100%); background: -moz-linear-gradient(top, #FFAB5F 0%, #FF7900 100%); background: -ms-linear-gradient(top, #FFAB5F 0%, #FF7900 100%); background: -o-linear-gradient(top, #FFAB5F 0%, #FF7900 100%); background: linear-gradient(top, #FFAB5F 0%, #FF7900 100%);  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFAB5F', endColorstr='#ff9933')
+}
+.button em { font-size: 125%; font-style: normal; line-height: 0.8em; margin: 0; padding: 0; }
+header { margin-bottom: 80px; }
+footer .box li ul { text-align:left; }
+</style>
+
+<body>
+<header>
+    <h1> <a class="play-logo" href="/" title="play.com" av="Other"> </a> </h1>
+    <form name="mainForm" method="get" action="http://www.play.com/Search.html" id="mainForm" class="wrapper">
+        <div id="search">
+            <ul class="search-container">
+                <li class="search-select-container"> 
+                    <!-- Note: previous id and name = searchtype for search-depts -->
+                    <div class="ddOutOfVision" style="height:0px;overflow:hidden;position:absolute;" id="searchtype_msddHolder">
+                        <select class="selectStyle" id="searchtype" name="searchtype">
+                            <optgroup label="">
+                            <option value="allproducts">All</option>
+                            <option value="BABY">Baby</option>
+                            <option value="bookall">Books</option>
+                            <option value="BLU">Blu-ray</option>
+                            <option value="clothingall">Clothing</option>
+                            <option value="PCSH">Computing</option>
+                            <option value="r2alldvd">DVD</option>
+                            <option value="ELEC">Electronics</option>
+                            <option value="GADG">Gifts &amp; Gadgets</option>
+                            <option value="MBLS">Mobile</option>
+                            <option value="musicall">Music</option>
+                            <option value="OFFICE">Office</option>
+                            <option value="sportoutdoorall">Sports &amp; Outdoors</option>
+                            <option value="TOYS">Toys</option>
+                            <option value="gameall">Video Games</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                    <div id="searchtype_msdd" class="dd" style="width: 140px;">
+                        <div id="searchtype_title" class="ddTitle"><span id="searchtype_arrow" class="arrow" style="background-position: 0px 0px;"></span><span class="ddTitleText" id="searchtype_titletext"><span class="ddTitleText">All Departments</span></span></div>
+                        <div id="searchtype_child" class="ddChild" style="width: 138px; z-index: 0; top: 35px; display: none; height: 291px;">
+                            <div class="optgroup"><span class="optgroup-title"></span><a href="javascript:void(0);" class="selected enabled" style="" id="searchtype_msopta_0_0"><span class="ddTitleText">All Departments</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_1"><span class="ddTitleText">Baby</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_2"><span class="ddTitleText">Books</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_3"><span class="ddTitleText">Blu-ray</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_4"><span class="ddTitleText">Clothing</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_5"><span class="ddTitleText">Computing</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_6"><span class="ddTitleText">DVD</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_7"><span class="ddTitleText">Electronics</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_8"><span class="ddTitleText">Gifts &amp; Gadgets</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_9"><span class="ddTitleText">Mobile</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_10"><span class="ddTitleText">Music</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_11"><span class="ddTitleText">Office</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_12"><span class="ddTitleText">Sports &amp; Outdoors</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_13"><span class="ddTitleText">Toys</span></a><a href="javascript:void(0);" class="enabled" style="" id="searchtype_msopta_0_14"><span class="ddTitleText">Video Games</span></a></div>
+                        </div>
+                    </div>
+                </li>
+                <li class="search-button-container">
+                    <input type="hidden" value="search" name="page">
+                    <input type="hidden" value="search" name="pa">
+                    <a id="searchSubmit" class="btn rounded" href="#" onclick="javascript: document.forms[0].submit();" analytics="false">SEARCH</a> </li>
+                <li class="search-input-container">
+                    <input type="text" maxlength="255" name="searchstring" id="searchstring" class="box mr0" autocomplete="off">
+                    <input type="hidden" id="requestedSearch" value="">
+                </li>
+            </ul>
+        </div>
+    </form>
+    <nav>
+        <ul id="main-nav" av="Browse|Top|Nav Bar">
+            <li class="nav-parent first" av=""> <a class="nav-title  " href="/DVD/DVD/6-/RegionHome.html">DVD <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title  " href="/DVD/Blu-ray/6-/RegionHome.html">Blu-ray <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title  " href="/Music/CD/6-/RegionHome.html">Music <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title nav-dblLine " href="/Games/Games/6-/RegionHome.html">Video Games <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title  " href="/Books/Books/6-/RegionHome.html">Books <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title  " href="/Clothing/Clothing/6-/RegionHome.html">Clothing <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title nav-dblLine " href="/Sports-Outdoors/Sports-Outdoors/6-/RegionHome.html">Sports &amp; Outdoors <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title  " href="/Electronics/Electronics/6-/RegionHome.html">Electronics <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title nav-dblLine" href="/PC/PCs/6-/RegionHome.html">Computing &amp; Office <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title" href="/Mobiles/Mobile/6-/RegionHome.html">Mobile <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent" av=""> <a class="nav-title nav-dblLine " href="/Gadgets/Gadgets/6-/RegionHome.html">Gifts &amp; Gadgets <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+            <li class="nav-parent last" av="Browse|Top|Category Homepage"> <a class="nav-title nav-dblLine " href="/Toys/Toys/6-/RegionHome.html">Toys &amp; Baby <span class="nav-corners left"></span> <span class="nav-corners right"></span> </a> </li>
+        </ul>
+    </nav>
+</header>
+<h2>Oh no...something's gone wrong</h2>
+<div class="wrapper">
+    <div class="content">
+        <p>We can't seem to process your request. </p>
+        <p>We can take you back to the <a href="http://www.play.com">homepage</a> or choose a menu item from the main navigation above.</p>
+        <p>Alternatively you can contact <a href="mailto:Customercare@play.com">Customercare@play.com</a> who will also be able to help.</p>
+    </div>
+    <footer class="line">
+        <div av="Footer">
+            <div class="line" av="Footer|Bottom">
+                <div class="unit size1of1 no-box">
+                    <section class="legal unit pl8" av="">
+                        <p>V9.295.086/STM</p>
+                        <p><a href="/Helpdesk/General_questions_about_Play_com/Privacy_Policy.aspx" title="Privacy Policy">Privacy Policy &amp; Cookies</a> | <a href="/Helpdesk/General_questions_about_Play_com/Terms_and_Conditions.aspx" title="Terms &amp; Conditions">Terms &amp; Conditions</a></p>
+                        <p>&copy; 1998-2012 Play.com</p>
+                    </section>
+                    <section class="security unit pl8" av="">
+                        <ul>
+                            <li> <a class="img" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PLAY.COM&amp;lang=en"> <img title="Verisign Secured" alt="Verisign Secured" src="http://i.playserver1.com/newimages/_Global/Verisign_Logo.gif" /></a></li>
+                            <li> <a class="img" href="http://www.visaeurope.com/personal/onlineshopping/main.jsp"> <img title="Find out more about Verified by Visa." alt="Verifield by VISA" src="http://i.playserver1.com/newimages/_Global/Verified_By_Visa_Logo.gif" /></a></li>
+                            <li> <a class="img" href="http://www.mastercard.com/securecd/welcome.do"> <img title="Find out more about MasterCard SecureCode." alt="MasterCard SecureCode" src="http://i.playserver1.com/newimages/_Global/Securecode_Logo.gif" /></a></li>
+                        </ul>
+                    </section>
+                    <section class="payment unit size1of2 lastUnit" av="">
+                        <p>We accept:</p>
+                        <ul>
+                            <li> <img title="Visa" alt="Visa" src="http://i.playserver1.com/newimages/_Global/Visa_Logo.gif" /></li>
+                            <li> <img title="Master Card" alt="Master Card" src="http://i.playserver1.com/newimages/_Global/Mastercard_Logo.gif" /></li>
+                            <li> <img title="Maestro" alt="Maestro" src="http://i.playserver1.com/newimages/_Global/Meastro_Logo.gif" /></li>
+                            <li> <img title="Gift Vouchers" alt="Gift Vouchers" src="http://i.playserver1.com/newimages/2011/Global/GiftVoucher_BaseFooter.gif" /></li>
+                            <li> <img title="PlayFunds" alt="PlayFunds" src="http://i.playserver1.com/newimages/_Global/PlayFunds_Logo.gif" /></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

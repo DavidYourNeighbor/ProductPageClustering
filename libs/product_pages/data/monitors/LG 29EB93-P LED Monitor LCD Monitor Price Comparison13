@@ -1,0 +1,1256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>
+		LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor | Maplin</title>
+	<link rel="dns-prefetch" href="//images.maplinmedia.co.uk"/> 
+	<link rel="canonical" href="http://www.maplin.co.uk/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<meta name="description" content="Resolution 2560 x 1080. Response Time 5ms. Aspect Ratio 21:9. Contrast Ratio 1,000:1 (Typ) 5M:1 (DFC). Panel Type IPS" />
+		<meta name="robots" content="index,follow" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="970" />
+		<meta name="viewport" content="width=970, target-densitydpi=160, maximum-scale=1.0" />
+		<link rel="shortcut icon" href="/_ui/desktop/theme-blue/images/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/_ui/desktop/theme-blue/images/favicon.gif" type="image/gif" />
+	<link rel="apple-touch-icon" href="/_ui/desktop/theme-blue/images/favicon-apple.png" />
+
+	<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.datauri.2014-03-13-02-08-39.min.css" />
+		
+		<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/maplin.all.desktop.ie8.css" media="screen, projection" /> <![endif]-->
+		<!--[if IE 7]> 
+			<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.2014-03-13-02-08-39.min.css" />
+			<link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/maplin.all.desktop.ie7.css" media="screen, projection" />
+		<![endif]-->
+	<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css" />
+
+	<script type="text/javascript" src="/_ui/desktop/common/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
+	
+	<script type="text/javascript">
+/* Google Analytics */
+
+var isMaplinIreland = false;
+
+var googleAnalyticsTrackingId = 'UA-7986659-1';
+var googleAnalyticsRollupId = 'UA-7986659-7';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+_gaq.push(['rollup._setAccount', googleAnalyticsRollupId]);
+if (isMaplinIreland) {
+	_gaq.push(['_setDomainName', 'maplin.ie']);
+	_gaq.push(['rollup._setDomainName', 'maplin.ie']);
+} else {
+	_gaq.push(['_setDomainName', 'maplin.co.uk']);
+	_gaq.push(['rollup._setDomainName', 'maplin.co.uk']);
+}
+_gaq.push(['_setAllowAnchor', true]);
+_gaq.push(['_addOrganic', 'search.bt.com', 'p']);
+_gaq.push(['_addOrganic', 'search.sky.com', 'term']);
+_gaq.push(['_addOrganic', 'search.orange.co.uk', 'q']);
+_gaq.push(['_addOrganic', 'search2.virginmedia.com', 'q']);
+
+_gaq.push(['rollup._setAllowAnchor', true]);
+_gaq.push(['rollup._addOrganic', 'search.bt.com', 'p']);
+_gaq.push(['rollup._addOrganic', 'search.sky.com', 'term']);
+_gaq.push(['rollup._addOrganic', 'search.orange.co.uk', 'q']);
+_gaq.push(['rollup._addOrganic', 'search2.virginmedia.com', 'q']); 	
+
+
+
+		_gaq.push(['_setCustomVar', 2, 'CategoryOfProduct', 'Monitors', 3]);
+		_gaq.push(['rollup._setCustomVar', 2, 'CategoryOfProduct', 'Monitors', 3]);
+		
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['rollup._trackPageview']);
+	<!-- upon successful registration, push the appropriate google analytics event -->
+<!-- upon successful login, push the appropriate google analytics event -->
+<!-- if the just logged in customer has ever made an order, push the appropriate google analytics event -->
+<!-- if the just logged in user has subscribed to newsletter, push the appropriate google analytics event -->
+
+
+	
+(function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+$(document).ready(function() {
+	 // add onclick event to "latest catalog" and "promotions" banners
+    var cat = document.getElementById('LatestCatalogueBanner');
+    if (cat != null) {
+    	cat.setAttribute('onclick', "_gaq.push(['_trackEvent', 'Catalogue', 'Click']); _gaq.push(['rollup._trackEvent', 'Catalogue', 'Click']); WaitForSeconds(0.25);");
+    }
+    
+    var promo = document.getElementById('MonthlyPromoLeafletBanner');
+    if (promo != null) {
+    	promo.setAttribute('onclick', "_gaq.push(['_trackEvent', 'Monthly Promotions', 'Click']); _gaq.push(['rollup._trackEvent', 'Monthly Promotions', 'Click']); WaitForSeconds(0.25);");
+    }
+    
+    // add onclick event for the /espares page
+    $("#NeedSparePartBanner").attr('onclick', "_gaq.push(['_trackEvent', 'eSpares', 'Click', 'search now']); _gaq.push(['rollup._trackEvent', 'eSpares', 'Click', 'search now']); WaitForSeconds(0.25);");
+    $(".espares_cta").attr('onclick', "_gaq.push(['_trackEvent', 'eSpares', 'Click', 'search now']); _gaq.push(['rollup._trackEvent', 'eSpares', 'Click', 'search now']); WaitForSeconds(0.25);");
+    $(".repaircare_cta").attr('onclick', "_gaq.push(['_trackEvent', 'RepairCare', 'Click', 'quote request']); _gaq.push(['rollup._trackEvent', 'RepairCare', 'Click', 'quote request']); WaitForSeconds(0.25);");
+    $(".orange_box .inner_holder").attr('onclick', "_gaq.push(['_trackEvent', 'RepairCare', 'Click', 'quote request']); _gaq.push(['rollup._trackEvent', 'RepairCare', 'Click', 'quote request']); WaitForSeconds(0.25);");
+    
+    
+    // add onclick event for online chat
+    $(".livechat-tab").attr('onclick', "_gaq.push(['_trackEvent', 'Live Chat', 'Engage']); _gaq.push(['rollup._trackEvent', 'Live Chat', 'Engage']); WaitForSeconds(0.25);");
+    
+    // featured products - navigation
+    $( ".col4-4" ).each(function() {
+		var currUrl = $(this).find(".yCmsComponent .content a").attr("href");
+		$(this).find(".yCmsComponent .content a").attr("onclick", "_gaq.push(['_trackEvent', 'Navigation Products', 'Click', '" + currUrl + "']); _gaq.push(['rollup._trackEvent', 'Navigation Products', 'Click', '" + currUrl + "']); WaitForSeconds(0.25);");
+	});
+    
+    
+    // gallery video
+    var videoURL = $(".gallery-video").attr("href");
+    $(".gallery-video").attr('onclick', "_gaq.push(['_trackEvent', 'Video', 'Play', '" + videoURL +"']); _gaq.push(['rollup._trackEvent', 'Video', 'Play', '" + videoURL +"']); WaitForSeconds(0.25);");
+    
+    
+});
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+	_gaq.push(['rollup._trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+			_gaq.push(['rollup._trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+		} else {
+			_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+			_gaq.push(['rollup._trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+	_gaq.push(['rollup._trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+}
+</script>
+<script type="text/javascript">
+
+
+window.universal_variable = {
+	"version": "1.1.1",
+	"page": {
+		
+						"category": "Product"
+					
+	},
+	
+	"user" : {
+		"user_id": "##############",
+		"username": "##############",
+		"has_transacted": false,
+		"returning": false,
+		
+		
+		
+		
+		"language": "en"
+	},
+	
+	
+		"product" : {
+			"id": "A91LN",
+			"sku_code": "A91LN",
+		    "url": "/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln",
+		    "name": "LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor",
+		    "description": "•	Resolution 2560 x 1080&lt;br/&gt;•	Response Time 5ms&lt;br/&gt;•	Aspect Ratio 21:9&lt;br/&gt;•	Contrast Ratio 1,000:1 (Typ) 5M:1 (DFC)&lt;br/&gt;•	Panel Type IPS&lt;/br&gt;&lt;/br&gt;The LG EB93 monitor makes multi-tasking super easy with its Ultra Wide screen and 4-Screen Split feature. You can divide your screen into 4 customizable segments making it simple to have the information you need right in front of you. Have files on two separate devices? With Dual Link-up you can connect both devices to the monitor and view a file from each at the same time.&lt;br/&gt; &lt;br/&gt;Wider than ever, Ultra Wide 21:9 makes movies and games more immersive than ever. Trying to get some work done? The Ultra Wide screen makes it easy to view multiple documents at the same time, so you don&#039;t need to flip back and forth between documents.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Screen Splitter&lt;/b&gt;&lt;br/&gt;Multitasking should not mean flipping back and forth between windows. The 21:9 Ultra Wide monitor is not just wide - it&#039;s smart. With a single click, the 4-Screen Split feature divides the screen into up to four customizable segments.&lt;br/&gt; &lt;br/&gt;Disclaimer: *Screen Split software runs on Windows Vista/7/8 (software also runs on Windows XP for desktop PC’s only).&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Cinema Screen&lt;/b&gt;&lt;br/&gt;LG’s Cinema Screen features an elegant, groundbreaking design that looks beautiful, on or off with its ultra narrow bezel. See it for yourself!&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Dual Link-Up&lt;/b&gt;&lt;br/&gt;The Dual Link-up feature allows two compatible portable devices, like a computer, camera, phone, or Blu-ray player, to be connected to the monitor and viewed on a single screen simultaneously.&lt;br/&gt; &lt;br/&gt;* To use Dual Link-up, one device must be connected to the DisplayPort the other must be connected to either the HDMI or DVI port&lt;br/&gt; &lt;br/&gt;&lt;b&gt;IPS Display&lt;/b&gt;&lt;br/&gt;Super In Plane Switching (IPS) controls the liquid crystal display to help keep distortion at a minimum and allows users to view images on the screen at virtually any angle.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;True Colour Finder&lt;/b&gt;&lt;br/&gt;True Colour Finder is LG’s exclusive software for conducting hardware calibration. True Colour Finder makes accurately adjusting your monitor’s colour settings simple.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;External Calibrator&lt;/b&gt;&lt;br/&gt;LG offers the External Calibrator. You don’t need to prepare an expensive calibrator separately for conducting the hardware calibration process.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;LED Backlighting&lt;/b&gt;&lt;br/&gt;You won&#039;t believe your eyes. LG’s LED technology delivers amazing brightness, clarity and colour detail.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Hardware Calibration Ready&lt;/b&gt;&lt;br/&gt;Hardware Calibration is the solution that directly adjusts the monitor’s colour settings to deliver the most accurate colours, rather than adjusting its graphic board to deliver predictable colours.&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Technical Specification&lt;/b&gt;&lt;br/&gt;Panel Size 29.0&#034; (28.75&#034; measured diagonally)&lt;br/&gt;Panel Type IPS&lt;br/&gt;Colour Depth 8bit, 16.7M(True)&lt;br/&gt;Pixel Pitch(HxVxC) 0.0876(H) mm x RGB x 0.2628(V) mm&lt;br/&gt;Aspect Ratio 21:9&lt;br/&gt;Resolution 2560 x 1080&lt;br/&gt;Brightness (Typ) 300 cd/m2&lt;br/&gt;Contrast Ratio 1,000:1 (Typ) 5M:1 (DFC)&lt;br/&gt;Response Time (on/off) 5MS&lt;br/&gt;Viewing Angle (CR=10) 178&amp;deg;/178&amp;deg;&lt;br/&gt;Surface Treatment Hard Coating (3H), Anti-glare&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Inputs&lt;/b&gt;&lt;br/&gt;DVI-D Yes&lt;br/&gt;HDMI Yes (2)&lt;br/&gt;DisplayPort Yes&lt;br/&gt;PC Audio In Yes&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br/&gt;Audio Headphone Out&lt;br/&gt; &lt;br/&gt;&lt;b&gt;Special Features&lt;/b&gt;&lt;br/&gt;USB_Up Yes&lt;br/&gt;USB port Yes&lt;br/&gt;PC Yes&lt;br/&gt;Video Yes&lt;br/&gt;DDC/CI Yes&lt;br/&gt;HDCP Yes&lt;br/&gt;PIP Yes&lt;br/&gt;PBP Yes&lt;br/&gt;Plug &amp; Play Yes&lt;br/&gt;True colour Finder(S/W) Yes&lt;br/&gt;",
+		    "manufacturer": "LG",
+		    "category": "Monitors",
+		    "stock": 22,
+		    "currency": "GBP",
+		    "unit_sale_price": 459.99,
+		    "unit_price": 0
+		},
+	
+		"basket" : {
+			"currency": "GBP", 
+			"subtotal": 0,
+			
+			"tax": 0,
+			
+				
+			"total": 0,
+			"line_items": [
+			    
+			]
+		},
+		  
+	
+	
+	"ie7-fix": {}
+};
+
+</script>
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-52657-186390.js' async defer></script>
+<script type="text/javascript">
+var __ch = 1;
+var __stormJs = 't1.stormiq.com/dcv4/jslib/4307_1271065F_11B3_45A6_9D83_D2EFCC8AC38C.js';
+</script>
+
+<script type="text/javascript">
+
+</script><script type="text/javascript">
+		/*<![CDATA[*/
+		
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.commonResourcePath = "/_ui/desktop/common";
+			ACC.config.themeResourcePath = "/_ui/desktop/theme-blue";
+			ACC.config.siteResourcePath = "/_ui/desktop/site-maplin";
+			ACC.config.rootPath = "/_ui/desktop";	
+			ACC.pwdStrengthVeryWeak = 'Very weak';
+			ACC.pwdStrengthWeak = 'Weak';
+			ACC.pwdStrengthMedium = 'Medium';
+			ACC.pwdStrengthStrong = 'Strong';
+			ACC.pwdStrengthVeryStrong = 'Very strong';
+			ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+			ACC.pwdStrengthTooShortPwd = 'Too short';
+			ACC.pwdStrengthMinCharText = 'Minimum length is %d characters';
+			ACC.accessibilityLoading = 'Loading... Please wait...';
+			ACC.accessibilityStoresLoaded = 'Stores loaded';
+			
+			ACC.autocompleteUrl = '/search/autocomplete';
+			
+			
+		/*]]>*/
+	</script><script type="text/javascript">
+	function WaitForSeconds(s) {
+		s *= 1000; var t = new Date().getTime();
+		while ((new Date().getTime() - t) < s) var x = 0 >> 1;
+	}
+</script>
+
+</head>
+
+<body class="page-productDetails pageType-ProductPage template-pages-product-productLayout2Page  language-en">
+
+	<div id="header">
+	<div id="headtop" class="clearfix">
+	<div class="wrapper">
+		<h2 class="yCmsContentSlot"><div class="simple_disp-img">
+	<a id="SiteLogoComponent" href="/" ><img title="Maplin Electronics - the electronics specialist" alt="Maplin Electronics - the electronics specialist" src="/medias/logo-maplin.png?context=bWFzdGVyfGltYWdlc3wxMTk2NnxpbWFnZS9wbmd8aW1hZ2VzL2hlYy9oYTAvODgwOTAzODUxMjE1OC5wbmd8ZTYyY2JmZjIzNzgzNTAxYzA5ZGQ1ZGU3NzAwNTFlNDM4YmRhNjMwMDY3NzgwOTY2MGE0ZWE1NmNkZGI1ZWM5NA"></a>
+		</div></h2><div id="site-search">
+			<p>Need help? <a href="/contactus">Contact us</a> or 0844 557 6000</p>
+			
+			<form name="search_form" method="get" action="/search">
+				<input id="search" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search by phrase / item code" title="Search" />
+				<input type="image" src="/_ui/desktop/theme-blue/images/button-search.png" alt="Search" />
+				</form>
+		</div>
+		<ul id="head-items">
+		<li><a href="/store-finder"><i class="icon-map-marker"></i> Store Finder</a>
+			<div class="head-item-drop" style="display:none;">
+			<ul class="storefinder"><li>
+			<form id="storefinder-form" action="/store-finder" method="get">
+			<label for="locationQuery">Search for a store</label>
+			<input type="text" id="locationQuery" name="locationQuery" placeholder="Search by town or postcode">
+			<input class="lightBlue storefinder" type="submit" value="Search">
+			</form>
+			</li></ul>
+			</div>
+		</li>
+		<li><a href="#"><i class="icon-globe"></i> Country Settings</a>
+			<div class="head-item-drop" style="display:none;">
+				<ul class="language">
+					<li>
+						
+
+<label for="country-selector">Country</label>
+<select id="country-selector">
+	<option	value="http://www.maplin.co.uk" selected="selected">UK</option>
+	<option value="http://www.maplin.co.uk" >Ireland - coming soon!</option>
+	
+</select>
+
+</li>
+				</ul>
+			</div>
+		</li>
+		<li class="head-help"><a href="/help-centre"><i class="icon-question-sign"></i> Help</a></li>
+		<li class="head-basket">
+		
+		<div class="yCmsContentSlot"><div class="yCmsComponent"><script id="miniCartTemplate" type="text/x-jquery-tmpl">
+/*<![CDATA[*/
+	<i class="icon-shopping-cart"></i>
+	{{= totalItems}} items<br />
+	{{= subTotal.formattedValue}}
+/*]]>*/
+</script>
+
+<script type="text/javascript">
+var rolloverPopupUrl = '/cart/rollover/MiniCart';
+var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
+</script>
+
+<!-- mo: cart_content needed for accellerator javascript to work -->
+<div id="cart_content">
+	<a href="/cart" id="minicart_data">
+		<i class="icon-shopping-cart"></i>
+		0 items<br />
+		£0<span>.00</span>
+					</a>
+</div>
+
+<div id="cart-preview" class="head-item-drop"></div></div></div></li>
+		</ul>
+		
+		<div id="login" class="loggedout"><p>
+			You are not logged in<br />
+			<a href="/login">Register</a>
+			|
+			<a class="loginlink" href="/login">Login</a></p></div>
+		</div>
+	</div>
+	<div id="headbottom" class="clearfix">
+	<div class="wrapper">
+	<ul id="nav" class="yCmsContentSlot clearfix"><li class="nav95 auto">
+	<a href="/c/home-electricals"  title="Home Electricals" >Home Electricals</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/home-electricals"  title="Home Electricals" >Home Electricals</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/home-electricals/home-automation"  title="Home Automation" >Home Automation</a></li><li class="yCmsComponent "><a href="/c/home-electricals/home-entertainment"  title="Home Entertainment" >Home Entertainment</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/aerials-and-satellite"  title="Aerials & Satellite" >Aerials & Satellite</a></li><li class="yCmsComponent "><a href="/c/home-electricals/kitchen-appliances"  title="Kitchen Appliances" >Kitchen Appliances</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/household-appliances"  title="Household Appliances" >Household Appliances</a></li><li class="yCmsComponent "><a href="/c/home-electricals/heating-and-cooling"  title="Heating & Cooling" >Heating & Cooling</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/air-treatment"  title="Air Treatment" >Air Treatment</a></li><li class="yCmsComponent "><a href="/c/home-electricals/personal-health"  title="Personal Health" >Personal Health</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/headphones"  title="Headphones" >Headphones</a></li><li class="yCmsComponent "><a href="/c/home-electricals/personal-audio"  title="Personal Audio" >Personal Audio</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/radios"  title="Radios" >Radios</a></li><li class="yCmsComponent "><a href="/c/home-electricals/hi-fi-and-wireless-audio"  title="Hi-Fi & Wireless Audio" >Hi-Fi & Wireless Audio</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/clocks-and-watches"  title="Clocks & Watches" >Clocks & Watches</a></li><li class="yCmsComponent "><a href="/c/home-electricals/cameras-and-camcorders"  title="Cameras & Camcorders" >Cameras & Camcorders</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/camera-camcorder-accessories"  title="Camera/Camcorder Accessories" >Camera/Camcorder Accessories</a></li><li class="yCmsComponent "><a href="/c/home-electricals/media-archiving"  title="Media Archiving" >Media Archiving</a></li><li class="yCmsComponent even"><a href="/c/home-electricals/blank-media"  title="Blank Media" >Blank Media</a></li><li class="yCmsComponent "><a href="/c/home-electricals/telephones"  title="Telephones" >Telephones</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/search?text=dyson" class="poptrack">Dyson Vacuums, Fans &amp; Heaters</a></li>
+    <li><a href="/c/home-electricals/home-entertainment/video-senders" class="poptrack">Video Senders</a></li>
+    <li><a href="/search?text=wireless+speaker" class="poptrack">Wireless Speakers</a></li>
+    <li><a href="/p/cpr-call-blocker-N46QC" class="poptrack">Call Blockers</a></li>
+    <li><a href="/c/home-and-diy/home-appliances/dehumidifiers" class="poptrack">Dehumidifiers</a></li>
+    <li><a href="/c/home-electricals/home-automation#Brand:LightwaveRF&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">LightwaveRF - Home Automation</a></li>
+    <li><a href="/c/batteries-and-power/lighting/sad-lights" class="poptrack">SAD Lights</a></li>
+    <li><a href="/c/home-electricals/personal-health/ultrasonic-cleaners" class="poptrack">Ultrasonic Cleaners</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a alt="" href="/p/prod-A59KX"><img src="/medias/meganav-homelec-dehumidifier.png?context=bWFzdGVyfHJvb3R8MTI4NDZ8aW1hZ2UvcG5nfGhmNy9oZGYvODk0MzE3MjE5MDIzOC5wbmd8YTBjMDcyODk0ZjkwZmUxNzRlY2FjNWY0NjA1NDMwOTAxM2FlMGJlN2M2ZDU5NWVhOGZkZDhmYWJkZDc2ZDk5MA" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav75 auto">
+	<a href="/c/car-and-gps"  title="Car & GPS" >Car & GPS</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/car-and-gps"  title="Car & GPS" >Car & GPS</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/car-and-gps/car-gps"  title="Car GPS" >Car GPS</a></li><li class="yCmsComponent "><a href="/c/car-and-gps/car-power"  title="Car Power" >Car Power</a></li><li class="yCmsComponent even"><a href="/c/car-and-gps/car-audio-and-entertainment"  title="Car Audio & Entertainment" >Car Audio & Entertainment</a></li><li class="yCmsComponent "><a href="/c/car-and-gps/car-tools"  title="Car Tools" >Car Tools</a></li><li class="yCmsComponent even"><a href="/c/car-and-gps/car-security"  title="Car Security" >Car Security</a></li><li class="yCmsComponent "><a href="/c/car-and-gps/car-accessories"  title="Car Accessories" >Car Accessories</a></li><li class="yCmsComponent even"><a href="/c/car-and-gps/outdoor-gps"  title="Outdoor GPS" >Outdoor GPS</a></li><li class="yCmsComponent "><a href="/c/car-and-gps/trucking-products"  title="Trucking Products" >Trucking Products</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/search?text=jump+starter" class="poptrack">Jump Starters</a></li>
+    <li><a href="/c/diy/test-and-measurement/tyre-pressure-monitors" class="poptrack">Tyre Pressure Monitors</a></li>
+    <li><a href="/c/batteries-and-power/power-supplies/12v-inverters" class="poptrack">12V Inverters</a></li>
+    <li><a href="/c/car-and-gps/car-audio-and-entertainment/fm-transmitters" class="poptrack">FM Transmitters</a></li>
+    <li><a href="/c/car-and-gps/car-gps/car-gps#Brand:TomTom&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">TomTom Sat Nav</a></li>
+    <li><a href="/c/car-and-gps/car-gps#Brand:Garmin&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">Garmin Sat Nav</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/prod-A00JZ"><img src="/medias/mega-nav-car-invertor.png?context=bWFzdGVyfHJvb3R8MTc2NzJ8aW1hZ2UvcG5nfGhjZC9oZGMvODk0MzE3Mjg3ODM2Ni5wbmd8NWNmMTA0ZmIyNTQxMDk4ZjA1NjIzZjRjNzYxZTU0OTQ0NzhiMjkwMzMwOWIxYzVjZDhkODhlYmIwOGNjYTc0Nw" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="oneline auto">
+	<a href="/c/diy"  title="DIY" >DIY</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/diy"  title="DIY" >DIY</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/diy/ladders"  title="Ladders" >Ladders</a></li><li class="yCmsComponent "><a href="/c/diy/plumbing-tools"  title="Plumbing Tools" >Plumbing Tools</a></li><li class="yCmsComponent even"><a href="/c/diy/garden-tools"  title="Garden Tools" >Garden Tools</a></li><li class="yCmsComponent "><a href="/c/diy/decorating-tools"  title="Decorating Tools" >Decorating Tools</a></li><li class="yCmsComponent even"><a href="/c/diy/welding"  title="Welding" >Welding</a></li><li class="yCmsComponent "><a href="/c/diy/hand-tools"  title="Hand Tools" >Hand Tools</a></li><li class="yCmsComponent even"><a href="/c/diy/power-tools"  title="Power Tools" >Power Tools</a></li><li class="yCmsComponent "><a href="/c/diy/test-and-measurement"  title="Test & Measurement" >Test & Measurement</a></li><li class="yCmsComponent even"><a href="/c/diy/storage-cases-and-workwear"  title="Storage Cases & Workwear" >Storage Cases & Workwear</a></li><li class="yCmsComponent "><a href="/c/diy/tape-and-glue"  title="Tape & Glue" >Tape & Glue</a></li><li class="yCmsComponent even"><a href="/c/diy/pest-control"  title="Pest Control" >Pest Control</a></li><li class="yCmsComponent "><a href="/c/diy/fixings"  title="Fixings" >Fixings</a></li><li class="yCmsComponent even"><a href="/c/diy/labelling-machines"  title="Labelling Machines" >Labelling Machines</a></li><li class="yCmsComponent "><a href="/c/diy/cleaning-and-aerosols"  title="Cleaning & Aerosols" >Cleaning & Aerosols</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/c/diy/ladders/telescopic-ladders" class="poptrack">Telescopic Ladders</a></li>
+    <li><a href="/c/diy/test-and-measurement/multimeters" class="poptrack">Multimeters</a></li>
+    <li><a href="/c/diy/storage-cases-and-workwear/flight-cases" class="poptrack">Flight Cases</a></li>
+    <li><a href="/c/diy/power-tools/pressure-washers" class="poptrack">Pressure Washers</a></li>
+    <li><a href="/c/diy/pest-control/animal-repellent" class="poptrack">Animal Repellent</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/prod-n18kj"><img src="/medias/mega-nav-diy-ladder.png?context=bWFzdGVyfHJvb3R8MTE4MTN8aW1hZ2UvcG5nfGhmMi9oMDAvODk0MzE3MzA3NDk3NC5wbmd8MDE2NzFlZmE0MmE4MTEyNmZiODlkY2FmZTNhOWRmODg1MjBjZTFhYzAzOWU4NjU1ZGFiZTdmMDczMmVkYWRlZg" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav105 auto">
+	<a href="/c/computing-and-office"  title="Computing & Office" >Computing & Office</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/computing-and-office"  title="Computing & Office" >Computing & Office</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/computing-and-office/hard-drives"  title="Hard Drives" >Hard Drives</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/memory"  title="Memory" >Memory</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/networking"  title="Networking" >Networking</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/laptops"  title="Laptops" >Laptops</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/tablets"  title="Tablets" >Tablets</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/pc-components"  title="PC Components" >PC Components</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/desktop-pcs"  title="Desktop PCs" >Desktop PCs</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/computer-connectors"  title="Computer Connectors" >Computer Connectors</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/computer-adapters"  title="Computer Adapters" >Computer Adapters</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/computer-cables"  title="Computer Cables" >Computer Cables</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/pc-device-connectivity"  title="PC Device Connectivity" >PC Device Connectivity</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/printers-and-scanners"  title="Printers & Scanners" >Printers & Scanners</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/monitors-and-accessories"  title="Monitors & Accessories" >Monitors & Accessories</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/keyboards-and-mice"  title="Keyboards & Mice" >Keyboards & Mice</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/computer-speakers"  title="Computer Speakers" >Computer Speakers</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/software"  title="Software" >Software</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/computer-accessories"  title="Computer Accessories" >Computer Accessories</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/office-equipment"  title="Office Equipment" >Office Equipment</a></li><li class="yCmsComponent even"><a href="/c/computing-and-office/gaming"  title="Gaming" >Gaming</a></li><li class="yCmsComponent "><a href="/c/computing-and-office/mobile-phones-and-accessories"  title="Mobile Phones & Accessories" >Mobile Phones & Accessories</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>     <li><a href="/3d-printer" class="poptrack">3D Printers</a></li>     <li><a href="/c/computing-and-office/networking/powerline" class="poptrack">Powerline Kits &amp; Adapters</a></li>     <li><a href="/c/computing-and-office/hard-drives/external-hard-drives" class="poptrack">External Hard Drives</a></li>     <li><a href="/c/computing-and-office/memory/memory-cards" class="poptrack">Memory Cards</a></li>     <li><a href="/c/computing-and-office/memory/usb-sticks" class="poptrack">USB Sticks</a></li>     <li><a href="/c/computing-and-office/keyboards-and-mice/wireless-keyboards" class="poptrack">Wireless Keyboards</a></li>     <li><a href="/c/computing-and-office/pc-components/motherboard-bundles" class="poptrack">Motherboard Bundles</a></li>     <li><a href="/search?text=nvidia" class="poptrack">NVidia Graphics Cards</a></li> <!--    <li><a href="/search?text=turtle+beach" class="poptrack">Turtle Beach Headsets</a></li>
+    <li><a href="/c/computing-and-office/gaming/ouya" class="poptrack">Ouya</a></li>--> </ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/prod-a82lg"><img src="/medias/computing-and-office-2TB.png?context=bWFzdGVyfHJvb3R8MTA5OTV8aW1hZ2UvcG5nfGg3OS9oODAvODk0MzE3MzY2NDc5OC5wbmd8YjQzNTM2ZjhhZWIyZDJmMjQ0ZWEyZjM1YzJiZDU2OTc0OWFkNjdkODQ4ZWQ1YTY0YTBmMDY5ZmYzZGFlMzljZg" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav95 auto">
+	<a href="/c/cctv-and-security"  title="CCTV & Security" >CCTV & Security</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/cctv-and-security"  title="CCTV & Security" >CCTV & Security</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/cctv-and-security/cctv-kits"  title="CCTV Kits" >CCTV Kits</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/ip-cctv"  title="I.P. CCTV" >I.P. CCTV</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/ivs-intelligent-video-surveillance"  title="IVS (intelligent Video Surveillance)" >IVS (intelligent Video Surveillance)</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/dvrs-digital-video-recorders"  title="DVRs (Digital Video Recorders)" >DVRs (Digital Video Recorders)</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/wireless-cameras"  title="Wireless Cameras" >Wireless Cameras</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/wired-cameras"  title="Wired Cameras" >Wired Cameras</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/cctv-monitors"  title="CCTV Monitors" >CCTV Monitors</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/cctv-accessories"  title="CCTV Accessories" >CCTV Accessories</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/security-systems-and-alarms"  title="Security Systems & Alarms" >Security Systems & Alarms</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/doorbells-and-intercoms"  title="Doorbells & Intercoms" >Doorbells & Intercoms</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/car-security"  title="Car Security" >Car Security</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/covert-and-mobile-surveillance"  title="Covert & Mobile Surveillance" >Covert & Mobile Surveillance</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/marine-and-garden-security"  title="Marine & Garden Security" >Marine & Garden Security</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/home-safety"  title="Home Safety" >Home Safety</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/safes-and-locks"  title="Safes & Locks" >Safes & Locks</a></li><li class="yCmsComponent "><a href="/c/cctv-and-security/dummy-cameras-and-warning-signs"  title="Dummy Cameras & Warning Signs" >Dummy Cameras & Warning Signs</a></li><li class="yCmsComponent even"><a href="/c/cctv-and-security/cctv-cables"  title="CCTV Cables" >CCTV Cables</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/c/cctv-and-security/security-systems-and-alarms#Brand:Yale&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">Yale Home Security Alarms</a></li>
+    <li><a href="/c/cctv-and-security/marine-and-garden-security/outdoor-and-security-lighting" class="poptrack">Outdoor &amp; Security Lighting</a></li>
+    <li><a href="/c/cctv-and-security/covert-and-mobile-surveillance/spy-cameras" class="poptrack">Spy Cameras</a></li>
+    <li><a href="/c/cctv-and-security/home-safety/carbon-monoxide-alarms" class="poptrack">Carbon Monoxide Alarms</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/cctv-security-offer"><img src="/medias/mega-nav-save20.png?context=bWFzdGVyfHJvb3R8MTM0NzN8aW1hZ2UvcG5nfGgyNy9oYzQvODkzMjU2OTM1MDE3NC5wbmd8ZDExYjliYWNjNjY4ZDkzMTM2OTRiN2RhZjk1ZGNkMmVmNzFjY2NlNGNhM2JlMmE5YjVhOGYxMTk3M2ZiMmVmMQ" alt="" /></a></p>
+
+<!--<p><a href="/cctv-security-offer"><img src="/medias/mega-nav-save20.png?context=bWFzdGVyfHJvb3R8MTM0NzN8aW1hZ2UvcG5nfGgyNy9oYzQvODkzMjU2OTM1MDE3NC5wbmd8ZDExYjliYWNjNjY4ZDkzMTM2OTRiN2RhZjk1ZGNkMmVmNzFjY2NlNGNhM2JlMmE5YjVhOGYxMTk3M2ZiMmVmMQ" alt="" /></a></p>--></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav95 auto">
+	<a href="/c/batteries-and-power"  title="Batteries & Power" >Batteries & Power</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/batteries-and-power"  title="Batteries & Power" >Batteries & Power</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/batteries-and-power/alkaline-batteries"  title="Alkaline Batteries" >Alkaline Batteries</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/rechargeable-batteries"  title="Rechargeable Batteries" >Rechargeable Batteries</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/lithium-batteries"  title="Lithium Batteries" >Lithium Batteries</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/specialist-batteries"  title="Specialist Batteries" >Specialist Batteries</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/battery-chargers-and-testers"  title="Battery Chargers & Testers" >Battery Chargers & Testers</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/battery-clips-boxes-and-converters"  title="Battery Clips, Boxes & Converters" >Battery Clips, Boxes & Converters</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/power-supplies"  title="Power Supplies" >Power Supplies</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/solar-power"  title="Solar Power" >Solar Power</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/portable-power"  title="Portable Power" >Portable Power</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/car-power"  title="Car Power" >Car Power</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/wind-power"  title="Wind Power" >Wind Power</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/household-wiring"  title="Household Wiring" >Household Wiring</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/electrical-cables"  title="Electrical Cables" >Electrical Cables</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/surge-protection-and-rcd"  title="Surge Protection & RCD" >Surge Protection & RCD</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/lighting"  title="Lighting" >Lighting</a></li><li class="yCmsComponent "><a href="/c/batteries-and-power/torches"  title="Torches" >Torches</a></li><li class="yCmsComponent even"><a href="/c/batteries-and-power/bulbs"  title="Bulbs" >Bulbs</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+<li><a href="/search?text=maplin+batteries" class="poptrack">Maplin Batteries</a></li>
+<li><a href="/c/batteries-and-power/portable-power" class="poptrack">Portable Power</a></li>
+<li><a href="/c/batteries-and-power/solar-power/portable-solar-chargers" class="poptrack">Portable Solar Chargers</a></li>
+<li><a href="/c/batteries-and-power/household-wiring/remote-controlled-wiring" class="poptrack">Remote Controlled Sockets</a></li>
+<li><a href="/c/batteries-and-power/surge-protection-and-rcd/surge-protection" class="poptrack">Surge Protection</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/maplin-extra-long-life-alkaline-value-aa-batteries-100-pack-n43cy"><img src="/medias/batteries-and-power-100pk.png?context=bWFzdGVyfHJvb3R8MTUzODB8aW1hZ2UvcG5nfGgwYy9oNmEvODk0MzE3NDU0OTUzNC5wbmd8NmYyMDJmNjU0MzA0ZTY0YWRlZWY4Nzg0NmJjNDRjMzZlNmExZTU5OWEyZjA3MTBiM2IyNTJkMWM1NWQ0NjMyMQ" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav105 auto">
+	<a href="/c/cables-and-connectors"  title="Cables & Connectors" >Cables & Connectors</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/cables-and-connectors"  title="Cables & Connectors" >Cables & Connectors</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/cables-and-connectors/audio-visual-cables"  title="Audio Visual Cables" >Audio Visual Cables</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/networking-cables"  title="Networking Cables" >Networking Cables</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/computer-cables"  title="Computer Cables" >Computer Cables</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/connectors"  title="Connectors" >Connectors</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/audio-visual-adapters"  title="Audio Visual Adapters" >Audio Visual Adapters</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/cut-cable"  title="Cut Cable" >Cut Cable</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/electrical-cables"  title="Electrical Cables" >Electrical Cables</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/telephone-cables"  title="Telephone Cables" >Telephone Cables</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/computer-adapters"  title="Computer Adapters" >Computer Adapters</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/surge-protection-and-rcd"  title="Surge Protection & RCD" >Surge Protection & RCD</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/stage-cables"  title="Stage Cables" >Stage Cables</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/cctv-cables"  title="CCTV Cables" >CCTV Cables</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/cable-tools"  title="Cable Tools" >Cable Tools</a></li><li class="yCmsComponent "><a href="/c/cables-and-connectors/test-cables"  title="Test Cables" >Test Cables</a></li><li class="yCmsComponent even"><a href="/c/cables-and-connectors/cable-management"  title="Cable Management" >Cable Management</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/c/cables-and-connectors/audio-visual-cables/hdmi-cables" class="poptrack">HDMI Cables</a></li>
+    <li><a href="/c/cables-and-connectors/a-v-adapters/hdmi-adapters" class="poptrack">HDMI Adapters</a></li>
+    <li><a href="/c/cables-and-connectors/computer-cables/usb-cables" class="poptrack">USB Cables</a></li>
+    <li><a href="/c/computing-and-office/computer-cables/cat-5e-cables" class="poptrack">Cat5e Network Cables</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/nikkai-pure-connectivity-hdmi-male-to-hdmi-male-cable-10m-n79cr"><img src="/medias/cables-and-connectors-10m.png?context=bWFzdGVyfHJvb3R8OTUwNnxpbWFnZS9wbmd8aGZlL2g0OC84OTQzMTc0NzEzMzc0LnBuZ3w1ZDlmMTU0OTYwZGEyYjRmZWIyNjZjOThiOTNlNjFlZWQ2OGE4MTkyZmJlODQ2YWQzMmY3Nzk5NzM5NmNjODg0" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="oneline auto">
+	<a href="/c/components"  title="Components" >Components</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/components"  title="Components" >Components</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/components/resistors"  title="Resistors" >Resistors</a></li><li class="yCmsComponent "><a href="/c/components/semiconductors"  title="Semiconductors" >Semiconductors</a></li><li class="yCmsComponent even"><a href="/c/components/leds-and-displays"  title="LEDs & Displays" >LEDs & Displays</a></li><li class="yCmsComponent "><a href="/c/components/switches"  title="Switches" >Switches</a></li><li class="yCmsComponent even"><a href="/c/components/relays"  title="Relays" >Relays</a></li><li class="yCmsComponent "><a href="/c/components/fuses"  title="Fuses" >Fuses</a></li><li class="yCmsComponent even"><a href="/c/components/capacitors"  title="Capacitors" >Capacitors</a></li><li class="yCmsComponent "><a href="/c/components/transformers-and-ferrites"  title="Transformers & Ferrites" >Transformers & Ferrites</a></li><li class="yCmsComponent even"><a href="/c/components/motors"  title="Motors" >Motors</a></li><li class="yCmsComponent "><a href="/c/components/buzzers-and-loudspeakers"  title="Buzzers & Loudspeakers" >Buzzers & Loudspeakers</a></li><li class="yCmsComponent even"><a href="/c/components/component-testers"  title="Component Testers" >Component Testers</a></li><li class="yCmsComponent "><a href="/c/components/battery-clips-and-boxes"  title="Battery Clips & Boxes" >Battery Clips & Boxes</a></li><li class="yCmsComponent even"><a href="/c/components/anti-static"  title="Anti Static" >Anti Static</a></li><li class="yCmsComponent "><a href="/c/components/pcb-and-breadboards"  title="PCB & Breadboards" >PCB & Breadboards</a></li><li class="yCmsComponent even"><a href="/c/components/project-boxes"  title="Project Boxes" >Project Boxes</a></li><li class="yCmsComponent "><a href="/c/components/electronics-books"  title="Electronics Books" >Electronics Books</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+    <li><a href="/c/components/leds-and-displays/led-multi-packs" class="poptrack">LED Multipacks</a></li>
+    <li><a href="/c/components/leds-and-displays/led-strips" class="poptrack">LED Strips</a></li>
+    <li><a href="/c/components/capacitors" class="poptrack">Capacitors</a></li>
+    <li><a href="/c/components/resistors/multi-pack-resistors" class="poptrack">Resistor Packs</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/ut-30b-digital-compact-multimeter-n15by"><img src="/medias/meganav-component-DMM.png?context=bWFzdGVyfHJvb3R8MTQxNTl8aW1hZ2UvcG5nfGgxZC9oMzAvODk0MzE3NDgxMTY3OC5wbmd8ZTY1NGYzY2FhMGUyMWNkMjA0ZjIzMDc2Y2Q0NDA1NTA5NmIyZDRkOGYwYzk0MmNmYTUzNmUzOWJiNDY3Y2Y0OA" alt="" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<li class="nav125 no-right-border right_edge">
+	<a href="/c/gadgets-toys-and-hobbies"  title="Gadgets, Toys & Hobbies" >Gadgets, Toys & Hobbies</a><div class="meganav">
+			<div class="col12-4">
+				<h4><a href="/c/gadgets-toys-and-hobbies"  title="Gadgets, Toys & Hobbies" >Gadgets, Toys & Hobbies</a></h4>
+				<ul>
+					<li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/3d-printers"  title="3D Printers" >3D Printers</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/toys"  title="Toys" >Toys</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/professional-light"  title="Professional Light" >Professional Light</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/professional-sound"  title="Professional Sound" >Professional Sound</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/musical-instruments"  title="Musical Instruments" >Musical Instruments</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/media-archiving"  title="Media Archiving" >Media Archiving</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/projects-kits-and-modules"  title="Projects, Kits & Modules" >Projects, Kits & Modules</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/soldering"  title="Soldering" >Soldering</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/project-boxes"  title="Project Boxes" >Project Boxes</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/robotics"  title="Robotics" >Robotics</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/weather-stations"  title="Weather Stations" >Weather Stations</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/outdoor-gps"  title="Outdoor GPS" >Outdoor GPS</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/radio-communications"  title="Radio Communications" >Radio Communications</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/optical"  title="Optical" >Optical</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/metal-detectors"  title="Metal Detectors" >Metal Detectors</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/action-cams-and-accessories"  title="Action Cams & Accessories" >Action Cams & Accessories</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/cameras-and-camcorders"  title="Cameras & Camcorders" >Cameras & Camcorders</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/camera-camcorder-accessories"  title="Camera/Camcorder Accessories" >Camera/Camcorder Accessories</a></li><li class="yCmsComponent even"><a href="/c/gadgets-toys-and-hobbies/other-outdoor-pursuits"  title="Other Outdoor Pursuits" >Other Outdoor Pursuits</a></li><li class="yCmsComponent "><a href="/c/gadgets-toys-and-hobbies/books"  title="Books" >Books</a></li></ul>
+			</div>
+
+			<div class="col3-4">
+				<h4>Most Popular</h4>
+				<div class="yCmsComponent"><div class="content"><ul>
+<li><a href="/dj-and-mixing" class="poptrack">Dj &amp; Mixing</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/projects-kits-and-modules/raspberry-pi" class="poptrack">Raspberry Pi Kits</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/projects-kits-and-modules/arduino" class="poptrack">Arduino Kits</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/toys/radio-controlled-toys" class="poptrack">RC Toys</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/professional-sound/pa-speakers" class="poptrack">PA Speakers</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/professional-sound/portable-pa" class="poptrack">Portable PA</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/professional-sound/microphones" class="poptrack">Microphones</a></li>
+    <li><a href="/c/gadgets-toys-and-hobbies/media-archiving/slide-and-film-scanners" class="poptrack">Slide &amp; Film Scanners</a></li>
+</ul></div></div></div>
+			<div class="col4-4">
+				<div class="yCmsComponent"><div class="content"><p><a href="/p/prod-r45pi"><img src="/medias/meganav-gadgets-Pi.png?context=bWFzdGVyfHJvb3R8MTM4MTV8aW1hZ2UvcG5nfGhjNy9oYjEvODk0MzE3NTIzNzY2Mi5wbmd8OWIyNWU1ODg4ZWNmMWY5OTlkZDEyZmIxOGZjNjRiY2JlZmI0ZTcyZGYwY2E5MjE0YmUxZTNlOGNiZjYyNjRjMQ" alt="gagdets and toys" /></a></p></div></div></div>
+
+		</div>
+
+	</li>
+<div class="content"><ul>
+    <li style="width: 96px;" class="nav125 no-right-border right_edge offers offers nav95"><a href="/c/special-offers" title="Special Offers">Special<br />
+    Offers</a></li>
+</ul></div></ul><ul id="infodrops" class="yCmsContentSlot clearfix"><li><a href="#whyMaplinTab" onclick="_gaq.push(['_trackEvent', 'Banner info tab', 'Click', 'Challenge the Maplineers']); _gaq.push(['rollup._trackEvent', 'Banner info tab', 'Click', 'Challenge the Maplineers']); WaitForSeconds(0.25);">Challenge the Maplineers<i class="icon-angle-down"></i></a></li>
+<li><a href="#deliveryTab" onclick="_gaq.push(['_trackEvent', 'Banner info tab', 'Click', 'Delivery']); _gaq.push(['rollup._trackEvent', 'Banner info tab', 'Click', 'Delivery']); WaitForSeconds(0.25);">Delivery<i class="icon-angle-down"></i></a></li>
+<li><a href="#hereToHelpTab" onclick="_gaq.push(['_trackEvent', 'Banner info tab', 'Click', 'Here To Help']); _gaq.push(['rollup._trackEvent', 'Banner info tab', 'Click', 'Here To Help']); WaitForSeconds(0.25);">Here To Help<i class="icon-angle-down"></i></a></li>
+</ul><div id="infodropdetail" class="yCmsContentSlot clearfix" data-tabhead-id="infodrops"><div data-uid="whyMaplinTab" class="tab-content" title="Challenge the Maplineers"><p><img class="right" src="/medias/returns.png?context=bWFzdGVyfHJvb3R8MTQxOTV8aW1hZ2UvcG5nfGg5Yi9oY2MvODc5NjMwMjM3Njk5MC5wbmd8MjNlZDRhZmIxYTdmYmMwYzcyMmVhYTRiMGNkYjhlN2IxZWMwNjY5ODJhMjIwZTMwM2U4M2NmMmE2MDM4YjAxOQ" border="0" width="220" height="220" alt="" /></p>
+<h3>365 day product quality no quibble guarantee</h3>
+<p>Our enhanced customer service is what makes Maplin different.</p>
+<p>Our Maplineers are enthusiasts, hobbyists and DJ&rsquo;s and so we really do understand how important it is to help you find the right product for your individual needs. Our extensive range has something for everyone and our sensational service makes shopping with us simple and easy. Should your product experience a fault, simply return it within a year for an exchange, credit note or full refund. Whether in store or online we always go that extra mile to make sure that whatever your problem, we have the answer.</p>
+<p>Great service and a fantastic range from Maplin, the Electronics Specialist.</p></div><div data-uid="deliveryTab" class="tab-content" title="Delivery"><p><img class="right" src="/medias/deliverytab.png?context=bWFzdGVyfHJvb3R8MTQ1NjN8aW1hZ2UvcG5nfGhiYS9oZmUvODc5NjMwMjQ3NTI5NC5wbmd8YjUzNDQzYjI3MjRlNzZlMDgyNjJkYTNlNTdhOTIyOTJkOTdmZTgxMTM3YzdjY2FkY2I4NjA1N2Y1YTNjZmE2YQ" border="0" width="220" height="220" alt="" /></p>
+<h3>Delivery methods</h3>
+<p>It&rsquo;s important to us that you can get your order, when, where and how you prefer. We&rsquo;ve made our delivery options flexible and to suit you:</p>
+<p><strong>Next Day Delivery</strong> &ndash; available on all products except those shipped from alternate warehouse<br />
+<strong>Free Standard Delivery</strong> &ndash; available on all products over &pound;10 <!--&ndash; on <strong>ALL</strong> orders, subject to availability, until 31/01/14--> <br />
+<strong>Shutl &ldquo;Now!&rdquo;</strong> &ndash; delivery within as little as 90 minutes<br />
+<strong>Shutl &ldquo;When!&rdquo;</strong> &ndash; choose a 1-hour delivery window up to 13 days in advance<br />
+<strong>Click &amp; Collect:</strong> &ndash; pay online and have your item delivered to your chosen store. Ready for collection within 30 minutes or if the store doesn&rsquo;t have stock, ready for collection in 3 days. If your item is in stock you can also reserve it for free.  Items will be ready for collection within 30 minutes and held for 7 days.</p></div><div data-uid="hereToHelpTab" class="tab-content" title="Here To Help"><style>
+*/.jcarousel-container .gridtile .tileactions .findastore {display: none}*/
+</style>
+
+<p><img class="right" src="/medias/waystoshop.png?context=bWFzdGVyfHJvb3R8MTUxNTV8aW1hZ2UvcG5nfGgyYS9oODgvODc5NjMwMjU3MzU5OC5wbmd8OGIwMDY5NTg5NzlmNmZlYTRmZWM4YmIzYzQyMDA0Y2NkMzlmMzc3ODQ3NGRiNjBmNTg4NzQxOGVhMDE3MzRkMg" border="0" width="220" height="220" alt="" /></p>
+<h3>Desktop, Mobile, In Store..</h3>
+<p>Accessible. It&rsquo;s easy to shop with Maplin.</p>
+<p>Browse our fantastic range of products on your desktop, mobile and tablet or visit us  in one of over 200 stores located throughout the UK and Ireland.  Choose a fast, reliable home delivery or pick your item up using our Click &amp; Collect service.  You can also call our customer support team for friendly, expert advice or shop using  our mobile app for iOS.</p>
+<p>Great service and really helpful ideas from Maplin, the Electronics Specialist.</p>
+
+<p>&nbsp;</p></div></div></div>
+	</div>
+	
+	
+	
+	
+</div>
+<div id="cart_popup" class="cart_popup"></div><div id="main">
+			<div class="wrapper">
+				<div class="box squaretop notop darkshadow">
+	<ul class="breadcrumb clearfix">
+	<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+		<a href="/" itemprop="url" title="Home">
+			<span itemprop="title">Home</span>
+		</a>
+	</li>
+
+	<li class="" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" >
+			<a href="/c/computing-and-office" title="Computing &amp; Office" itemprop="url">
+						<span itemprop="title">Computing &amp; Office</span>
+					</a>
+				</li>
+	<li class="" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" >
+			<a href="/c/computing-and-office/monitors-and-accessories" title="Monitors &amp; Accessories" itemprop="url">
+						<span itemprop="title">Monitors &amp; Accessories</span>
+					</a>
+				</li>
+	<li class="" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" >
+			<a href="/c/computing-and-office/monitors-and-accessories/monitors" title="Monitors" itemprop="url">
+						<span itemprop="title">Monitors</span>
+					</a>
+				</li>
+	<li class="active" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" >
+			<a href="/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln" title="LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor" itemprop="url">
+						<span itemprop="title">LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor</span>
+					</a>
+				</li>
+	</ul>
+
+<div class="clearfix" itemscope itemtype="http://schema.org/Product">	
+		<div id="globalMessages">
+			</div>
+
+		<div class="leftcol-3-4">
+			<div>
+<div class="product-images">
+	<img src="http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=283&h=283&r=4&o=9FOYVXSawHoLMDEY2aUaPiXBuPwj&V=PA4D" alt="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" title="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" class="main-image cloudzoom" id="zoom1" itemprop="image" data-cloudzoom="zoomImage: 'http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=515&h=515&r=4&o=9FOYVXSawHoLMDEY2aUaPiXBuPwj&V=PA4D', zoomSizeMode: 'image'"  />
+			<iframe src="about:blank" style="display: none;" id="primaryImageIframe" width="283" height="283" frameborder="0" allowfullscreen></iframe>
+	<div class="img-nav clearfix">
+<a href="#" class="img-left"><i class="icon-angle-left"></i></a>
+	<ul id="carousel_alternate" class="jcarousel-skin alt">
+		<li class="current">
+					<a href="#" title="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" class="cloudzoom-gallery" data-cloudzoom='{"useZoom":"#zoom1", "image": "http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=283&h=283&r=4&o=9FOYVXSawHoLMDEY2aUaPiXBuPwj&V=PA4D", "zoomImage": "http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=515&h=515&r=4&o=9FOYVXSawHoLMDEY2aUaPiXBuPwj&V=PA4D"}'>
+						<img src="http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=56&h=56&r=4&o=9FOYVXSawHoLMDEY2aUaPiXBuPwj&V=PA4D" alt="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" title="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor"/>
+					</a>
+				</li>
+			<li >
+					<a href="#" title="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" class="cloudzoom-gallery" data-cloudzoom='{"useZoom":"#zoom1", "image": "http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=283&h=283&r=4&o=r8P6YBpmTJDGQF5rIJcvtQUp3FAj&V=PA4D", "zoomImage": "http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=515&h=515&r=4&o=r8P6YBpmTJDGQF5rIJcvtQUp3FAj&V=PA4D"}'>
+						<img src="http://images.maplinmedia.co.uk/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor.jpg?w=56&h=56&r=4&o=r8P6YBpmTJDGQF5rIJcvtQUp3FAj&V=PA4D" alt="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor" title="lg-29-inch-2560-x-1080-ultra-wide-ips-monitor"/>
+					</a>
+				</li>
+			</ul>
+	<a href="#" class="img-right"><i class="icon-angle-right"></i></a>
+</div>
+<p class="cornerflash hats tab-webonly">Web only</p>
+	</div>
+<div class="product-summary">
+
+	<h1 itemprop="name">LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor</h1>
+	<p class="productcode">Code: <span itemprop="sku">A91LN</span></p>
+	<p class="rating">
+			No Reviews<br />
+			<a href="#" class="write_review_action">
+				Write a Review</a>
+		</p>
+	<ul>
+		<li>Resolution 2560 x 1080</li>
+		<li>Response Time 5ms</li>
+		<li>Aspect Ratio 21:9</li>
+		</ul>
+
+	<ul class="details">
+	</ul>
+
+	<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_pinterest_share"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=undefined"></script>
+<!-- AddThis Button END --></div>
+</div>
+<div>
+<ul id="producttabs" class="tabs clearfix">
+	<li><a href="#tab_overview"><i class="icon-info-sign"></i> Overview</a></li>
+	<li><a href="#tab_reviews">Reviews<i class="icon-star nope"></i><i class="icon-star nope"></i><i class="icon-star nope"></i><i class="icon-star nope"></i><i class="icon-star nope"></i></a></li>
+	<li><a href="#tab_questions"><i class="icon-question-sign"></i> Questions</a></li>
+	<li><a href="#tab_bulkprices"><i class="icon-plus-sign"></i> Bulk prices</a></li>
+	<!-- <li><a href="#tab_downloads"><i class="icon-arrow-down"></i> Downloads</a></li> -->
+</ul>
+
+
+<div id="producttabsdetail">
+<div id="tab_overview">
+	<h3>Product details</h3>
+	<h4>LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor</h4>
+<div class="productDescription" itemprop="description">
+		•	Resolution 2560 x 1080<br/>•	Response Time 5ms<br/>•	Aspect Ratio 21:9<br/>•	Contrast Ratio 1,000:1 (Typ) 5M:1 (DFC)<br/>•	Panel Type IPS</br></br>The LG EB93 monitor makes multi-tasking super easy with its Ultra Wide screen and 4-Screen Split feature. You can divide your screen into 4 customizable segments making it simple to have the information you need right in front of you. Have files on two separate devices? With Dual Link-up you can connect both devices to the monitor and view a file from each at the same time.<br/> <br/>Wider than ever, Ultra Wide 21:9 makes movies and games more immersive than ever. Trying to get some work done? The Ultra Wide screen makes it easy to view multiple documents at the same time, so you don't need to flip back and forth between documents.<br/> <br/><b>Screen Splitter</b><br/>Multitasking should not mean flipping back and forth between windows. The 21:9 Ultra Wide monitor is not just wide - it's smart. With a single click, the 4-Screen Split feature divides the screen into up to four customizable segments.<br/> <br/>Disclaimer: *Screen Split software runs on Windows Vista/7/8 (software also runs on Windows XP for desktop PC’s only).<br/> <br/><b>Cinema Screen</b><br/>LG’s Cinema Screen features an elegant, groundbreaking design that looks beautiful, on or off with its ultra narrow bezel. See it for yourself!<br/> <br/><b>Dual Link-Up</b><br/>The Dual Link-up feature allows two compatible portable devices, like a computer, camera, phone, or Blu-ray player, to be connected to the monitor and viewed on a single screen simultaneously.<br/> <br/>* To use Dual Link-up, one device must be connected to the DisplayPort the other must be connected to either the HDMI or DVI port<br/> <br/><b>IPS Display</b><br/>Super In Plane Switching (IPS) controls the liquid crystal display to help keep distortion at a minimum and allows users to view images on the screen at virtually any angle.<br/> <br/><b>True Colour Finder</b><br/>True Colour Finder is LG’s exclusive software for conducting hardware calibration. True Colour Finder makes accurately adjusting your monitor’s colour settings simple.<br/> <br/><b>External Calibrator</b><br/>LG offers the External Calibrator. You don’t need to prepare an expensive calibrator separately for conducting the hardware calibration process.<br/> <br/><b>LED Backlighting</b><br/>You won't believe your eyes. LG’s LED technology delivers amazing brightness, clarity and colour detail.<br/> <br/><b>Hardware Calibration Ready</b><br/>Hardware Calibration is the solution that directly adjusts the monitor’s colour settings to deliver the most accurate colours, rather than adjusting its graphic board to deliver predictable colours.<br/> <br/><b>Technical Specification</b><br/>Panel Size 29.0" (28.75" measured diagonally)<br/>Panel Type IPS<br/>Colour Depth 8bit, 16.7M(True)<br/>Pixel Pitch(HxVxC) 0.0876(H) mm x RGB x 0.2628(V) mm<br/>Aspect Ratio 21:9<br/>Resolution 2560 x 1080<br/>Brightness (Typ) 300 cd/m2<br/>Contrast Ratio 1,000:1 (Typ) 5M:1 (DFC)<br/>Response Time (on/off) 5MS<br/>Viewing Angle (CR=10) 178&deg;/178&deg;<br/>Surface Treatment Hard Coating (3H), Anti-glare<br/> <br/><b>Inputs</b><br/>DVI-D Yes<br/>HDMI Yes (2)<br/>DisplayPort Yes<br/>PC Audio In Yes<br/> <br/><b>Output</b><br/>Audio Headphone Out<br/> <br/><b>Special Features</b><br/>USB_Up Yes<br/>USB port Yes<br/>PC Yes<br/>Video Yes<br/>DDC/CI Yes<br/>HDCP Yes<br/>PIP Yes<br/>PBP Yes<br/>Plug & Play Yes<br/>True colour Finder(S/W) Yes<br/></div>
+</div>
+<div id="tab_reviews">
+	<script type="text/javascript">
+/*<![CDATA[*/
+	var showReviewForm = false;
+	var getAllReviewsUrl = '/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/reviewhtml/all';
+	var getSomeReviewsUrl = '/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/reviewhtml/10';
+/*]]>*/
+</script>
+
+<div id="reviews">
+	<h3 class="left">Reviews</h3>
+<a href="#" class="write_review_action simple-button right">
+	<i class="icon-plus-sign"></i>
+	Be the first to write a review</a>
+<div class="pagelist clearfix">
+<p>0&nbsp;of&nbsp;0&nbsp;Reviews</p>
+
+	</div>
+
+</div>
+<div id="write_reviews" style="display:none">
+	<div class="write_review">
+		<h3>Write a Review</h3>
+		<p><a href="#" class="read_reviews_action simple-button right">Back To Reviews</a></p>
+		<form id="reviewForm" class="registerform val" action="/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/review" method="post"><label class=" required" for="review.headline">
+		Enter a title for your review<span>*</span>
+		</label>
+	
+	<span class="status-unfilled">
+				<input id="review.headline" name="headline" class="text required" type="text" value=""/></span>
+		<label class=" required" for="review.comment">
+		Your review<span>*</span>
+		</label>
+	
+	<span class="">
+				<textarea id="review.comment" name="comment" class="textarea required"></textarea></span>
+		<label class="required">How do you rate this item?<span>*</span></label>
+				<div id="stars-wrapper" class="give-rating">
+					<select id="rating" name="rating"><option value="1">&#9733</option><option value="2">&#9733 &#9733</option><option value="3">&#9733 &#9733 &#9733</option><option value="4">&#9733 &#9733 &#9733 &#9733</option><option value="5">&#9733 &#9733 &#9733 &#9733 &#9733</option></select></div>
+			<label class=" required" for="review.alias">
+		Your Name<span>*</span>
+		</label>
+	
+	<span class="status-unfilled">
+				<input id="review.alias" name="alias" class="text required" type="text" value=""/></span>
+		<label class=" required" for="review.email">
+		Email address<span>*</span>
+		</label>
+	
+	<span class="status-unfilled">
+				<input id="review.email" name="email" class="text required" type="email" value=""/></span>
+		<div>
+				<button type="submit" class="simple-button" value="Submit Review">Submit Review</button>
+			</div>
+		<input type="hidden" name="CSRFToken" value="e7772886-40dd-4fde-bc7e-348accdb3c11"></input>
+</form></div>
+</div>	
+	</div>
+<div id="tab_questions">
+	<script type="text/javascript">
+/*<![CDATA[*/
+	var showQuestionForm = false;
+	var getAllQuestionsUrl = '/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/questionhtml/all';
+	var getSomeQuestionsUrl = '/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/questionhtml/10';
+	var productUrl = '/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln';
+/*]]>*/
+</script>
+
+
+<div id="questions">
+	<h3 class="left">Questions</h3>
+<a href="#" class="write_question_action simple-button right">
+	<i class="icon-plus-sign"></i>
+	Be the first to ask a question</a>
+<div class="pagelist clearfix">
+<p>0&nbsp;of&nbsp;0&nbsp;Questions</p>
+
+	</div>
+
+</div>
+
+<div id="write_questions" style="display:none">
+	<div class="write_question">
+		<h3>Ask a Question</h3>
+		<p><a href="#" class="read_questions_action simple-button right">Back To Questions</a></p>
+		<form id="questionForm" class="registerform val" action="/p/lg-29-inch-2560-x-1080-ultra-wide-ips-monitor-a91ln/question" method="post"><label class=" required" for="question.name">
+		Your Name<span>*</span>
+		</label>
+	
+	<span class="status-unfilled">
+				<input id="question.name" name="customerName" class="text required" type="text" value=""/></span>
+		<label class=" required" for="question.email">
+		Email address<span>*</span>
+		</label>
+	
+	<span class="status-unfilled">
+				<input id="question.email" name="customerEmail" class="text required" type="email" value=""/></span>
+		<label class=" required" for="question.text">
+		Your question<span>*</span>
+		</label>
+	
+	<span class="">
+				<textarea id="question.text" name="questionText" class="textarea required"></textarea></span>
+		<div>
+				<button type="submit" class="simple-button" value="Submit question">Submit question</button>
+			</div>
+		<input type="hidden" name="CSRFToken" value="e7772886-40dd-4fde-bc7e-348accdb3c11"></input>
+</form></div>
+</div>	
+	</div>
+<div id="tab_bulkprices" data-append-mode="append">
+	<h3>Bulk Prices</h3>
+	<table class="bulk-prices">
+	<tbody>
+		<tr>
+			<th>Item code</th>
+			<th>Item name</th>
+			<th>Quantity</th>
+			<th>Price</th>
+		</tr>
+		<tr>
+			<td>A91LN</td>
+			<td>LG 29 Inch 2560 x 1080 Ultra Wide IPS Monitor</td>
+			<td>(1+)</td>
+			<td>£459<span>.99</span>
+				</td>
+		</tr>
+		</tbody>
+	</table>
+</div>
+<!-- <div id="tab_downloads">
+	<h3>Downloads</h3>
+	<p>Todo</p>
+</div> -->
+<div data-uid="tab_reviews" class="tab-content" title="Reviews"><p><img src="/medias/productpage-review.png?context=bWFzdGVyfHJvb3R8NzMwNHxpbWFnZS9wbmd8aDhhL2hmZi84Nzk2NDE0NjA3MzkwLnBuZ3wxMmQ2NjMzZDU0MmJkYmM5ZTlhZWRkOTVhMWI3MDhkNzUxNTQyNjk0ODMwYWI4NTE1ZGY4NTdlYTFjMDdjNmFh" border="0" /></p></div><div data-uid="tab_questions" class="tab-content" title="Questions"><p><img src="/medias/productpage-question.png?context=bWFzdGVyfHJvb3R8NDA0NnxpbWFnZS9wbmd8aGUwL2hiMC84Nzk2NDE0OTM1MDcwLnBuZ3w3NjM0YTkxNjA1MGY4MGUyZDM0ZjNjNTNlMzQyNDEzOTYzNmJkYjk1YWJjNDlmZDdiNTgxNjJkNTZhMGNlMjJk" border="0" /></p></div><div data-uid="tab_bulkprices" class="tab-content" title="Bulk prices"><h3>Why not tell us and our B2B sales team about your specific business needs and expectations?</h3><p>Offering a 1-2-1 personal account management service each representative is ableto help you ensure the service from Maplin meets your approval on all levels everytime.</p><p>As well as being able to help you benefit from volume quotations and bespoke productsourcing our team also offers a wide range of business services including:</p><ul><li>30 Day EOM credit terms available on application</li><li>FREE delivery on all orders above &pound;10</li><li>A range of guaranteed delivery services to ensure your goods are with you to meetthose tight deadlines</li><li>Proforma Invoices</li><li>Scheduled and forward ordering system</li><li>Product branding and bespoke product sourcing available on application</li><li>Online and in-store account use</li><li>5% discount for all schools and colleges</li><li>7% discount for all universities</li><li>Sample product service - available on application</li><li>Supplier cross-referencing and BOM quotations</li></ul><p>As you can see, our range of services is comprehensive and built to service everytype of business need. We are committed to providing your business with 1st classsales and customer service.</p><p>Our aim is to establish mutually beneficial long-term relationships where our customersreceive a high class of reliable service.</p><p>Please contact us on 0844 557 6000 to discuss your business needs with your individualaccount manager.</p></div></div>
+
+</div>
+
+</div>
+		<div class="rightbar">
+			<div id="product-ctas">
+			    <div class="prices">
+			<p itemprop="offers" itemscope itemtype="http://data-vocabulary.org/Offer" class="new-price" >
+					<meta itemprop="priceCurrency" content="GBP" />
+					<meta itemprop="price" content="459.99">
+					£459<span>.99</span>
+				</p>
+			</div>
+	
+<ul class="details">
+</ul><p>
+			    	</p>
+				<div class="prod_add_to_cart">
+	<!--  pt:/s:Z/isiw:true/sshs:true/pre:false -->
+	<form id="addToCartFormA91LN" class="add_to_cart_form" action="/cart/add" method="post" tabindex="-1">
+		<input type="hidden" name="productCodePost" value="A91LN"/>
+
+		<input type="text" maxlength="3" size="1" id="qty" name="qty"
+						class="qty" value="1" title="Quantity" />
+				<input type="submit" class="green addtobasket" disabled="disabled" value="Add to basket" />
+	</form>
+</div><ul class="stock-status clearfix">
+<li><i class="icon-ok-sign"></i> Home Delivery</li>
+	<li><i class="icon-remove-sign"></i> Click &amp; Collect</li>
+	</ul>
+</div>
+			<div id="store-search" class="clearfix">
+				</div>
+			<div class="yCmsContentSlot ad-285x140"><div class="content"><p><style type="text/css">
+.ad-285x140 {margin-bottom: 40px;}
+.promo-ad-285x200 {width: 285px; margin-bottom: 10px; height: 200px; float: right;
+}
+
+</style></p>
+
+<p><a href="/c/special-offers"><img src="/medias/P4-Product.png?context=bWFzdGVyfHJvb3R8NDE1NnxpbWFnZS9wbmd8aGI0L2g5OC84OTQzMTU3NzA2NzgyLnBuZ3xjYjA1NzkxNjQyMGY1N2I3MWQ4MDdjNjk1Yjk0NmQ3NjllYWI0YTk5NjViZTUzYzc3OTg1OGFhMWZjYzMzZDMx" border="0" alt="" /></a></p></div><div class="content"><p><style type="text/css">
+
+#product-ctas .new-price { font-size:59px;margin-top: 15px; }
+.breadcrumb li:first-child { margin-left:0px; }
+
+.product-summary .productcode { color: #606063; }
+
+.tab-freedelivery { 
+background: url('/medias/corner-flags-big.png?context=bWFzdGVyfGltYWdlc3wyMjc4NHxpbWFnZS9wbmd8aW1hZ2VzL2gzZC9oYjgvODkyOTAwMzQwNTM0Mi5wbmd8NjhjYzRhMDU0NjNiY2VkNDJlOGM5MzRhMTUzM2NlYjZmNDcxMDBjMDIwMTg5ODg5Yjk5NDBjMWJhNDRmYTE3Zg') -11px -11px;
+width: 106px;
+height: 106px;
+overflow:hidden;
+top:-9px;
+left:-35px !important;
+}
+
+.tab-webonly {
+
+background: url('/medias/corner-flags-big.png?context=bWFzdGVyfGltYWdlc3wyMjc4NHxpbWFnZS9wbmd8aW1hZ2VzL2gzZC9oYjgvODkyOTAwMzQwNTM0Mi5wbmd8NjhjYzRhMDU0NjNiY2VkNDJlOGM5MzRhMTUzM2NlYjZmNDcxMDBjMDIwMTg5ODg5Yjk5NDBjMWJhNDRmYTE3Zg') -311px -11px;
+width: 106px;
+height: 106px;
+overflow:hidden;
+top:-9px;
+left:-35px !important;
+
+
+}
+
+.tab-newproduct {
+
+background: url('/medias/corner-flags-big.png?context=bWFzdGVyfGltYWdlc3wyMjc4NHxpbWFnZS9wbmd8aW1hZ2VzL2gzZC9oYjgvODkyOTAwMzQwNTM0Mi5wbmd8NjhjYzRhMDU0NjNiY2VkNDJlOGM5MzRhMTUzM2NlYjZmNDcxMDBjMDIwMTg5ODg5Yjk5NDBjMWJhNDRmYTE3Zg') -161px -11px;
+width: 106px;
+height: 106px;
+overflow:hidden;
+top:-9px;
+left:-35px !important;
+
+}
+
+.tab-over18 {
+
+background: url('/medias/corner-flags-big.png?context=bWFzdGVyfGltYWdlc3wyMjc4NHxpbWFnZS9wbmd8aW1hZ2VzL2gzZC9oYjgvODkyOTAwMzQwNTM0Mi5wbmd8NjhjYzRhMDU0NjNiY2VkNDJlOGM5MzRhMTUzM2NlYjZmNDcxMDBjMDIwMTg5ODg5Yjk5NDBjMWJhNDRmYTE3Zg') -461px -11px;
+width: 106px;
+height: 106px;
+overflow:hidden;
+top:-9px;
+left:-35px !important;
+
+}
+
+
+.tab-refurb_used {
+
+background: url('/medias/corner-flags-big.png?context=bWFzdGVyfGltYWdlc3wyMjc4NHxpbWFnZS9wbmd8aW1hZ2VzL2gzZC9oYjgvODkyOTAwMzQwNTM0Mi5wbmd8NjhjYzRhMDU0NjNiY2VkNDJlOGM5MzRhMTUzM2NlYjZmNDcxMDBjMDIwMTg5ODg5Yjk5NDBjMWJhNDRmYTE3Zg') -611px -11px;
+width: 106px;
+height: 106px;
+overflow:hidden;
+top:-9px;
+left:-35px !important;
+
+}
+
+</style></p></div><div class="content"><p><style type="text/css">
+.cloudzoom-lens {border:5px solid #888;width:100px;height:100px;box-shadow:-0px -0px 0px rgba(0,0,0,0.40);cursor:crosshair;z-index:10000;}
+.cloudzoom-zoom {background:#fff;border:0px solid #888;width:310px !important;height:375px !important;box-shadow:-0px -0px 0px rgba(0,0,0,0.40);z-index:10000;}
+.cloudzoom-zoom-inside {border:none;box-shadow:none;}
+.cloudzoom-caption {display:none !important;}
+.cloudzoom-blank {}
+.cloudzoom-ajax-loader { }
+i.icon-ok,a i.icon-ok {}
+</style></p></div><div class="content"><p><style type="text/css">
+#product-ctas .promomessage {
+top:-20px;
+right:-20px;
+}
+</style></p></div></div><div id="crossSellUpSell">
+			</div>
+		 	</div>
+		
+		
+		</div>
+	</div>
+	</div>
+		</div>
+		<div id="footer" class="clearfix">
+<div class="wrapper">
+
+<div class="yCmsContentSlot row clearfix"><div class="yCmsComponent left newsletter signup"><p>Sign up to our email newsletter for the latest news and offers!</p>
+
+<div id="newsletter-subscribion-form-footer">
+	<form id="newsletterSignupForm" tabindex="-1" action="/subscribe/" method="POST"><div class="newsletter1">
+			<span class="status-unfilled "> <input id="name" name="name" title="Name" placeholder="Your name" name="name" class="text required" type="text" value="" maxlength="100"/></span>
+			</div>
+		<div class="newsletter1">
+			<span class="status-unfilled "> <input id="newsletter" name="email" title="Email" placeholder="Your email address" name="newsletter" class="text required" type="email" value="" maxlength="100"/></span>
+			</div>
+		<div id="nl-btn-container" class="newsletter1">
+			<input class="lightBlue" id="newsletterSubmit" type="submit"
+				value="Sign up" />
+		</div>
+	<input type="hidden" name="CSRFToken" value="e7772886-40dd-4fde-bc7e-348accdb3c11"></input>
+</form><script type="text/javascript">
+		$(document)
+				.ready(
+						function() {
+							bindNewsletterSignupFormForValidation($('form#newsletterSignupForm'));
+						});
+	</script>
+</div></div><div class="yCmsComponent right follow us"><div class="content"><script type="text/javascript">
+$(document).ready(function() {
+$("a.poptrack").attr("onclick", "_gaq.push(['_trackEvent', 'Popular Products', 'Click', this.href]);_gaq.push(['rollup._trackEvent', 'Popular Products', 'Click', this.href]); WaitForSeconds(0.25);");
+// $('#site-search p').text('Need help? 0844 557 6000');
+});
+
+</script>
+<p><style type="text/css">
+
+#cboxLoadedContent div.choosestore .information_message {display: none}
+
+ .tileinfo p.productcode { color: rgb(96, 96, 83); font-size:12px; }
+
+/* .livechat-tab { display:none; } */
+.product-summary .productcode {
+font-size: 15px; 
+}
+.twitter_btn a {
+	width: 48px;
+	height: 50px;
+	float: left;
+	background: url('/medias/twitter-grey.png?context=bWFzdGVyfHJvb3R8MTY0M3xpbWFnZS9wbmd8aDQwL2g3Yi84Nzk2Mjk5MTAwMTkwLnBuZ3xlNTA1ZmNiNjUyOGFlNWJkNTE1OWM3ZGNhODRlMTUzMjAzOTBhNTA3NWNlMTJiMjUxNjM4YjY5ZGRlZWU1ZWI2') no-repeat;
+}
+.twitter_btn a:hover {
+	background: url('/medias/twitter-col.png?context=bWFzdGVyfHJvb3R8MTM1NHxpbWFnZS9wbmd8aDk4L2g1OC84Nzk2Mjk5MDM0NjU0LnBuZ3xjMTczNzU1NmU2ZjgxNTZiOTk5YmFmMDlhYzQ4MmMxNjYxZDU4M2EwYjQzNDk0YWIyNWIyZDdkMzBmZWNmNTAx') no-repeat;
+}
+
+.facebook_btn a {
+	width: 48px;
+	height: 50px;
+	float: left;
+	background: url('/medias/facebook-grey.png?context=bWFzdGVyfHJvb3R8MTMwNXxpbWFnZS9wbmd8aGU3L2gwZC84Nzk2Mjk5ODUzODU0LnBuZ3xhNjk5YTg4N2Y4MmQ2Zjc4N2Q0MTE3Y2E3YWFlODI4ZGI2ZjZmOGQ0YzdkMGM5NThhOTcwM2Q3NDE5MWMwMjhl') no-repeat;
+}
+.facebook_btn a:hover {
+	background: url('/medias/facebook-col.png?context=bWFzdGVyfHJvb3R8MTI4MHxpbWFnZS9wbmd8aDQ4L2g4Yy84Nzk2Mjk5Nzg4MzE4LnBuZ3xmNDJjMzQyYWM3Mzg1OTQzOWFmNWVmYzk0MDI3MjJmYmU3ZmNjMTc4ZmU3Y2E1YzI3MDQzMmZjOWE2MjlhZDAy') no-repeat;
+}
+
+.youtube_btn a {
+	width: 48px;
+	height: 50px;
+	float: left;
+	background: url('/medias/youtube-grey.png?context=bWFzdGVyfHJvb3R8MjEzNXxpbWFnZS9wbmd8aDJiL2g0ZC84Nzk2Mjk4OTAzNTgyLnBuZ3xlODk5MjA5MWM5ZjQxZDIwZTk2Y2JlN2IyZmZmYjg0ODUyOWM1MDBkZGI4NTc4M2RhOWQ4YjY4YjE2MDM2Yjdj') no-repeat;
+}
+.youtube_btn a:hover {
+	background: url('/medias/youtube-col.png?context=bWFzdGVyfHJvb3R8MjAxMHxpbWFnZS9wbmd8aGQ0L2gzOS84Nzk2Mjk4OTY5MTE4LnBuZ3w0ZjI0NjNhYTYxZjg4M2Q0YjYyMzM0NjE1MDcxMDAwMDM0ZGEyYTkwYzRiNjllNDdmYTg0MjFlN2ZjZDRhYTRj') no-repeat;
+}
+
+.google_btn a {
+	width: 48px;
+	height: 50px;
+	float: left;
+	background: url('/medias/google-grey.png?context=bWFzdGVyfHJvb3R8MjQyNHxpbWFnZS9wbmd8aDlmL2g5Zi84Nzk2Mjk5NzIyNzgyLnBuZ3wzNWRmOGI5OTU5NmQxMmMyYWYyNzk3Zjc5Mzc0NDIxMjc0YjBhY2NmNTQ2MDYwMjI2NDZkZWE4ZmRhMzE0ODQ4') no-repeat;
+}
+.google_btn a:hover {
+	background: url('/medias/google-col.png?context=bWFzdGVyfHJvb3R8MjI0OHxpbWFnZS9wbmd8aGZmL2hlMS84Nzk2Mjk5NjU3MjQ2LnBuZ3wwOWRjZTI1NmMzM2Q5N2YwMjc4NjZmNTY3NTY3NGIzMTk0ZWIwODUzMmU3MzczMTc3YTFmODdjYzQ4ODI4OGQ1') no-repeat;
+}
+
+.pinterest_btn a {
+	width: 48px;
+	height: 50px;
+	float: left;
+	background: url('/medias/pinterest-grey.png?context=bWFzdGVyfHJvb3R8MzAxNXxpbWFnZS9wbmd8aDFhL2hjMy84Nzk2Mjk5NTkxNzEwLnBuZ3w3YjBkNzFhMjNlNDI3YzJhZjM0NTc2NzhiMTI2ZTliN2YzYmE3N2RhOTgwNmY5ZGYzNzM3YjgwOTJkZTRmODk3') no-repeat;
+}
+.pinterest_btn a:hover {
+	background: url('/medias/pinterest-col.png?context=bWFzdGVyfHJvb3R8MzQzMXxpbWFnZS9wbmd8aDUwL2hlYS84Nzk2Mjk5MTY1NzI2LnBuZ3w1YTA4ODBhOWUxODJhZTNiYmZlNDlkYTcxNzhiZDQzYmI0YTRlN2IxZWE2YjFkOTI2M2NhMmZlMTZiNDg2OWJj') no-repeat;
+}
+
+/* SMALL HATS */
+
+.gridtile .tab-freedelivery { 
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -13px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+}
+
+.gridtile .tab-webonly {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -313px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+
+
+}
+
+.gridtile .tab-newproduct {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -163px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+
+}
+
+.gridtile .tab-over18 {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -461px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:-2px;
+left:-2px !important;
+
+}
+
+
+.gridtile .tab-refurb_used {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -611px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:-2px;
+left:-2px !important;
+
+}
+
+
+
+/* SMALL SEARCH HATS */
+
+.listtile .tab-freedelivery { 
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -13px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+}
+
+.listtile .tab-webonly {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -313px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+
+
+}
+
+.listtile .tab-newproduct {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -163px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:0px;
+left:0px !important;
+
+}
+
+.listtile .tab-over18 {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -461px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:-2px;
+left:-2px !important;
+
+}
+
+
+.listtile .tab-refurb_used {
+
+background: url('/medias/corner-flags-small.png?context=bWFzdGVyfGltYWdlc3wxNDE2NHxpbWFnZS9wbmd8aW1hZ2VzL2gyYy9oNzgvODkyOTAwMjk3OTM1OC5wbmd8NTI4ODE1YWQzZTEzOGQ4YWY5MWFiMWFjYjQ1ZDkwOTQzZTIxYTU1YTBlMWUyZWRlMWM2MDBlYjNlM2M1YTVhYQ') -611px -216px;
+width: 65px;
+height: 65px;
+overflow:hidden;
+top:-2px;
+left:-2px !important;
+
+}
+
+
+
+</style></p>
+<div id="signup" style="float: right; height: 48px; width: 255px; margin-top: 20px">
+<div class="twitter_btn"><a href="http://www.twitter.com/maplintweet">&nbsp;</a></div>
+<div class="facebook_btn"><a href="http://www.facebook.com/maplin">&nbsp;</a></div>
+<div class="youtube_btn"><a href="http://www.youtube.com/user/MaplinTV">&nbsp;</a></div>
+<div class="google_btn"><a href="http://plus.google.com/+maplin/">&nbsp;</a></div>
+<div class="pinterest_btn"><a href="http://www.pinterest.com/maplinonline/">&nbsp;</a></div>
+</div></div></div></div>
+		<div class="row clearfix ">
+	<div class="yCmsComponent left footercomponent"><ul class="subnav">
+		<!--mo <h3>Accelerator</h3>-->
+		<li class="yCmsComponent Fc left_col"><a href="/my-account"  title="Order Tracking" >Order Tracking</a></li><li class="yCmsComponent Fc left_col"><a href="/help-centre/article/refundsreturns"  title="Refund & Returns Policy" >Refund & Returns Policy</a></li><li class="yCmsComponent Fc right_col"><a href="/help-centre/article/deliveryinfo"  title="Delivery Information" >Delivery Information</a></li><li class="yCmsComponent Fc right_col"><a href="/my-account"  title="My Account" >My Account</a></li><li class="yCmsComponent Fc right_col"><a href="/help-centre/article/tradecustomer"  title="Trade Customer" >Trade Customer</a></li></ul>
+	<ul class="subnav">
+		<!--mo <h3>Hybris</h3>-->
+		<li class="yCmsComponent Fc left_col"><a href="/store-finder"  title="Store Finder" >Store Finder</a></li><li class="yCmsComponent Fc left_col"><a href="/giftcard/physical"  title="Gift Cards" >Gift Cards</a></li><li class="yCmsComponent Fc right_col"><a href="/help-centre/article/jargonbuster"  title="Jargon Buster" >Jargon Buster</a></li><li class="yCmsComponent Fc right_col"><a href="/help-centre/article/faqsection"  title="F.A.Q" >F.A.Q</a></li><li class="yCmsComponent Fc right_col"><a href="/wishlists/public"  title="Public Wishlists" >Public Wishlists</a></li></ul>
+	<ul class="subnav">
+		<!--mo <h3>Follow Us</h3>-->
+		<li class="yCmsComponent Fc left_col"><a href="http://www.maplinjobs.co.uk/"  title="Maplin Jobs" >Maplin Jobs</a></li><li class="yCmsComponent Fc left_col"><a href="/help-centre/article/privacy"  title="Privacy & Cookies" >Privacy & Cookies</a></li><li class="yCmsComponent Fc right_col"><a href="/help-centre/article/termsandconditions"  title="Terms & Conditions" >Terms & Conditions</a></li><li class="yCmsComponent Fc right_col"><a href="/contactus"  title="Contact Us" >Contact Us</a></li></ul>
+	</div><div class="yCmsComponent right copyright"><div class="content"><p>Maplin Electronics is a company<br />
+registered in England No 1264385<br />
+Copyright Maplin &copy; 2014</p>
+<p><a href="#">All rights reserved</a> | <a href="/help-centre/article/termsandconditions">Terms &amp; conditions</a></p></div></div></div>
+		<div class="row clearfix last">
+	<div class="yCmsComponent left payment options"><div class="content"><p><img src="/_ui/desktop/theme-blue/images/footer-paymentoptions.png" width="400" height="32" alt="Payment options" /></p></div></div><div class="yCmsComponent right price buster - sunday to monday 10.30 am"><div class="content"><script>
+  $("#infodrops").before("<div id='sTOm' style='width:100%;height:61px;padding:0;'><a href='/price-busters'><img src='/medias/PB-added-top.png?context=bWFzdGVyfHJvb3R8NDM1NHxpbWFnZS9wbmd8aGMxL2gwYS84OTQwOTM2MTY3NDU0LnBuZ3xiNjkwYTM5ZWRmM2NlZWMzNjY1OWNkNjVlODk3MTY5MmY4YmNmY2JiY2QxYzJiM2NmYzVlNThjYjZjOWQ1NDhh'></a></li>");
+</script></div></div></div></div>
+</div>
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {  
+	jQuery('a').click(function() {		
+		var href = jQuery(this).attr('href');
+	
+		if (href.match(/http(s)?:\/\/([^\/]*)/ig) != null && href.match(/maplin\.co\.uk/ig) == null) {
+			_gaq.push(['_trackEvent', 'Outbound links', 'Click', href]);
+			_gaq.push(['rollup._trackEvent', 'Outbound links', 'Click', href]);
+		}
+	});
+}			
+</script><form name="accessiblityForm">
+		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value=""/>
+	</form>
+	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+	<script type="text/javascript" src="/_ui/desktop/common/js/maplin.all.desktop.2014-03-13-02-08-39.min.js"></script>
+	<!--[if IE]><script type="text/javascript" src="/_ui/desktop/common/js/excanvas-r3.compiled.js"></script> <![endif]-->
+<!--[if IE 8]><script type="text/javascript" src="/_ui/desktop/common/js/acc.placeholder.js"></script><![endif]-->
+
+<script type="text/javascript">
+/*<![CDATA[*/
+
+function initPageEvents() {
+	$(".modal").colorbox({
+		onComplete: function() {
+		    ACC.common.refreshScreenReaderBuffer();
+		},
+		onClosed: function() {
+			ACC.common.refreshScreenReaderBuffer();
+		}
+	});
+	$("#carousel_alternate img").click(function() {
+		$(this).closest("li").addClass("current").siblings().removeClass("current");
+	});
+    CloudZoom.quickStart();
+	$(".gallery-video").click(function(e) {
+		$("img.main-image").hide();
+		$("#carousel_alternate li").removeClass("current");
+		$(this).parent().addClass("current");		
+		$("#primaryImageIframe").attr("src", this.href).show();
+		return false;
+	});
+	$(".cloudzoom-gallery").click(function(e) {
+		$("img.main-image").show();
+		$("#carousel_alternate li a.gallery-video").parent().removeClass("current");
+		$("#primaryImageIframe").hide();
+		return true;
+	});
+
+	$("#Size").change(function () {
+		var url = "";
+		var selectedIndex = 0;
+		$("#Size option:selected").each(function () {
+			url = $(this).attr('value');
+			selectedIndex = $(this).attr("index");
+		});
+		if (selectedIndex != 0) {
+			window.location.href=url;
+		}
+	});
+
+	$("#variant").change(function () {
+		var url = "";
+		var selectedIndex = 0;
+		
+		$("#variant option:selected").each(function () {
+			url = $(this).attr('value');
+			selectedIndex = $(this).attr("index");
+		});
+		if (selectedIndex != 0) {
+			window.location.href=url;
+		}
+	});
+
+	//get cross sell and up sell
+	$.ajax({
+		  url: "/thefilter/showCrossSellAndUpSellProducts?productCode=A91LN",
+		  success: function(data) {
+			onFilterSuccess($("#crossSellUpSell"), data);
+		  },
+		  cache: false
+	});
+	
+}
+
+$(document).ready(function() {
+	
+	initPageEvents();
+
+});
+
+/*]]>*/
+</script><a class="livechat-tab" title="Click for Live Chat" href="https://ussco.activepoint.com/chatmaplinDec2013/"><i class="icon-comment"></i> <span>Live chat</span></a></body>
+
+</html>

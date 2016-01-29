@@ -1,0 +1,2551 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+
+	<script type='text/javascript'>var GLOBAL_WORKFLOW = 'ARGOS_BROWSE';var GLOBAL_WORKFLOW_TYPE ='PRODUCT_DETAILS';</script>
+<script src="//assets.adobedtm.com/b541651aacc6d2c0ad593a3798eb47436d7361b2/satelliteLib-cc83efabeb0092c53d08489355d5338a1ff055f1.js"></script>
+
+<link href="/wcsstore/argos/en_GB/siteAssets/css/modified.css" rel="stylesheet" type="text/css" />
+<link href="/wcsstore/argos/en_GB/siteAssets/css/site.css" rel="stylesheet" type="text/css" />
+<link href="/wcsstore/argos/en_GB/siteAssets/css/proprietary.css" rel="stylesheet" type="text/css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/wcsstore/argos/en_GB/siteAssets/css/fixes.ie.css" /><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/wcsstore/argos/en_GB/siteAssets/css/fixes.ie8.css" /><![endif]-->
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/wcsstore/argos/en_GB/siteAssets/css/fixes.ie7.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/wcsstore/argos/en_GB/siteAssets/css/fixes.ie6.css" /><![endif]-->
+
+	
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/thirdParty/jQuery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+	
+	//<![CDATA[	
+	var argos = {
+		app : {
+			storeId : "10151",
+			langId : "110",
+			currency : String("/wcsstore/argos/").indexOf("argosie") >= 0 ? "\u20AC" : "\u00A3",
+			fileDir : "/wcsstore/argos/",
+			imageDir : "/wcsstore/argos/en_GB/images/",
+			includesDir : "/wcsstore/argos/argosincludes/",
+			contentDir : "/wcsstore/argos/argosincludes/contentmanagement/",
+			siteAssetsDir : "/wcsstore/argos/en_GB/siteAssets/",
+			clientAssetsDir : "/wcsstore/argos/en_GB/argosAssets/",
+			currentCategoryId : "",
+			c1 : "",
+			c2 : "",
+			c3 : "",
+			c4 : "",
+			c5 : "",
+			passwordNoChange : "************",
+			
+			qvt : {
+				trolleyButton : "Go to Trolley",
+				emptyTrolley : "Your trolley is currently empty",
+				loadingTrolley : "Loading your trolley...",
+				moreProductsBar : "+ {{n}} more product",
+				subtotal : "Subtotal:",
+				totalSpecialOffer: "Total special offer savings: "
+			},
+			comparison : {
+				COMP_AT_LEAST_2_ITEMS : "Please select at least 2 items to compare product features",
+				COMP_ONLY_UP_TO_4_ITEMS : "Sorry, you can only select up to 4 items to compare product features",
+				COMP_UP_TO_4_ITEMS : "Compare up to 4 items"
+			},
+			supplierPageName : ""
+		}
+	};
+	//]]>
+</script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/argos.js"></script>
+<script type="text/javascript">
+	//<![CDATA[	
+	
+	argos.ecxreg({
+		BANNER_CYCLE_SLIDE_INTERVAL	 : 5000,
+		BANNER_CYCLE_RESTART_DELAY : 3000,
+		RVI_COOKIE_EXPIRY : 30,
+		RVI_MAX_PRODUCTS_LISTER : 50
+	});
+	//]]>
+</script>
+
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/utils.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/classes.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/page.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/validation.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/tagging.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/api.js"></script>
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/slideshow.js"></script>
+
+
+<link href="/wcsstore/argos/en_GB/argosAssets/css/content.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/wcsstore/argos/en_GB/argosAssets/js/content.js"></script>
+
+<title>Buy Asus S200E 11.6 Inch VivoBook at Argos.co.uk - Your Online Shop for Laptops and netbooks.</title>
+
+	<meta name="description" content="Buy Asus S200E 11.6 Inch VivoBook at Argos.co.uk, visit Argos.co.uk to shop online for Laptops and netbooks" />
+	<meta name="keywords" content="Laptops and netbooks, Asus S200E 11.6 Inch VivoBook, " />
+	<meta name="abstract" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta http-equiv="Set-Cookie" content="LastBrowseCookie=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D5089837%26storeId%3D10151; path=/" />
+	
+	
+	<meta property="og:url" content="http://www.argos.co.uk/static/Product.htm"/>
+	
+	
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/carousel.js"></script>
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/stockChecker.js"></script>
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/pdp.js"></script>
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/richercontent.js"></script>
+	<link rel="stylesheet" href="/wcsstore/argos/en_GB/siteAssets/css/pdp.css" type="text/css" />
+	<link rel="stylesheet" href="/wcsstore/argos/en_GB/siteAssets/css/stockcheck.css" type="text/css" />
+	<link rel="stylesheet" href="/wcsstore/argos/en_GB/images/p1/newproductdetails/css/productDetailsPrint.css" type="text/css" media="print" />
+
+	
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.argos.co.uk/m/static/Product/partNumber/5089837.htm"/>
+		<link rel="canonical" href='http://www.argos.co.uk/static/Product/partNumber/5089837.htm'/>
+		<script type="text/javascript">
+			// <![CDATA[
+				argos.pdp.canonical = "http://www.argos.co.uk/static/Product/partNumber/5089837.htm";
+			//]]>
+		</script>
+		
+		
+
+		
+	
+	<script type="text/javascript">	
+		// <![CDATA[
+		    argos.app.currentCategoryId = "33014243";
+		//]]>		
+	</script>
+	
+	
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/detectDevices.js"></script>
+	<script type="text/javascript">
+	// <![CDATA[
+		
+		argos.pdp.pdpExitWarning = false;
+		argos.pdp.cachedcatalogid = 'ID72';
+		
+		argos.pdp.lightBoxStockCheckLabel = "Postcode";
+		argos.pdp.lightBoxStockCheckTextBox = "Postcode";
+	//]]>
+	</script>
+	
+<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/otc.js"></script> 
+	<script type="text/javascript" src="/wcsstore/argos/en_GB/siteAssets/js/breadcrumb.js"></script>
+	
+	
+				<script type="text/javascript" src="http://argos.ugc.bazaarvoice.com/static/1493-en_gb/bvapi.js" ></script>
+			
+				<script type="text/javascript">
+					//<![CDATA[			
+					$(document).ready(function() {	
+						$BV.configure("global", {
+							
+			    					submissionContainerUrl: "http://www.argos.co.uk/webapp/wcs/stores/servlet/ReviewSubmissionCmd?storeId=10151&amp;langId=110"
+			    				
+						});
+					});
+					//]]>
+				</script>
+			
+				 <script type="text/javascript">
+				 
+				 //<![CDATA[	
+				 $(document).ready(function() {	 
+					$("#pdpShortCustomerRatings").hide();
+					$("#pdpProductReviews").hide();
+				
+					 // test pdp
+				 	
+					$BV.ui("rr", "show_reviews", {
+						productId: "5089837",
+						onEvent: function(json) {
+							if(json.attributes.numReviews>0){
+								$("#pdpProductReviews").show();
+							}
+						}
+					});
+			
+					$BV.ui("qa", "show_questions", {
+						productId: "5089837",
+						subjectType: "product"
+					});
+					
+					$BV.ui("qa", "show_summary", {
+						productId: "5089837",
+						subjectType: "product"
+					});
+						
+				});
+				//]]>
+			     </script>
+				
+<script language="javaScript" type="text/javascript">
+	var s_account="argosprod,argosglobalprod"
+</script>
+
+
+<script language="javaScript" type="text/javascript">
+<!--
+
+
+	var s_account="argosprod,argosglobalprod"
+
+
+			<script type='text/javascript' src='//argos-js.tmvtp.com/Product_Detail_Page.js'></script>
+		
+	<meta http-equiv="Set-Cookie"
+	content="LastBrowseCookie=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D5089837%26storeId%3D10151; path=/" />
+<meta http-equiv="Set-Cookie" 
+	content="LastUrlCookie=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D5089837%26storeId%3D10151; path=/" />
+	
+
+	
+</head>
+<body class="pdp">
+	
+
+<script type="text/javascript">
+	var LOGIN_REGISTRATION_NEW_ENABLED = "true";
+</script>
+<noscript>
+<p id="noJs">Please enable JavaScript to get the full Argos website experience. <a href="/no-script.html" title="">Click here</a> for more information.
+</p>
+</noscript>
+<div id="siteheader">
+	<h1 class="acs"></h1>
+	
+
+<div id="skiplinks">
+	<span>Jump to:</span>
+	<ul>
+		
+				<li><a href="#search">Argos website search</a></li>
+			
+				<li><a href="#primary_1">Main categories</a></li>
+			
+		
+		<li><a href="#content">Main content</a></li> 
+		
+		
+			<li><a href="#sitemaplink">Site footer</a></li>
+			<li><a href="http://www.argos.co.uk/static/StaticDisplay/includeName/sitemap.htm">Site map</a></li>
+		
+	</ul>
+</div>
+	<div id="personal">
+	
+		<div class="content">
+			
+		<p class="userInformation">
+			
+		<span class="salutation">
+			Hello
+			<span class="name"></span>
+			<span class="separator">|</span>
+		</span>
+		
+	
+			
+		<span class="parenthesis">(</span><a class="logIn" href="https://www.argos.co.uk/webapp/wcs/stores/servlet/AccessMyAccount?langId=110&storeId=10151&returnURL=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D1469626%26storeId%3D10151">Sign in &#47; Join</a><span class="separator notYou">|</span><a  id="notYou" class="notYou" href="https://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosLogoff?langId=110&storeId=10151&returnURL=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D1469626%26storeId%3D10151">Sign out</a><span class="parenthesis">)</span>
+	
+		<span class="separator myAccount">|</span><a class="myAccount" href="https://www.argos.co.uk/webapp/wcs/stores/servlet/AccessMyAccount?langId=110&storeId=10151&edit=viewmyaccountsummary">My account</a><span class="separator signOut">|</span><a class="signOut" href="https://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosLogoff?langId=110&storeId=10151&returnURL=http%3A%2F%2Fwww.argos.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FcatalogId%3D10001%26langId%3D110%26partNumber%3D1469626%26storeId%3D10151"><span id="signOut">Sign out</span></a>
+	
+		</p>
+	
+			<script type="text/javascript">
+				//<![CDATA[	
+					if(argos.cookie.get("ambo") == 1){
+						document.write("<a class=\"button\" id=\"backToMobileLink\" href=\"http://www.argos.co.uk/m/static/Home.htm\">Back to mobile site</a>");
+					}
+				//]]>				
+			</script>
+			
+				<p class="trolleyInformation">
+					<a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosGSGiftModeExitCmd?action=OrderItemDisplay?langId=110&storeId=10151&updateTrolley=true"><span class="count"></span><span class="acs"> items in </span>Trolley</a>
+				</p>
+				
+		</div>
+	</div>
+	
+	<div id="search" >
+	
+						
+				<form class="content" id="sb" name="sb" action="/webapp/wcs/stores/servlet/Search">
+					<fieldset>
+						
+						<input class="text" name="searchTerms" type="text" value="Search by word or catalogue number" />
+						<input class="submit" type="submit" value="Find it" />
+					</fieldset>
+				</form>
+			
+	</div>
+	
+
+	<div id="menu">
+		<div class="content">
+			
+				<ul id="primary" class="navigation">
+					
+							<li id="primary_1" class="ddm_33006169">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33006169/c_1/1|category_root|Technology|33006169.htm">
+									Technology
+								</a>
+							</li>
+						
+							<li id="primary_2" class="ddm_33005908">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33005908/c_1/1|category_root|Home+and+garden|33005908.htm">
+									Home & Garden
+								</a>
+							</li>
+						
+							<li id="primary_3" class="ddm_33005732">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33005732/c_1/1|category_root|Baby+and+Nursery|33005732.htm">
+									Baby & Nursery
+								</a>
+							</li>
+						
+							<li id="primary_4" class="ddm_33006252">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33006252/c_1/1|category_root|Toys|33006252.htm">
+									Toys
+								</a>
+							</li>
+						
+							<li id="primary_5" class="ddm_33006346">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33006346/c_1/1|category_root|Sports+and+leisure|33006346.htm">
+									Sports & Leisure
+								</a>
+							</li>
+						
+							<li id="primary_6" class="ddm_33005814">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33005814/c_1/1|category_root|Health+and+beauty|33005814.htm">
+									Health & Beauty
+								</a>
+							</li>
+						
+							<li id="primary_7" class="ddm_33006249">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33006249/c_1/1|category_root|Clothing|33006249.htm">
+									Clothing
+								</a>
+							</li>
+						
+							<li id="primary_8" class="ddm_33005868">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33005868/c_1/1|category_root|Jewellery+and+watches|33005868.htm">
+									Jewellery & Watches
+								</a>
+							</li>
+						
+							<li id="primary_9" class="ddm_33005782">
+								<a href="http://www.argos.co.uk/static/Browse/ID72/33005782/c_1/1|category_root|Gifts|33005782.htm">
+									Gifts
+								</a>
+							</li>
+						<style type="text/css">
+
+
+#primary #primary_extra a {
+	font-size: 0.958em !important;
+	background: none /*url("/wcsstore/argos/en_GB/images/siteAssets/images/halfterm.gif") no-repeat scroll 7px 2px rgba(0, 0, 0, 0)*/ !important;
+    border-right-width: 0;
+    color: #9f5f7a !important;
+    padding: 0 0 0 10px !important/*0 9px 0 24px*/;
+}
+
+</style>
+<!--  only use a ddm_ prefix class if here is dropdown menu content paired with this item -->
+<li id="primary_extra">
+	<a href="/static/ArgosPromo3/includeName/mothers-day.htm" title="Mother's Day">
+		Mother's Day
+	</a>
+</li>
+
+<!--
+Inspire Me
+<li id="primary_extra">
+	<a href="/static/ArgosPromo3/includeName/home-at-christmas.htm" title="Inspire Me - Home at Christmas">
+		Inspire Me
+	</a>							
+</li>
+-->
+				</ul>
+				<ul id="offers" class="navigation">
+	<li id="offers_1"><a class="button" href="/static/Browse/ID72/Price+Cut/r_001/1|Price+Cut|Yes|1.htm">Price Cuts</a></li>
+	<li id="offers_2"><a class="button" href="/static/ArgosClearance">Clearance Offers</a></li>
+</ul>
+		</div>
+	</div>
+	
+</div>
+
+<div id="main">
+	
+	<div id="content_1">
+	
+		<div class="content">
+					</div> 
+	</div> 
+			<div class="column">			
+			
+
+<script type="text/javascript">
+	// <![CDATA[
+		if(typeof argos.pdp.buyOrReservable !== "boolean") argos.pdp.buyOrReservable = true;
+		argos.pdp.buyOrReservable = true;
+		argos.pdp.outOfStockEmailable = !argos.pdp.buyOrReservable && true;
+		
+		if(typeof argos.pdp.isaltmServiceEnabled !== "boolean") argos.pdp.isaltmServiceEnabled = true;
+		argos.pdp.isaltmServiceEnabled = true;
+			
+		if(typeof  argos.pdp.inGiftMode !== "boolean") argos.pdp.inGiftMode = false;
+		argos.pdp.inGiftMode = false;
+		if(typeof  argos.pdp.marketingespothomepageenabled !== "boolean") argos.pdp.marketingespothomepageenabled = true;
+		
+		argos.pdp.productBriefTitle = 'Product summary';
+		argos.pdp.productBriefAnchor = 'Full details';
+	
+	//]]>
+</script>
+
+
+	<script type="text/javascript" charset="UTF-8" src="/wcsstore/argos/en_GB/images/emark.js"></script> 
+	<script type="text/javascript">
+		// <![CDATA[
+			
+			AI_CUSTOMER_ID = "38e5c972-174d-11e0-a152-12313b032222";
+			
+			// product to product - 624a
+			// script switch
+			argos.pdp.productToProductActive = true;
+			
+			if(argos.pdp.productToProductActive){
+				// add potential container's max product limit to array (containerID,maxlimit value) - CR 624a
+				argos.products.components.setContainerProductComponentLimit('#pdpAdditionalItems',20);
+				argos.products.components.setContainerProductComponentLimit('#pdpAlternativeProducts',20);
+				//set emark object up
+				var emark = new Emark();
+				// run when page complete
+				$(document).ready(function() {	
+					var additionalItemsRequest = emark.getRecommendations("33014243_Technology_Laptops_and_netbooks_YouMayAlsoLike", ["ProductId:"+argos.pdp.product.number]);
+					var alternativeProductsRequest = emark.getRecommendations("ProductPage_Alternatives", ["ProductId:"+argos.pdp.product.number]);
+					emark.commit(function() {     
+						//Get presentation data for the products in this array and render the result
+						// param order - avail request (partnumbers returned), selector, tab title, apply quick link
+					argos.pdp.requestProducts(additionalItemsRequest.products,"#pdpAdditionalItems","FetchProductDetailsForP2P","You may also like",true,additionalItemsRequest.trackingcode);
+					argos.pdp.requestProducts(alternativeProductsRequest.products,"#pdpAlternativeProducts","FetchProductDetailsForP2P","Alternatives",true,alternativeProductsRequest.trackingcode);
+					//FetchProductDetailsForP2PAlt changed to FetchProductDetailsForP2PAlt as double click handling is fixed
+					});
+			
+				});
+			}
+		// ]]>
+	</script>
+
+<div id="pdpDetails" class="section">
+	<div class="content">
+	
+		<div id="pdpProductInformation">
+		<div id="subheader">
+				
+	
+					<div id="breadcrumb">
+						<span class="location">You are in: </span>
+						<ul>
+							<li class="first"><a href="">Home</a></li>
+							<li class="last">
+								<strong>
+									Asus S200E 11.6 Inch VivoBook.
+								</strong>
+							</li>
+						</ul>
+					</div>
+				<script type="text/javascript">
+				
+					EFFECTIVE_URL="http://www.argos.co.uk/static/Browse/ID72/33014243/c_1/1|category_root|Technology|33006169/c_2/2|33006169|Laptops+and+PCs|33007795/c_3/3|cat_33007795|Laptops+and+netbooks|33014243.htm";
+				
+				</script>
+				
+			</div>
+		
+		
+		
+		<div id="pdpInformation">
+			
+			<div id="pdpProduct">
+				<h1 class="fn">
+					Asus S200E 11.6 Inch VivoBook.
+				</h1>
+				
+					<img src="/wcsstore/argos/en_GB/images/p8/icon_dagger.gif" alt="Excluded from the Argos 30 day money back guarantee." title="Excluded from the Argos 30 day money back guarantee." />
+				
+				&nbsp;<span class="identifier"><span class="type hidden">sku</span><span class="hidden">: </span><span class="partnumber sku">508/9837</span></span>
+			</div>
+			
+			<div id="pdpPricing">
+				<span class="actualprice">
+					<span class="price"><abbr lang="en" class="currency" title="GBP">&pound;</abbr>349.99</span>
+				</span>
+				
+				 
+					<span class="wasprice">
+						
+			<span>was </span>
+		&pound;399.99
+					</span>
+				
+					<span class="saving">
+						Save £50.00
+					</span>
+					
+						<a class="specialoffer button" id="quicklinks_a_pdpPromotions" href="#pdpPromotions">
+							2 Special Offers
+						</a>
+					
+			</div>
+			
+			<div id="ratingsReviews">
+				<div id="BVRRSummaryContainer"></div>
+			</div>
+			
+			
+				<div id="pdpShortCustomerRatings">
+					
+					<a class="button" href="#pdpProductReviews" title="view customer reviews for Asus S200E 11.6 Inch VivoBook.">
+						<img class="stars" src="/wcsstore/argos/en_GB/images/rating/stars/rating-4_5.gif" alt="Customer rating 4.5 out of 5" />
+						(<span class="number">17 </span><span>Reviews</span>) 
+					</a>
+				</div>
+				
+					
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			
+			</div>
+		
+		
+		<div id="pdpSummaryWithMedia">
+			<div id="pdpMedia">
+				
+
+
+<script type="text/javascript">
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_VIDEO_PLAY_END"] = "eVar66|ar:product:s7:video:video:fulllength";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_IMAGE"] = "eVar28|ar:product:s7:largerimage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOCUMENTS_NEXT_PAGE"] = "prop25|ar:product:s7:documents:nextpage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_QUICKVIEW_CAROUSEL_THUMBIMAGE"] = "prop25|ar:quickview:s7:thumbnailimage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_VIDEO_PLAY_[%1]"] = "eVar66|ar:product:s7:video:play:[%1]";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_QUICKVIEW_PDP_MAIN_IMAGE"] = "eVar28|ar:quickview:s7:mainimage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_SHARE"] = "eVar28|ar:s7:[%1]:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_QUICKVIEW_CAROUSEL_VIDEO"] = "eVar28|ar:quickview:s7:video";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_NEXT_PAGE_ARROW"] = "prop25|ar:product:s7:instructions:nextpage:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_PREV_PAGE_ARROW"] = "prop25|ar:product:s7:instructions:prevpage:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_THUMBIMAGE"] = "prop25|ar:product:s7:thumbnailimage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_VIDEO_NAME_[%1]"] = "eVar67|ar:product:s7:video:[%1]";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_QUICKVIEW_CAROUSEL_DOCUMENT"] = "eVar28|ar:quickview:s7:documents";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_ZOOM_IN"] = "prop25|ar:product:s7:instructions:zoomin:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_PDP_MAIN_IMAGE"] = "eVar28|ar:product:s7:pdp:mainimage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_TAB_DOCUMENTS"] = "eVar28|ar:s7:documentstab";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_QUICKVIEW_CAROUSEL_360"] = "prop25|ar:quickview:s7:360";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_VIDEO"] = "eVar28|ar:product:s7:video";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_TAB_IMAGES"] = "eVar28|ar:s7:imagestab";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_VIEWER_OPEN"] = "events|event31";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_NEXT_PAGE"] = "prop25|ar:product:s7:instructions:nextpage:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_DOCUMENT"] = "prop25|ar:product:s7:doc";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_ZOOM_OUT"] = "prop25|ar:product:s7:instructions:zoomout:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOCUMENTS_PREV_PAGE_ARROW"] = "prop25|ar:product:s7:documents:prevpage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOCUMENTS_NEXT_PAGE_ARROW"] = "prop25|ar:product:s7:documents:nextpage";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOWNLOAD"] = "prop25|ar:product:s7:instructions:download:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_ARROW"] = "prop25|ar:product:s7:carousel";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_CAROUSEL_360"] = "eVar28|ar:product:s7:360";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOCUMENTS_DOWNLOAD"] = "prop25|ar:product:s7:documents:download";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_INSTRUCTIONS_ARROW"] = "prop25|ar:product:s7:instructions:carousel:";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_TAB_VIDEOS_1"] = "prop25|ar:product:s7:videostab";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_DOCUMENTS_ZOOM_IN"] = "prop25|ar:product:s7:documents:zoomin";		
+	argos.richercontent.tagging["SCENE7_TAGGING_CUSTOM_EVT_POP_UP_TAB_VIDEOS_2"] = "eVar28|ar:product:s7:videos";		
+	
+</script>
+
+<script type="text/javascript">
+	var config = {server : "http://argos.scene7.com",catNum: 5089837,orientation: "vertical",proppingText: "", sdkLocation: "/wcsstore/argos/en_GB/siteAssets/thirdParty/scene7/Utils-all.js", description: "Asus S200E 11.6 Inch VivoBook."};
+	config["scene7RequestedBy"] = "pdp";
+	argos.richercontent.scene7Insert(config);
+</script>
+
+<div class="image s7carousel-main">
+	
+		<a href="/webapp/wcs/stores/servlet/ProductLargeImagePopup?storeId=10151&amp;jsparm=false&amp;imageName=161-5089837UC1335143X.jpg&amp;imageText=&amp;jsparm=false" onclick="argos.richercontent.open('/webapp/wcs/stores/servlet/ProductLargeImagePopup?storeId=10151&amp;jsparm=true&amp;imageName=161-5089837UC1335143X.jpg&amp;imageText=','newWindow','width=645,height=452,directories=no,location=no,menubar=no,scrollbars=no,toolbar=no,status=no,resizable=no,top=0,left=0');return false;" target="newWindow"  title="Click to see larger image"><img class="photo" id="mainimage" src="/wcsstore/argos/images/161-5089837UC1335143M.jpg" alt="Asus S200E 11.6 Inch VivoBook." target="LargeImage" /></a>
+	<ul class="multimediaactions" ><li class="largeimglink"><a href="/webapp/wcs/stores/servlet/ProductLargeImagePopup?storeId=10151&amp;jsparm=false&amp;imageName=161-5089837UC1335143X.jpg&amp;imageText=&amp;jsparm=false" onclick="argos.richercontent.open('/webapp/wcs/stores/servlet/ProductLargeImagePopup?storeId=10151&amp;jsparm=true&amp;imageName=161-5089837UC1335143X.jpg&amp;imageText=','newWindow','width=645,height=452,directories=no,location=no,menubar=no,scrollbars=no,toolbar=no,status=no,resizable=no,top=0,left=0');return false;" class="button external" target="newWindow"><span>Larger View</span></a></li></ul>	
+</div>
+
+			</div>
+
+			
+			
+			<div id="pdpSocialMedia">
+		
+			
+				
+
+
+	
+	<div class="genericESpot" id="genericESpot_pdp_socialmediamain">
+		<div id="espotCaption_pdp_socialmediamain" class="acs" style="">pdp_socialmediamain</div>
+		<!-- Important: Do not remove the line below or the last line. Needed to Hide IE7 -->
+<!--[if !(IE) | (gte IE 8)]><!-->
+<div class="mediaItem google">
+	<div class="g-plusone" data-size="medium"></div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+//]]>
+</script>
+<!--<![endif]-->
+<!--
+		        : 16111social.googleplus
+					  <tr><td>Name:</td> <td> social.googleplus </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11506 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediamain </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/google_button.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!-- Important: Do not remove the line below or the last line. Needed to Hide IE7 -->
+<!--[if !(IE) | (gte IE 8)]><!-->
+<div class="mediaItem facebook">
+	<div class="fb-like" data-href="http://www.argos.co.uk" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>
+	<div id="fb-root"></div>
+</div>	
+
+<script type="text/javascript">
+// <![CDATA[
+	$(document).ready(function() {
+		$(".fb-like").attr("data-href",argos.pdp.canonical);
+	});
+	
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+	  	js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+	  	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	
+	//]]>
+</script>
+<!--<![endif]-->
+<!--
+		        : 16110social.fb.like
+					  <tr><td>Name:</td> <td> social.fb.like </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11506 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediamain </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/facebook_button.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!-- Important: Do not remove the line below or the last line. Needed to Hide IE7 -->
+<!--[if !(IE) | (gte IE 8)]><!-->
+<div class="mediaItem twitter">
+	<a href="https://twitter.com/share" class="twitter-share-button mediaItem" data-url="http://www.argos.co.uk">Tweet</a>
+</div>
+<script type="text/javascript">
+	// <![CDATA[
+		$(document).ready(function() {
+			$(".twitter a").attr({
+				"data-url" : argos.pdp.canonical,
+				"data-via" : "Argos_Online",
+				"data-text" : $.trim(argos.pdp.product.title)
+			});
+		});
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+	//]]>
+</script>
+<!--<![endif]-->
+
+	
+<!--
+		        : 16113social.twitter
+					  <tr><td>Name:</td> <td> social.twitter </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11506 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediamain </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/twitter_button.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!-- Important: Do not remove the line below or the last line. Needed to Hide IE7 -->
+<!--[if !(IE) | (gte IE 8)]><!-->
+<div class="mediaItem pinterest">
+	<a data-pin-config="beside" href="//pinterest.com/pin/create/button/?url=http://www.argos.co.uk" data-pin-do="buttonPin"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a>
+</div>
+<script type="text/javascript">
+	// <![CDATA[
+		$(".pinterest a").attr('href', function(i,a){	
+			var prodDescription = $("#pdpProduct .fn").text();
+			var prodImage = $("#mainimage").attr("src");
+		    return a.replace( /(url=)[.\/:a-z]+/ig, "$1" + argos.pdp.canonical + "&description=" + $.trim(prodDescription) + "&media=" + window.location.origin + prodImage);
+		});
+	//]]>
+</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!--<![endif]-->
+
+
+
+<!--
+		        : 16112social.pinterest
+					  <tr><td>Name:</td> <td> social.pinterest </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11506 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediamain </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/pinterest_button.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!-- Important: Do not remove the line below or the last line. Needed to Hide IE7 -->
+<!--[if !(IE) | (gte IE 8)]><!-->
+<div class="mediaItem sharebutton">
+	<a href="#" id="sharetoggle"><img src="/wcsstore/argos/en_GB/images/headerfooter/images/sharethis_button.png" width="16" height="16" alt=""/></a>
+</div>	
+<!--<![endif]-->
+<!--
+		        : 16109share.social.button.dropdown
+					  <tr><td>Name:</td> <td> share.social.button.dropdown </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11506 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediamain </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/share_button.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	</div>
+	
+
+
+				<div class="sharewith" id="shareLinkMenu">
+					<div class="header"><p>Share</p></div>
+					
+
+
+	
+	<div class="genericESpot" id="genericESpot_pdp_socialmediahover">
+		<div id="espotCaption_pdp_socialmediahover" class="acs" style="">pdp_socialmediahover</div>
+		<p class="shareitem facebook">
+	<a href="http://www.facebook.com/sharer.php" sharewith="http://www.facebook.com/sharer.php?u={url}%3Fsoc=Facebook&t={title}">Facebook</a>
+</p>
+<!--
+		        : 16107share.fb.share
+					  <tr><td>Name:</td> <td> share.fb.share </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/facebook_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem twitter">
+	<a href="http://twitter.com/home" sharewith="http://twitter.com/home?status={url}%3Fsoc=Twitter">Twitter</a>
+</p>
+<!--
+		        : 16106share.twitter
+					  <tr><td>Name:</td> <td> share.twitter </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/twitter_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+
+
+<p class="shareitem email">
+	<a href="mailto:?body=Click on the link below to see Asus S200E 11.6 Inch VivoBook. (cat no. 5089837) %A3349.99 * on argos.co.uk%0D%0Ahttp%3a%2f%2fwww%2eargos%2eco%2euk%2fProductDisplayTRK019%3fpartNumber%3d5089837%0D%0A%0D%0A%0D%0A*Please note this price is as shown on Argos.co.uk at the time the email was sent. Go to Argos.co.uk to check the latest details and price."  title="Click here to Email a friend"  alt="Click here to Email a friend"  >Email a friend</a>
+</p><!--
+		        : 16108share.email
+					  <tr><td>Name:</td> <td> share.email </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> social.media.sharelinks.email </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem tumblr">
+	<a href="http://www.tumblr.com/share" sharewith="http://www.tumblr.com/share?v=3&u={url}%3Fsoc=Tumblr&t={title}">Tumblr</a>
+</p><!--
+		        : 16105share.tumbler
+					  <tr><td>Name:</td> <td> share.tumbler </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/tumblr_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem stumbleupon">
+	<a href="http://www.stumbleupon.com/submit" sharewith="http://www.stumbleupon.com/submit?url={url}%3Fsoc=StumbleUpon&title={title}">Stumble Upon</a>
+</p><!--
+		        : 16104share.stumbleupon
+					  <tr><td>Name:</td> <td> share.stumbleupon </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/stumble_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem digg">
+	<a href="http://digg.com/submit" sharewith="http://digg.com/submit?phase=2&partner=[partner]&url={url}%3Fsoc=Digg&title={title}">Digg</a>
+</p>
+<!--
+		        : 16101share.digg
+					  <tr><td>Name:</td> <td> share.digg </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/digg_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem delicious">
+        	<a href="http://del.icio.us/post" sharewith="http://del.icio.us/post?v=4&partner=[partner]&noui&url={url}%3Fsoc=Delicious&title={title}">Del.icio.us</a>
+        </p>
+<!--
+		        : 16102share.delicious
+					  <tr><td>Name:</td> <td> share.delicious </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/delicious_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<p class="shareitem reddit">
+	<a href="http://reddit.com/submit" sharewith="http://reddit.com/submit?url={url}%3Fsoc=Reddit&title={title}">Reddit</a>
+</p>
+<!--
+		        : 16103share.reddit
+					  <tr><td>Name:</td> <td> share.reddit </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11505 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_socialmediahover </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td>  </td></tr>
+		        	<tr><td>Location:</td> <td> /argos/argosincludes/contentmanagement/productdetails/socialmedia/reddit_link.htm </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10006 </td></tr>
+		        <tr><td>Format Name:</td> <td> Html </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	</div>
+	
+
+
+				</div>
+				
+				<script type="text/javascript">
+					// <![CDATA[
+					$(document).ready(function() {
+						$("a[sharewith]").click(function(ev){
+						   var rel = $(this).attr("sharewith");
+						   var url = encodeURIComponent(argos.pdp.canonical);
+						   var title = encodeURIComponent($("title:first").html());
+	   					   rel = rel.replace("{url}",url);
+						   rel = rel.replace("{title}",title);
+						   self.location.href = rel;
+						   return false;
+						});
+					
+						//Toggle DIV hidden or show
+						$("#sharetoggle,.sharewith").hover(
+							function() {
+								$(".sharewith").show();
+								return false;
+							},
+							function() {
+								$(".sharewith").hide();
+								return false;
+							});
+							
+						});
+					//]]>
+				</script>
+			
+		
+			</div>
+		
+			<div id="pdpBriefDetails" class="component">
+				
+					<div class="pdpCreditAction">
+						<a id="quicklinks_a_pdpCreditOffers" class="button" href="#pdpCreditOffers"><span>Credit Offer</span></a>
+					</div>
+				
+				<div class="header withCredit">
+					<h4 class="summaryTitle">
+						<span>
+						Product summary<!--
+		        : 15131ti_prodsumm
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> Product summary </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+						</span>
+					</h4>
+				</div>
+				<div class="content "></div>
+			</div>
+		</div>
+		
+		</div>
+		
+			
+			
+
+			<form id="changeStoreform"
+				action="http://www.argos.co.uk/webapp/wcs/stores/servlet/ChangeStore"
+				name="changeStoreform"><input type="hidden" name="storeId"
+				value="10151" /> <input type="hidden" name="langId"
+				value="110" /> <input type="hidden" name="catalogId"
+				value="10001" /> <input type="hidden" name="partNumber"
+				value="6213815" />
+			<input type="hidden" name="catentryId" value="" /></form>
+			
+			
+			
+			<div id="fulfilment">
+				<div id="fulfilmentInfo">
+					
+							<form name="productDetailsForm" id="pdpForm" action="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosProductPurchaseNoJS">
+								<input type="hidden" name="returnURL" value="ProductDisplay" />
+								<input type="hidden" name="storeId" value="10151" />
+								<input type="hidden" name="langId" value="110" />
+								<input type="hidden" name="partNumber" value="5089837" />
+								<input type="hidden" name="productId" value="911674" />
+								<script type="text/javascript">
+									
+									// <![CDATA[
+									$.urlParam = function(name){
+										var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+										if(!results) return; 
+										return results[1] || 0;
+									};
+									if($.urlParam('store')){
+										document.write('<input type="hidden" name="store" value="'+$.urlParam('store')+'" />');					
+									}
+									
+									//]]>
+								</script>
+								
+								
+									<input type="submit" value="Add to Trolley" class="continue buttAddToTrolley jsOff" />
+									<script type="text/javascript">
+									
+									// <![CDATA[
+									
+										$("input.jsOff").remove();
+									//]]>
+								</script>
+								<!-- Neha - The below code is a copy over from detailInformation.jspf - START -->
+									</ul>
+
+								</div>
+								
+								<input type="hidden" name="authToken" value="" id="authtoken_1"/>
+								
+									</form> <!-- Dipak: AJAX call for fulfilment box -->
+								<div id="stkDetailsContainer" />
+								<a id="stkDetailsLink" href="http://www.argos.co.uk/webapp/wcs/stores/servlet/OneClickReserve?storeId=10151&amp;langId=110&amp;partNumber=5089837&amp;collectable=true&amp;deliverableOnly=false&amp;collectableOnly=false&amp;noCollectOrDeliver=false&amp;prefixHTTP=http%3a%2f%2fwww.argos.co.uk%2fwebapp%2fwcs%2fstores%2fservlet&amp;formattedPartNumber=5089837&amp;pdMaxAvailable=10&amp;catentryId=911674&amp;displayLayoutB=false&amp;stockCheck=false"></a>
+								
+								<!-- NEHA END - ADDED for OTC -->		
+									<script type="text/javascript">	
+										argos.pdp.productToProductOneClickProductSetup(5089837,399.99,"GBP");
+									</script>
+									
+					</div> 
+					<!-- NEHA : Commented out for OTC- START --><!-- NEHA : Commented out for OTC- END -->
+				</div>
+				
+		
+	</div>
+	
+	
+</div>
+
+
+<script>
+	argos.postCodeCheckPdp();
+</script>
+
+
+
+
+			</div>			
+		
+			<div class="column">			
+			
+
+
+	
+	<div class="genericESpot" id="genericESpot_pdp_layout">
+		<div id="espotCaption_pdp_layout" class="acs" style="">pdp_layout</div>
+		<div id="alternativeArea2" class="hidden">
+</div><!--
+		        : 34101product.alternatives.oos
+					  <tr><td>Name:</td> <td> product.alternatives.oos </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.alternatives.oos </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+		
+		<div class="pdpRelatedInformation section withEssentialExtras" id="relatedInformation">
+			<div class="content">
+				<!-- essentialExtras.jsp colin debug 1 -->
+		<div id="pdpEssentialExtras" class="pdpRelatedInformation section withAdditionalItems">
+		
+			<div class="content">
+				<h2><span>Essential extras</span></h2><!--
+		        : 15132ti_essextras
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;Essential extras&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+				<div class="productContent">
+				
+				
+				
+					<!--Fragment for 1222272 built:Wed Mar 19 06:12:57 GMT 2014-->
+
+
+
+<dl class="product productWithRating  ">
+	<dt class="title">
+		<a href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm" title="more details on Norton 360 All In One Internet Security - 3 Users." class="desc nogrouping">Norton 360 All In One Internet Security - 3 Users.</a>
+		
+			<span class="exclusion"><img src="/wcsstore/argos/en_GB/images/p8/icon_dagger.gif" alt="Excluded from the Argos 30 day money back guarantee." title="Excluded from the Argos 30 day money back guarantee." /></span>
+						
+	</dt>
+	<dd class="number"> 
+		<span class="partnum">1222272</span>
+	</dd>	
+		
+	<dd class="price">
+		<span class="main">
+			&pound;59.99
+		</span>
+		
+						
+	</dd>
+	
+	
+		<dd class="customerrating ">
+			<a href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm#pdpProductReviews">			
+				<img title="Customer rating 5.0 out of 5" src="/wcsstore/argos/en_GB/images/rating/stars/rating-5_0.gif"/>&nbsp;(4)
+			</a>
+		</dd>
+					
+			<dd class="delivery">		
+			  				
+					+&nbsp;Free Delivery		
+				
+	
+	<dd class="actions">
+		<a class="button addtocart btnbuyreserve" 
+		href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosProductPurchaseNoJS?storeId=10151&langId=110&catalogId=10001&URL=OrderItemDisplay&errorViewName=ArgosGenericErrorView&catEntryId=996976&partNumber=1222272&quantity=1" 
+		title="Buy or Reserve Norton 360 All In One Internet Security - 3 Users." ><span>Buy or Reserve</span></a>
+	</dd>	
+			
+			<dd class="image"><a
+				href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm"
+				title="more details on Norton 360 All In One Internet Security - 3 Users."> <img
+				src="/wcsstore/argos/images/91-1222272UC1427328T.jpg"
+				alt="more details on Norton 360 All In One Internet Security - 3 Users." /> </a></dd>
+
+		
+</dl>
+									
+<!--Fragment for 8901981 built:Wed Mar 19 06:12:57 GMT 2014-->
+
+
+
+<dl class="product   ">
+	<dt class="title">
+		<a href="http://www.argos.co.uk/static/Product/partNumber/8901981.htm" title="more details on 3 Years Breakdown Care on this Laptop." class="desc nogrouping">3 Years Breakdown Care on this Laptop.</a>
+		
+			<span class="exclusion"><img src="/wcsstore/argos/en_GB/images/p8/icon_dagger.gif" alt="Excluded from the Argos 30 day money back guarantee." title="Excluded from the Argos 30 day money back guarantee." /></span>
+						
+	</dt>
+	<dd class="number"> 
+		<span class="partnum">8901981</span>
+	</dd>	
+		
+	<dd class="price">
+		<span class="main">
+			&pound;169.99
+		</span>
+		
+						
+	</dd>
+	
+					
+			<dd class="delivery">		
+			  				
+					+&nbsp;Free Delivery		
+				
+	
+	<dd class="actions">
+		<a class="button addtocart btnbuyreserve" 
+		href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosProductPurchaseNoJS?storeId=10151&langId=110&catalogId=10001&URL=OrderItemDisplay&errorViewName=ArgosGenericErrorView&catEntryId=609106&partNumber=8901981&quantity=1" 
+		title="Buy or Reserve 3 Years Breakdown Care on this Laptop." ><span>Buy or Reserve</span></a>
+	</dd>	
+			
+			<dd class="image"><a
+				href="http://www.argos.co.uk/static/Product/partNumber/8901981.htm"
+				title="more details on 3 Years Breakdown Care on this Laptop."> <img
+				src="/wcsstore/argos/images/11-8901981UC1621604T.jpg"
+				alt="more details on 3 Years Breakdown Care on this Laptop." /> </a></dd>
+
+		
+</dl>
+									
+	
+				</div>
+			</div>
+		</div>
+		<!-- essentialExtras.jsp colin debug 2 --><!-- youMayAlsoLike.jsp colin debug 1 -->
+	<span class="pdpRelatedInformationSub" id="pdpAdditionalItems"></span>
+<!-- youMayAlsoLike.jsp colin debug 2 -->
+			</div>
+		</div>		
+	<!--
+		        : 15101product.eeplusymal
+					  <tr><td>Name:</td> <td> product.eeplusymal </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.eeplusymal </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+
+
+
+
+
+<!-- from columnwrapper_start.jsp -->
+<div id="pdpFullProductInformation" class="pdpRelatedInformation section">
+	<div class="content">	
+	
+	<h2><span>Product description / spec</span></h2><!--
+		        : 15134ti_proddesc
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;Product description / spec&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+			<div class="column">			
+			
+
+
+	
+	<div class="genericESpot" id="genericESpot_pdp_proddesc2colleft">
+		<div id="espotCaption_pdp_proddesc2colleft" class="acs" style="">pdp_proddesc2colleft</div>
+		
+
+<div class="fullDetails">
+	<p>This innovative laptop puts the world at your fingertips with a precision touchscreen. Enhancing every aspect of the Windows 8 operating system, the VivoBook creates a seamless and intuitive user experience. Complete with SonicMaster technology for more powerful sound this device creates an immersive multimedia experience.</p><p>CPU, Memory and Operating System:</p><ul><li>Intel Pentium dual core processor.</li><li>1.9GHz processor speed.</li><li>4GB RAM.</li><li>500GB hard drive.</li><li>Microsoft Windows 8.</li></ul><p>Display features:</p><ul><li>11.6 inch screen.</li></ul><p>Graphics:</p><ul><li>Intel.</li><li>Shared graphics card.</li></ul><p>Interfaces and connectivity:</p><ul><li>1 Ethernet port.</li><li>1 HDMI port.</li><li>Wi-Fi enabled.</li></ul><p>Multimedia features:</p><ul><li>Built-in webcam.</li><li>Built-in mic.</li></ul><p>General features:</p><ul><li>Up to 6 hours battery life.</li><li>Size H2.1, W30.3, D20cm.</li><li>Weight 1.2kg.</li><li>EAN: 4716659352013.</li></ul>
+</div>
+
+<!--
+		        : 15113product.longdescription
+					  <tr><td>Name:</td> <td> product.longdescription </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11503 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_proddesc2colleft </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> prod.long.description.content </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+<div class="additionalinfo" id="additionalinfo">
+	
+	<h4>Additional Information</h4>
+	
+		<p><img src="/wcsstore/argos/en_GB/images/p8/icon_dagger.gif" alt="This item is excluded from the 30 day money back guarantee. See the Additional Information panel for full details."/>
+		Please note that this product is excluded from our 30 Day Money Back Guarantee. This does not affect your statutory rights.</p>
+	
+	<p>Prices correct as displayed but are subject to change</p>
+	
+		
+			
+</div>
+<!--
+		        : 15114product.footnotes
+					  <tr><td>Name:</td> <td> product.footnotes </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11503 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_proddesc2colleft </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.footnotes </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	<div class="bvQASingle">
+		<div id="BVQASummaryContainer"></div>
+	</div>
+<!--
+		        : 15115product.qanda.summary
+					  <tr><td>Name:</td> <td> product.qanda.summary </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11503 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_proddesc2colleft </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.qanda.summary.content </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	</div>
+	
+
+
+			</div>			
+		
+			<div class="column">			
+			
+
+
+	
+	<div class="genericESpot" id="genericESpot_pdp_proddesc2colright">
+		<div id="espotCaption_pdp_proddesc2colright" class="acs" style="">pdp_proddesc2colright</div>
+		
+<div class='bauSingle'><a href='/static/ArgosPromo3/includeName/delivery.htm?tag=ar:deliverypage' title='Where you want it, when you want it.' target='_blank'><span class='Title'>Delivery</span><img width='218' height='128' src='/wcsstore/argos/en_GB/images/pdp/ed_pdp_delivery.jpg' alt='Where you want it, when you want it.' title='Where you want it, when you want it.' /><span style='font-size:12px !important; font-weight:normal !important; vertical-align: top !important; padding-top: 4px;'>Where you want it, when you want it.</span></a></div><!--
+		        : 29101pdp_delivery.htm
+					  <tr><td>Name:</td> <td> pdp_delivery.htm </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 13001 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_ofteditorials </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> 
+&lt;div class=&#039;bauSingle&#039;&gt;&lt;a href=&#039;/static/ArgosPromo3/includeName/delivery.htm?tag=ar:deliverypage&#039; title=&#039;Where you want it, when you want it.&#039; target=&#039;_blank&#039;&gt;&lt;span class=&#039;Title&#039;&gt;Delivery&lt;/span&gt;&lt;img width=&#039;218&#039; height=&#039;128&#039; src=&#039;/wcsstore/argos/en_GB/images/pdp/ed_pdp_delivery.jpg&#039; alt=&#039;Where you want it, when you want it.&#039; title=&#039;Where you want it, when you want it.&#039; /&gt;&lt;span style=&#039;font-size:12px !important; font-weight:normal !important; vertical-align: top !important; padding-top: 4px;&#039;&gt;Where you want it, when you want it.&lt;/span&gt;&lt;/a&gt;&lt;/div&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+		<div class="buyersguideSingle">
+			<a class="bauSingle" href="http://www.argos.co.uk/static/BuyingGuide/bgTrail/Argos_pc_laptop1_00116.htm">
+				<span>Destop PCs and Laptops Buying Guide</span>
+				<img src="/wcsstore/argos/en_GB/argosAssets/images/arg_editorial/ed_bg_00116.jpg"/>
+				Argos Buying Guide
+			</a>
+		 </div>
+	<!--
+		        : 15116product.buyingguides
+					  <tr><td>Name:</td> <td> product.buyingguides </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 11504 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_proddesc2colright </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> buying.guides.link.content </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	</div>
+	
+
+
+			</div>			
+		
+
+
+
+
+	</div>
+</div>
+<!-- from columnwrapper_end.jsp -->
+<!--
+		        : 15104product.desc.twocolumns
+					  <tr><td>Name:</td> <td> product.desc.twocolumns </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.longdescription; col=pdp_proddesc2colleft col=pdp_proddesc2colright </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!--
+		        : 15105product.fabricoptions
+					  <tr><td>Name:</td> <td> product.fabricoptions </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.fabricoptions </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+		
+		<div id="pdpPromotions" class="pdpRelatedInformation section">
+			<div class="content">
+			<h2><span>2 Special offers</span></h2><!--
+		        : 15136ti_spoffers
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;2 Special offers&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+				<a name="specialoffers"></a>					
+				<div class="content">
+					
+	<div id="promotion_1" class="promotion ">
+		<!--shortDescription:<strong>Save &#163;20</strong> on Microsoft Office with any PC or Laptop.-->
+		<p class="description">
+			1)&nbsp;
+			<strong>Save &#163;20</strong> on Microsoft Office when bought with any PC or Laptop. Offer ends  25 July 2014.			
+		</p>
+		
+		
+									<dl class="product noquickview">
+											
+<dt class="title"><a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm"  title="more details on Asus S200E 11.6 Inch VivoBook.">Asus S200E 11.6 Inch VivoBook.</a></dt>
+	<dd class="number">508/9837</dd>
+	<dd class="price">
+		<span class="main">&pound;349.99
+		</span>
+		 
+			<span class="wasPrice">
+				
+			<span>Was </span>
+		&pound;399.99							
+			</span>
+		
+			<span class="savePrice">
+				Save £50.00
+			</span>
+			
+	</dd>
+	<dd class="image">
+		<a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm" title="more details on Asus S200E 11.6 Inch VivoBook.">
+			<img src="/wcsstore/argos/images/161-5089837UC1335143T.jpg" alt="Asus S200E 11.6 Inch VivoBook." />
+		</a>
+	</dd>
+	
+	<dd class="actions">
+		
+			<input type="hidden" name="promotionProduct" value="911674" />
+		
+	</dd>
+
+		<dd class="customerrating ">
+			<a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm#pdpProductReviews">			
+				<img title="Customer rating 4.5 out of 5" src="/wcsstore/argos/en_GB/images/rating/stars/rating-4_5.gif"/>&nbsp;(17)
+			</a>
+		</dd>
+
+		<dd class="specialoffercount">
+			+&nbsp;2 special offers
+		</dd>
+				
+		<dd class="delivery">		
+		
+									</dl>																										
+								
+								<span class="symbol plus">+</span>
+							
+									<dl class="product noquickview product_selector product_selector_active" title="Please select a product">
+										<dt class="title">Choose from 2 products</dt>
+										<dd class="number"></dd>
+										<dd class="price"></dd>
+										<dd class="image"></dd>
+										<dd class="actions"></dd>
+									</dl>
+								
+					
+						<div class="end">
+							<span class="symbol equals">=</span>
+							<span class="offerPrice">
+								
+									<span class="from">from</span>
+								
+								<span class="main">
+									&pound;409.98
+								</span>
+							</span>
+							
+							
+											<a class="button button_chooseProduct" href="http://www.argos.co.uk/static/SpecialOffer/fromProduct/5089837/promotionIdentifier/E14394.htm">Choose products</a>
+										
+						</div>
+					
+					
+	</div>
+	
+	<div id="promotion_2" class="promotion ">
+		<!--shortDescription:½ price internet security when bought with any PC or Laptop.-->
+		<p class="description">
+			2)&nbsp;
+			½ price Norton 360 internet security when bought with any PC or Laptop. Offer ends  25 July 2014.			
+		</p>
+		
+		
+									<dl class="product noquickview">
+											
+<dt class="title"><a href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm"  title="more details on Norton 360 All In One Internet Security - 3 Users.">Norton 360 All In One Internet Security - 3 Users.</a></dt>
+	<dd class="number">122/2272</dd>
+	<dd class="price">
+		<span class="main">&pound;59.99
+		</span>
+			
+	</dd>
+	<dd class="image">
+		<a href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm" title="more details on Norton 360 All In One Internet Security - 3 Users.">
+			<img src="/wcsstore/argos/images/91-1222272UC1427328T.jpg" alt="Norton 360 All In One Internet Security - 3 Users." />
+		</a>
+	</dd>
+	
+	<dd class="actions">
+		
+			<input type="hidden" name="promotionProduct" value="996976" />
+		
+	</dd>
+
+		<dd class="customerrating ">
+			<a href="http://www.argos.co.uk/static/Product/partNumber/1222272.htm#pdpProductReviews">			
+				<img title="Customer rating 5.0 out of 5" src="/wcsstore/argos/en_GB/images/rating/stars/rating-5_0.gif"/>&nbsp;(4)
+			</a>
+		</dd>
+				
+		<dd class="delivery">		
+		  				
+					+&nbsp;Free Delivery
+									</dl>																										
+								
+								<span class="symbol plus">+</span>
+							
+									<dl class="product noquickview">
+											
+<dt class="title"><a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm"  title="more details on Asus S200E 11.6 Inch VivoBook.">Asus S200E 11.6 Inch VivoBook.</a></dt>
+	<dd class="number">508/9837</dd>
+	<dd class="price">
+		<span class="main">&pound;349.99
+		</span>
+		 
+			<span class="wasPrice">
+				
+			<span>Was </span>
+		&pound;399.99							
+			</span>
+		
+			<span class="savePrice">
+				Save £50.00
+			</span>
+			
+	</dd>
+	<dd class="image">
+		<a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm" title="more details on Asus S200E 11.6 Inch VivoBook.">
+			<img src="/wcsstore/argos/images/161-5089837UC1335143T.jpg" alt="Asus S200E 11.6 Inch VivoBook." />
+		</a>
+	</dd>
+	
+	<dd class="actions">
+		
+			<input type="hidden" name="promotionProduct" value="911674" />
+		
+	</dd>
+
+		<dd class="customerrating ">
+			<a href="http://www.argos.co.uk/static/Product/partNumber/5089837.htm#pdpProductReviews">			
+				<img title="Customer rating 4.5 out of 5" src="/wcsstore/argos/en_GB/images/rating/stars/rating-4_5.gif"/>&nbsp;(17)
+			</a>
+		</dd>
+
+		<dd class="specialoffercount">
+			+&nbsp;2 special offers
+		</dd>
+				
+		<dd class="delivery">		
+		
+									</dl>																										
+								
+					
+						<div class="end">
+							<span class="symbol equals">=</span>
+							<span class="offerPrice">
+								
+									<span class="from">from</span>
+								
+								<span class="main">
+									&pound;379.98
+								</span>
+							</span>
+							
+							
+										<form action="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosProductPurchaseNoJS" >
+											<input type="hidden" name="promotionIdentifier" value="E14362" />
+											<input type="hidden" name="langId" value="110" />
+											<input type="hidden" name="storeId" value="10151" />
+											<input type="hidden" name="partNumber" value="5089837" />	
+											<input type="hidden" name="requestType" value="specialOrder" />
+											
+														<input type="hidden" name="promotionProduct" value="996976" />
+													
+														<input type="hidden" name="promotionProduct" value="911674" />
+													
+																		
+											<input class="button buyOrReserve button_buyOrReserve" name="addSpecialOffer" type="submit" value="Add offer to trolley" />
+										</form>
+										
+									
+						</div>
+					
+					
+	</div>
+	
+				</div>
+			</div>
+		</div>
+	<!--
+		        : 15106product.specialoffers
+					  <tr><td>Name:</td> <td> product.specialoffers </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.specialoffers </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+<div id="alternativeArea1" class="hidden">
+
+			<span class="pdpRelatedInformationSub" id="pdpAlternativeProducts"></span>
+		
+</div>
+<!--
+		        : 15107product.alternatives
+					  <tr><td>Name:</td> <td> product.alternatives </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.alternatives </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	<div class="pdpRelatedInformation section" id="pdpProductReviews">
+		<div class="content" >
+			<a name="pdpProductReviews"/>
+			<h2><span>Customer reviews and ratings</span></h2><!--
+		        : 15138ti_reviews
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;Customer reviews and ratings&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+			<a name="customerReviews"></a>
+			<div id="BVRRContainer">
+				<!-- BEGIN BVSEOContent.jsp --><!-- SEO User Generated Content. --><div id="BVRRContentValidationID_5089837">
+<script type="text/javascript">
+document.getElementById('BVRRContentValidationID_5089837').style.display = 'none';
+</script>
+<div id="BVRRSourceID"><div class="review hreview-aggregate"><span class="item"><span class="fn"> Asus S200E 11.6 Inch VivoBook.
+</span></span><span class="rating"><span class="average"> 4.5
+</span><span class="best"> 5
+</span></span><span class="count"> 16
+</span><span class="votes"> 17
+</span></div><div id='33270229'><span class="summary"> Very happy with this notebook.
+</span><span class="description"> I purchased this notebook for my 16 year old son for Christmas, my daughter already had one so because she was happy with hers and my son had tried it out we decided to go for the same.
+</span><span class="dtreviewed"> 09 January 2014
+<span title="2014-01-09" class="value-title"></span></span></div><div id='31691302'><span class="summary"> Great little laptop
+</span><span class="description"> It is a shame that Asus are replacing this laptop model as it is a great performer at a great price. No issues with size or performance as some reviews say. If you can still get your hands on one then buy it.
+</span><span class="dtreviewed"> 06 November 2013
+<span title="2013-11-06" class="value-title"></span></span></div><div id='31351219'><span class="summary"> Too Soon for a considered review, early impression
+</span><span class="description"> Small/light enough to carry in large handbag. Replaces 15.6&quot; W7 laptop with a full size keyboard which too big to carry around. It's small but I have found it ok for work, tablet no good for me, but then I am small with small hands, larger people may have problems.
+Slowly getting used to W8 - I'm very bad at learning new methods, but a button takes you straight to the Asus product video which also include some W8 info. Overall good value W8 touchscreen laptop. I think mine was the last one!
+</span><span class="dtreviewed"> 23 October 2013
+<span title="2013-10-23" class="value-title"></span></span></div><div id='30427371'><span class="summary"> Fantastic windows 8 laptop
+</span><span class="description"> I would recommend this to anybody! It's a great little laptop. The touch screen works very well with windows 8, I bought the wrong model I wanted the i3 but got the pentium but hey ho it good for what I need it for
+</span><span class="dtreviewed"> 13 September 2013
+<span title="2013-09-13" class="value-title"></span></span></div><div id='28618081'><span class="summary"> The best of both worlds
+</span><span class="description"> A cross between a tablet and a laptop, with lots of functionality. Love the touch screen, Just ticks all the boxes
+</span><span class="dtreviewed"> 30 July 2013
+<span title="2013-07-30" class="value-title"></span></span></div>
+</div> </div>
+<div class="BVRRPager BVRRPageBasedPager">
+<span class="BVRRPageLink BVRRPageNumber"> <a href="/static/Product/partNumber/5089837/reviews/2.htm" title="2" class="BVPageLink">2</a>
+</span><span class="BVRRPageLink BVRRNextPage"><a href="/static/Product/partNumber/5089837/reviews/2.htm" title="Next >" class="BVPageLink">Next ></a></span><span class="BVRRPagerArrows">&gt;&gt;</span> </div>
+<!-- END BVSEOContent.jsp -->
+			</div>
+		</div>
+	</div>
+<!--
+		        : 15108product.reviews.detail
+					  <tr><td>Name:</td> <td> product.reviews.detail </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.reviews.detail </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	<div class="pdpRelatedInformation section">
+		<div class="content" >
+			
+			<div  id="BVQAContainer">
+				<!-- BEGIN BVSEOContent.jsp --><!-- SEO User Generated Content. --><noscript>
+<link href="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/bazaarvoiceQA.css" rel="stylesheet" type="text/css"/>
+</noscript>
+<div id="BVQAContentValidationID_5089837">
+<script type="text/javascript">
+document.getElementById('BVQAContentValidationID_5089837').style.display = 'none';
+</script>
+<div id="BVQASourceID"><div id="BVQAWidgetID" class="BVQAWidget"><div id="BVQABrowsePageID" class="BVQAWidgetWrapper BVQABrowsePage"><div id="BVQAHeaderID" class="BVQAHeader"><div id="BVQAQuestionAndAnswerCountID" class="BVQAQuestionAndAnswerCount">(<span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">14</span> Questions</span> | <span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">15</span> Answers</span>)</div><h1 id="BVQAHeaderTitleID" class="BVQATitle BVQAHeaderTitle">Questions & Answers</h1><h2 id="BVQAHeaderSubTitleID" class="BVQASubTitle BVQAHeaderSubTitle"></h2></div><div id="BVQAMainID" class="BVQAMain BVQAMainView"><div class="BVQAPageTabs"> <div class="BVQAPageTabSpacerLeft">&nbsp;</div>
+<div class="BVQAPageTabSpacerMiddle">&nbsp;</div>
+<div id="BVQAPageTabBrowseID" class="BVQAPageTab BVQASelectedPageTab">&laquo; Back</div> <div class="BVQAPageTabSpacerMiddle">&nbsp;</div>
+<div id="BVQAPageTabSearchID" class="BVQAPageTab" onclick="$BV.Internal.Requester.get('http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/searchquestions.djs?format=embeddedhtml&amp;search=__SEARCHTEXT__','BVQAFrame','__CONFIGKEY__'); return false;"><a title="Search" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_QA_Display_SearchTab" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/searchquestions.djs?format=embeddedhtml&amp;search=__SEARCHTEXT__" class="BVQAPageTabLink" href="javascript://">Search</a></div>
+<div class="BVQAPageTabSpacerRight">&nbsp;</div>
+</div><div id="BVQAViewQuestionsContentID" class="BVQAMainContent BVQAViewQuestionsContent">
+<div class="BVQASearchForm"><div class="BVQASearchFormText"> <input type="text" id="BVQASearchFormTextInputID" maxlength="150" value="Search all questions and answers for this product" class="BVQASearchFormTextInput BVQASearchFormTextInputDefault" onkeypress="return bvDisableReturn(event, function(){bvqaSubmitSearch('http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/searchquestions.djs?format=embeddedhtml&amp;search=__SEARCHTEXT__','Search all questions and answers for this product','__CONFIGKEY__');BVAnalyticsTracker.fireActionEvent(document.getElementById('BVQASearchFormSubmitButtonID'));});" onfocus="this.value = ''; this.className = 'BVQASearchFormTextInput'; this.onfocus = null;"/>
+</div><div class="BVQASearchFormSubmit"> <button id="BVQASearchFormSubmitButtonID" class="BVQASearchFormSubmitButton"
+name="BV_TrackingTag_QA_Display_SearchButton"
+onclick="bvqaSubmitSearch('http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/searchquestions.djs?format=embeddedhtml&amp;search=__SEARCHTEXT__','Search all questions and answers for this product','__CONFIGKEY__');return false;"
+data-bvtrack="eName:Search">Search</button></div></div><div id="BVQAToolbarID" class="BVQAToolbar"><div id="BVQAToolbarDisplayToggleID" class="BVQAToolbarDisplayToggle">
+<span id="BVToggleDisplayOnSpan" style="display:block;">
+<a href="#" onclick="bvqaToolbarDisplayShowAll(false, 4);BVAnalyticsTracker.fireActionEvent(this, 'BV_TrackingTag_Question_allQuestionsExpansion',{'answerIds':['1016626','942143','950327','945734','931880'],'questionIds':['1064276','1004435','983849','973574']});return false;" name="BV_TrackingTag_QA_Display_ExpandCollapseAllQ"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/showAllPlus.gif" alt=" All" /> All</a> </span>
+<span id="BVToggleDisplayOffSpan" style="display:none;">
+<a href="#" onclick="bvqaToolbarDisplayHideAll(false);return false;" name="BV_TrackingTag_QA_Display_ExpandCollapseAllQ"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/hideAllMinus.gif" alt=" All" /> All</a> </span>
+</div><div id="BVQAToolbarSortID" class="BVQAToolbarSort"><span class="BVQASortSelectWidget"> <select id="BVQASortListID" name="BV_TrackingTag_QA_Display_Sort" class="BVQAToolbarSortSelect" onchange="if(window.BVAnalyticsTracker){BVAnalyticsTracker.fireActionEvent(this);};$BV.Internal.Requester.get(bvGetSelectListValue($bv('#BVQASortListID')[0]),'BVQAFrame','__CONFIGKEY__');">
+<option value="" selected="selected">
+Sort by </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=recentq" id="recentq-desc">
+Newest questions </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=recentq&amp;dir=asc" id="recentq-asc">
+Oldest questions </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=recenta" id="recenta-desc">
+Newest answers </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=recenta&amp;dir=asc" id="recenta-asc">
+Oldest answers </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=helpfula" id="helpfula-desc">
+Most helpful answers </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=helpfula&amp;dir=asc" id="helpfula-asc">
+Least helpful answers </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=helpfulq" id="helpfulq-desc">
+Most helpful questions </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=helpfulq&amp;dir=asc" id="helpfulq-asc">
+Least helpful questions </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=answers" id="answers-desc">
+Most answers </option>
+<option value="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/questions.djs?format=embeddedhtml&amp;sort=answers&amp;dir=asc" id="answers-asc">
+Answers needed </option>
+</select>
+</span>
+</div></div><div id="BVQAQuestionsID" class="BVQAQuestions"><div id="BVQAQuestionAndAnswers1064276" class="BVQAQuestionAndAnswers BVQAQuestionAndAnswersProduct BVQAQuestionAndAnswersNative BVQAQuestionAndAnswersQuestionWithStaffAnswer">
+<div id="BVQAQuestionHeader1064276" class="BVQAQuestionHeader BVQAQuestionHeaderClosed" onclick=" $bv('#BVQAQuestionMain1064276').toggle();
+$bv('#BVQAQuestionHeader1064276').toggleClass('BVQAQuestionHeaderClosed').toggleClass('BVQAQuestionHeaderOpen');
+if ($bv('#BVQAQuestionMain1064276').is(':visible')) {
+BVAnalyticsTracker.fireActionEvent(this, 'BV_TrackingTag_Question_questionExpansion',{'answerIds':['1016626'],'questionIds':['1064276']}); }
+bvqaUpdateExpandCollapseToolbarLabelValue('1064276');">
+<div class="BVQAQuestionHeaderBadgeIcons"><div class="BVQAQuestionHeaderBadgeIconContainer"><div id="BVQAQuestionHeaderBadgeIcon1064276QuestionWithStaffAnswerID" class="BVQAQuestionHeaderBadgeIcon BVQAQuestionHeaderBadgeIconQuestionWithStaffAnswer" onmouseover="$bv('#BVQAQuestionHeaderBadgeIconHint1064276QuestionWithStaffAnswerID').removeClass('BVQAHidden'); BVAnalyticsTracker.fireActionEvent(this);" onmouseout="$bv('#BVQAQuestionHeaderBadgeIconHint1064276QuestionWithStaffAnswerID').addClass('BVQAHidden');"></div><div id="BVQAQuestionHeaderBadgeIconHint1064276QuestionWithStaffAnswerID" class="BVQAHidden BVQAQuestionHeaderBadgeIconHint">Has staff answer</div></div></div><div class="BVQAQuestionHeaderBullet">&nbsp;</div><div class="BVQAQuestionAnswersCount"><span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">1</span> answer</span></div><h1 class="BVQAQuestionSummary"> <a href="javascript:void(0);">Which ASUS S200E Model is it precisely ?</a>
+</h1> </div>
+<div id="BVQAQuestionMain1064276" class="BVQAQuestionMain"
+>
+<div class="BVQAElapsedTime">5 months, 1 week ago</div>
+<div id="BVQAQuestion1064276" class="BVQAContent BVQAQuestion"><div class="BVQAContentText BVQAQuestionDetails">
+<div class="BVQAContentLabel BVQAQuestionLabel"></div>Hello<br />What is the exact model ? Is it Asus S200E 157CH, 182CH ? Other ?<br />Thanks</div>
+<div class="BVQAContentData BVQAQuestionData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Antoine</div><div class="BVQALocation">Location: London, UK</div></div><div class="BVQAContextDataContainer BVQAQuestionContextDataContainer"><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerAge BVContextDataAge35to44"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueAgePrefix">Age: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueAge">35 to 44</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueAgeSuffix"></span></div><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerGender BVContextDataGenderMale"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueGenderPrefix">Gender: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueGender">Male</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueGenderSuffix"></span></div></div><div class="BVQAAnswerQuestion"><a title="Answer this question" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1064276/answerquestion.djs?format=embeddedhtml&amp;campaignid=BV_QA_BROWSE&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1064276&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Question_Display_AnswerThisQ_1064276" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAQuestion1064276');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_SUBMISSION') : true;" href="javascript://">Answer this question</a></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVNegative BVDI_FVLevel2"><span class="BVDIPrefix">-</span><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">point</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">found this question helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel1"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddPositiveFeedback_1064276" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1064276/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1064276&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddNegativeFeedback_1064276" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1064276/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1064276&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">1</span></span></a></span><span class="BVDI_FVUndo" style="display: none;">http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1064276/undohelpfulness.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1064276&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__</span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_Inappropriate_1064276" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1064276/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1064276&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div> <div class="BVQAQuestionAnswerDivider">
+<h2 class="BVQAQuestionAnswerDividerHeading">
+1 Answer(s) </h2>
+</div>
+<div id="BVQAQuestion1064276Answers" class="BVQAAnswers"><div id="BVQAAnswer1016626" class="BVQAContent BVQAAnswer BVQAAnswerStaff"><div class="BVQABadges BVQAAnswerBadges"> <div
+class="BVQABadge BVQAAnswerBadge BVQAStaffBadge"
+title="Staff Answer">
+<img class="BVQABadgeIcon BVQAAnswerBadgeIcon BVQAStaffIcon" src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/staff-icon.png" alt="Staff Answer" />
+</div>
+</div> <div class="BVQAElapsedTime">5 months ago</div>
+<div class="BVQAContentText BVQAAnswerText"><div class="BVQAContentLabel BVQAAnswerLabel">Answer: </div>This product is the Asus VivoBook S200E-C157H.</div><div class="BVQAContentData BVAnswerData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Argos_helper_175</div><div class="BVQALocation">Location: Acton Gate</div></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIPrefix">+</span><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">point</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIValue BVDINumber">2</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">3</span><span class="BVDISuffix">found this answer helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel2"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddPositiveFeedback_1016626" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/1016626/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1064276%26expandanswer%3D1016626&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">2</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddNegativeFeedback_1016626" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/1016626/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1064276%26expandanswer%3D1016626&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">1</span></span></a></span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_Inappropriate_1016626" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/1016626/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1064276%26expandanswer%3D1016626&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div></div> </div>
+</div><div class="BVQAQuestionDivider"></div><div id="BVQAQuestionAndAnswers1004435" class="BVQAQuestionAndAnswers BVQAQuestionAndAnswersProduct BVQAQuestionAndAnswersNative BVQAQuestionAndAnswersQuestionWithTop1ContributorAnswer">
+<div id="BVQAQuestionHeader1004435" class="BVQAQuestionHeader BVQAQuestionHeaderClosed" onclick=" $bv('#BVQAQuestionMain1004435').toggle();
+$bv('#BVQAQuestionHeader1004435').toggleClass('BVQAQuestionHeaderClosed').toggleClass('BVQAQuestionHeaderOpen');
+if ($bv('#BVQAQuestionMain1004435').is(':visible')) {
+BVAnalyticsTracker.fireActionEvent(this, 'BV_TrackingTag_Question_questionExpansion',{'answerIds':['942143'],'questionIds':['1004435']}); }
+bvqaUpdateExpandCollapseToolbarLabelValue('1004435');">
+<div class="BVQAQuestionHeaderBadgeIcons"><div class="BVQAQuestionHeaderBadgeIconContainer"><div id="BVQAQuestionHeaderBadgeIcon1004435QuestionWithTop1ContributorAnswerID" class="BVQAQuestionHeaderBadgeIcon BVQAQuestionHeaderBadgeIconQuestionWithTop1ContributorAnswer"></div></div></div><div class="BVQAQuestionHeaderBullet">&nbsp;</div><div class="BVQAQuestionAnswersCount"><span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">1</span> answer</span></div><h1 class="BVQAQuestionSummary"> <a href="javascript:void(0);">How much warranty comes with this laptop?</a>
+</h1> </div>
+<div id="BVQAQuestionMain1004435" class="BVQAQuestionMain"
+>
+<div class="BVQAElapsedTime">7 months ago</div>
+<div id="BVQAQuestion1004435" class="BVQAContent BVQAQuestion"><div class="BVQAContentText BVQAQuestionDetails">
+</div>
+<div class="BVQAContentData BVQAQuestionData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Laura</div></div><div class="BVQAContextDataContainer BVQAQuestionContextDataContainer"><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerAge BVContextDataAge18to24"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueAgePrefix">Age: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueAge">18 to 24</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueAgeSuffix"></span></div><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerGender BVContextDataGenderFemale"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueGenderPrefix">Gender: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueGender">Female</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueGenderSuffix"></span></div></div><div class="BVQAAnswerQuestion"><a title="Answer this question" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1004435/answerquestion.djs?format=embeddedhtml&amp;campaignid=BV_QA_BROWSE&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1004435&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Question_Display_AnswerThisQ_1004435" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAQuestion1004435');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_SUBMISSION') : true;" href="javascript://">Answer this question</a></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVZero BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">points</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">found this question helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel1"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddPositiveFeedback_1004435" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1004435/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1004435&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel1"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddNegativeFeedback_1004435" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1004435/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1004435&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVUndo" style="display: none;">http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1004435/undohelpfulness.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1004435&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__</span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_Inappropriate_1004435" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/1004435/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1004435&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div> <div class="BVQAQuestionAnswerDivider">
+<h2 class="BVQAQuestionAnswerDividerHeading">
+1 Answer(s) </h2>
+</div>
+<div id="BVQAQuestion1004435Answers" class="BVQAAnswers"><div id="BVQAAnswer942143" class="BVQAContent BVQAAnswer BVQAAnswerTop1Contributor"><div class="BVQABadges BVQAAnswerBadges"> <div
+class="BVQABadge BVQAAnswerBadge BVQATop1ContributorBadge"
+title="Number One Contributor">
+<img class="BVQABadgeIcon BVQAAnswerBadgeIcon BVQATop1ContributorIcon" src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/top_1_contributor_icon.png" alt="Number One Contributor" />
+<div class="BVQABadgeLabel BVQAAnswerBadgeLabel BVQATop1ContributorLabel">Number One Contributor</div> </div>
+</div> <div class="BVQAElapsedTime">7 months ago</div>
+<div class="BVQAContentText BVQAAnswerText"><div class="BVQAContentLabel BVQAAnswerLabel">Answer: </div>Thank you for your question,<br /><br />I can confirm that the Asus S200E 11.6 Inch VivoBook comes with a standard 1 year warranty which covers any manufacturing faults and defects.<br /><br />Thank you for using Argos Q&amp;A.</div><div class="BVQAContentData BVAnswerData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Argos_helper_146</div></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVZero BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">points</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIValue BVDINumber">2</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">4</span><span class="BVDISuffix">found this answer helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel2"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddPositiveFeedback_942143" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/942143/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1004435%26expandanswer%3D942143&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">2</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddNegativeFeedback_942143" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/942143/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D1004435%26expandanswer%3D942143&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">2</span></span></a></span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_Inappropriate_942143" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/942143/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D1004435%26expandanswer%3D942143&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div></div> </div>
+</div><div class="BVQAQuestionDivider"></div><div id="BVQAQuestionAndAnswers983849" class="BVQAQuestionAndAnswers BVQAQuestionAndAnswersProduct BVQAQuestionAndAnswersNative BVQAQuestionAndAnswersQuestionWithStaffAnswer">
+<div id="BVQAQuestionHeader983849" class="BVQAQuestionHeader BVQAQuestionHeaderClosed" onclick=" $bv('#BVQAQuestionMain983849').toggle();
+$bv('#BVQAQuestionHeader983849').toggleClass('BVQAQuestionHeaderClosed').toggleClass('BVQAQuestionHeaderOpen');
+if ($bv('#BVQAQuestionMain983849').is(':visible')) {
+BVAnalyticsTracker.fireActionEvent(this, 'BV_TrackingTag_Question_questionExpansion',{'answerIds':['950327','945734'],'questionIds':['983849']}); }
+bvqaUpdateExpandCollapseToolbarLabelValue('983849');">
+<div class="BVQAQuestionHeaderBadgeIcons"><div class="BVQAQuestionHeaderBadgeIconContainer"><div id="BVQAQuestionHeaderBadgeIcon983849QuestionWithStaffAnswerID" class="BVQAQuestionHeaderBadgeIcon BVQAQuestionHeaderBadgeIconQuestionWithStaffAnswer" onmouseover="$bv('#BVQAQuestionHeaderBadgeIconHint983849QuestionWithStaffAnswerID').removeClass('BVQAHidden'); BVAnalyticsTracker.fireActionEvent(this);" onmouseout="$bv('#BVQAQuestionHeaderBadgeIconHint983849QuestionWithStaffAnswerID').addClass('BVQAHidden');"></div><div id="BVQAQuestionHeaderBadgeIconHint983849QuestionWithStaffAnswerID" class="BVQAHidden BVQAQuestionHeaderBadgeIconHint">Has staff answer</div></div></div><div class="BVQAQuestionHeaderBullet">&nbsp;</div><div class="BVQAQuestionAnswersCount"><span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">2</span> answers</span></div><h1 class="BVQAQuestionSummary"> <a href="javascript:void(0);">What ghz processor is it</a>
+</h1> </div>
+<div id="BVQAQuestionMain983849" class="BVQAQuestionMain"
+>
+<div class="BVQAElapsedTime">7 months ago</div>
+<div id="BVQAQuestion983849" class="BVQAContent BVQAQuestion"><div class="BVQAContentText BVQAQuestionDetails">
+</div>
+<div class="BVQAContentData BVQAQuestionData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Mike</div><div class="BVQALocation">Location: Surrey</div></div><div class="BVQAContextDataContainer BVQAQuestionContextDataContainer"><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerAge BVContextDataAge45to54"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueAgePrefix">Age: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueAge">45 to 54</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueAgeSuffix"></span></div><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerGender BVContextDataGenderMale"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueGenderPrefix">Gender: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueGender">Male</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueGenderSuffix"></span></div></div><div class="BVQAAnswerQuestion"><a title="Answer this question" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/983849/answerquestion.djs?format=embeddedhtml&amp;campaignid=BV_QA_BROWSE&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D983849&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Question_Display_AnswerThisQ_983849" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAQuestion983849');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_SUBMISSION') : true;" href="javascript://">Answer this question</a></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVNegative BVDI_FVLevel2"><span class="BVDIPrefix">-</span><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">point</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">found this question helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel1"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddPositiveFeedback_983849" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/983849/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddNegativeFeedback_983849" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/983849/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">1</span></span></a></span><span class="BVDI_FVUndo" style="display: none;">http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/983849/undohelpfulness.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__</span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_Inappropriate_983849" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/983849/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D983849&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div> <div class="BVQAQuestionAnswerDivider">
+<h2 class="BVQAQuestionAnswerDividerHeading">
+2 Answer(s) </h2>
+</div>
+<div id="BVQAQuestion983849Answers" class="BVQAAnswers"><div id="BVQAAnswer950327" class="BVQAContent BVQAAnswer BVQAAnswerStaff"><div class="BVQABadges BVQAAnswerBadges"> <div
+class="BVQABadge BVQAAnswerBadge BVQAStaffBadge"
+title="Staff Answer">
+<img class="BVQABadgeIcon BVQAAnswerBadgeIcon BVQAStaffIcon" src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/staff-icon.png" alt="Staff Answer" />
+</div>
+</div> <div class="BVQAElapsedTime">6 months ago</div>
+<div class="BVQAContentText BVQAAnswerText"><div class="BVQAContentLabel BVQAAnswerLabel">Answer: </div>Hi Mike, thank you for your question regarding the Asus S200E 11.6 Inch VivoBook.<br /><br />I am sorry for the incorrect answer given previously by my colleague. I can confirm that this is the 1.50ghz Pentium model of this computer as others have pointed out.<br /><br />Thank you for using Argos Q+A</div><div class="BVQAContentData BVAnswerData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Argos Helper 166</div><div class="BVQALocation">Location: Acton Gate</div></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVZero BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">points</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">found this answer helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel1"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddPositiveFeedback_950327" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/950327/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D950327&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel1"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddNegativeFeedback_950327" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/950327/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D950327&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">0</span></span></a></span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_Inappropriate_950327" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/950327/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D983849%26expandanswer%3D950327&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQABestAnswerVoting"><div class="BVQAActiveFeedback"><a title="Vote as Best Answer" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/950327/bestanswer.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D950327&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Answer_Display_VoteBest_950327" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAAnswer950327');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_FEEDBACK') : true;" href="javascript://"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/buttonVoteAsBest.gif" alt="Vote as Best Answer" title="Vote as Best Answer" /></a> </div><div class="BVQAHidden BVQAInactiveFeedback"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/buttonThanksForVote.gif" alt="Thanks for Voting" title="Thanks for Voting" /> </div> <div class="BVQABestAnswerFeedbackMessage BVQAHidden"></div>
+</div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div> <div class="BVQAAnswerDivider"><hr /></div>
+<div id="BVQAAnswer945734" class="BVQAContent BVQAAnswer"> <div class="BVQAElapsedTime">6 months ago</div>
+<div class="BVQAContentText BVQAAnswerText"><div class="BVQAContentLabel BVQAAnswerLabel">Answer: </div>It's actually the slower Intel Pentium 987 @ 1.50GHz and NOT the fast Intel Core i3-3217U @ 1.80GHz as stated wrongly previously here.<br /><br />I've just had mine delivered on this Q&amp;A answer, so returning mine since a Intel Pentium 987 @ 1.50GHz is too slow for me -although for many it's fast enough of course.</div><div class="BVQAContentData BVAnswerData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Rik.</div><div class="BVQALocation">Location: Salisbury, Wiltshire, UK</div></div><div class="BVQAContextDataContainer BVQAAnswerContextDataContainer"><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerAge BVContextDataAge45to54"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueAgePrefix">Age: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueAge">45 to 54</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueAgeSuffix"></span></div><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerGender BVContextDataGenderMale"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueGenderPrefix">Gender: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueGender">Male</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueGenderSuffix"></span></div></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIPrefix">+</span><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">point</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIValue BVDINumber">2</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">3</span><span class="BVDISuffix">found this answer helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel2"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddPositiveFeedback_945734" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/945734/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D945734&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">2</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddNegativeFeedback_945734" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/945734/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D945734&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">1</span></span></a></span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_Inappropriate_945734" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/945734/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D983849%26expandanswer%3D945734&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQABestAnswerVoting"><div class="BVQAActiveFeedback"><a title="Vote as Best Answer" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/945734/bestanswer.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D983849%26expandanswer%3D945734&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Answer_Display_VoteBest_945734" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAAnswer945734');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_FEEDBACK') : true;" href="javascript://"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/buttonVoteAsBest.gif" alt="Vote as Best Answer" title="Vote as Best Answer" /></a> </div><div class="BVQAHidden BVQAInactiveFeedback"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/buttonThanksForVote.gif" alt="Thanks for Voting" title="Thanks for Voting" /> </div> <div class="BVQABestAnswerFeedbackMessage BVQAHidden"></div>
+</div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div></div> </div>
+</div><div class="BVQAQuestionDivider"></div><div id="BVQAQuestionAndAnswers973574" class="BVQAQuestionAndAnswers BVQAQuestionAndAnswersProduct BVQAQuestionAndAnswersNative BVQAQuestionAndAnswersQuestionWithTop50ContributorAnswer">
+<div id="BVQAQuestionHeader973574" class="BVQAQuestionHeader BVQAQuestionHeaderClosed" onclick=" $bv('#BVQAQuestionMain973574').toggle();
+$bv('#BVQAQuestionHeader973574').toggleClass('BVQAQuestionHeaderClosed').toggleClass('BVQAQuestionHeaderOpen');
+if ($bv('#BVQAQuestionMain973574').is(':visible')) {
+BVAnalyticsTracker.fireActionEvent(this, 'BV_TrackingTag_Question_questionExpansion',{'answerIds':['931880'],'questionIds':['973574']}); }
+bvqaUpdateExpandCollapseToolbarLabelValue('973574');">
+<div class="BVQAQuestionHeaderBadgeIcons"><div class="BVQAQuestionHeaderBadgeIconContainer"><div id="BVQAQuestionHeaderBadgeIcon973574QuestionWithTop50ContributorAnswerID" class="BVQAQuestionHeaderBadgeIcon BVQAQuestionHeaderBadgeIconQuestionWithTop50ContributorAnswer"></div></div></div><div class="BVQAQuestionHeaderBullet">&nbsp;</div><div class="BVQAQuestionAnswersCount"><span class="BVQACount BVQANonZeroCount"><span class="BVQANumber">1</span> answer</span></div><h1 class="BVQAQuestionSummary"> <a href="javascript:void(0);">Does it have microsoft office?</a>
+</h1> </div>
+<div id="BVQAQuestionMain973574" class="BVQAQuestionMain"
+>
+<div class="BVQAElapsedTime">7 months ago</div>
+<div id="BVQAQuestion973574" class="BVQAContent BVQAQuestion"><div class="BVQAContentText BVQAQuestionDetails">
+</div>
+<div class="BVQAContentData BVQAQuestionData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Zoe L</div><div class="BVQALocation">Location: Runcorn, Halton, UK</div></div><div class="BVQAContextDataContainer BVQAQuestionContextDataContainer"><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerAge BVContextDataAge17orUnder"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueAgePrefix">Age: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueAge">17 or under</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueAgeSuffix"></span></div><div class="BVQAContextDataValueContainer BVQAContextDataValueContainerGender BVContextDataGenderFemale"><span class="BVQALabel BVQAContextDataValuePrefix BVQAContextDataValueGenderPrefix">Gender: </span><span class="BVQAValue BVQAContextDataValue BVQAContextDataValueGender">Female</span><span class="BVQALabel BVQAContextDataValueSuffix BVQAContextDataValueGenderSuffix"></span></div></div><div class="BVQAAnswerQuestion"><a title="Answer this question" data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/973574/answerquestion.djs?format=embeddedhtml&amp;campaignid=BV_QA_BROWSE&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D973574&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_Question_Display_AnswerThisQ_973574" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAQuestion973574');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'ANSWER_SUBMISSION') : true;" href="javascript://">Answer this question</a></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVNegative BVDI_FVLevel2"><span class="BVDIPrefix">-</span><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">point</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel1"><span class="BVDIValue BVDINumber">0</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">1</span><span class="BVDISuffix">found this question helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel1"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddPositiveFeedback_973574" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/973574/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D973574&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">0</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel2"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_AddNegativeFeedback_973574" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/973574/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D973574&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">1</span></span></a></span><span class="BVDI_FVUndo" style="display: none;">http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/973574/undohelpfulness.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D973574&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__</span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Question_Display_Inappropriate_973574" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/question/973574/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D973574&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div> <div class="BVQAQuestionAnswerDivider">
+<h2 class="BVQAQuestionAnswerDividerHeading">
+1 Answer(s) </h2>
+</div>
+<div id="BVQAQuestion973574Answers" class="BVQAAnswers"><div id="BVQAAnswer931880" class="BVQAContent BVQAAnswer BVQAAnswerTop50Contributor"><div class="BVQABadges BVQAAnswerBadges"> <div
+class="BVQABadge BVQAAnswerBadge BVQATop50ContributorBadge"
+title="Top 50 Contributor">
+<img class="BVQABadgeIcon BVQAAnswerBadgeIcon BVQATop50ContributorIcon" src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/top_50_contributor_icon.png" alt="Top 50 Contributor" />
+<div class="BVQABadgeLabel BVQAAnswerBadgeLabel BVQATop50ContributorLabel">Top 50 Contributor</div> </div>
+</div> <div class="BVQAElapsedTime">7 months ago</div>
+<div class="BVQAContentText BVQAAnswerText"><div class="BVQAContentLabel BVQAAnswerLabel">Answer: </div>Thank you for your question regarding the Asus S200E 11.6 Inch VivoBook.<br /><br />Having looked into your query for you I can confirm that Microsoft office is not included with this item.<br /><br />Thank you for using Argos Q&amp;A</div><div class="BVQAContentData BVAnswerData"><div class="BVQASignature"><span class="BVQAAvatar"><span class="BVQALinkSpan"><img src="http://argos.ugc.bazaarvoice.com/answers/1493-en_gb/static/noAvatar.gif" alt="Customer avatar" title="Customer avatar"/></span></span><div class="BVQAWrittenBy">by </div><div class="BVQANickname">Argos_Helper_139</div></div><div class="BVDI_FV"><div class="BVDI_FVVoting BVDI_FVVotingHelpfulness"><div class="BVDI_FVSum BVDI_FVSumHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIPrefix">+</span><span class="BVDIValue BVDINumber">3</span><span class="BVDISuffix">points</span></span></div><div class="BVDI_FVCounts BVDI_FVCountsHelpfulness"><span class="BVDI_FVPositive BVDI_FVLevel2"><span class="BVDIValue BVDINumber">3</span><span class="BVDISuffix">out of</span></span> <span class="BVDI_FVTotal BVDI_FVLevel2"><span class="BVDIValue BVDINumber">3</span><span class="BVDISuffix">found this answer helpful.</span></span></div><div class="BVDI_FVVotes BVDI_FVVotesHelpfulness"><span class="BVDIPrefix">Helpful?</span><span class="BVDI_FVVote BVDI_FVPositive BVDI_FVLevel2"><a title="helpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddPositiveFeedback_931880" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/931880/positive.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D973574%26expandanswer%3D931880&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">helpful</span><span class="BVDINumber">3</span></span></a></span><span class="BVDI_FVVote BVDI_FVNegative BVDI_FVLevel1"><a title="unhelpful" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_AddNegativeFeedback_931880" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/931880/negative.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26scrolltotop%3Dtrue%26expandquestion%3D973574%26expandanswer%3D931880&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink BVDIValue" href="javascript://"><span class="BVDILinkSpan"><span class="BVDILabel">unhelpful</span><span class="BVDINumber">0</span></span></a></span></div></div><div class="BVDI_FVReportLink BVDI_FVReportLinkInappropriate"><a title="Report" data-bvcfg="__CONFIGKEY__" name="BV_TrackingTag_Answer_Display_Inappropriate_931880" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/answer/931880/inappropriate.djs?format=embeddedhtml&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml%26expandquestion%3D973574%26expandanswer%3D931880&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" class="BVDILink " href="javascript://"><span class="BVDILinkSpan">Report inappropriate content</span></a></div></div><div class="BVQASpacer BVQAContentDataSpacer"></div></div></div></div> </div>
+</div></div>
+<div class="BVQAPager BVQAPageBasedPager">
+<span class="BVQAPageLink BVQAPageNumber"> <a href="/static/Product/partNumber/5089837/questions/2.htm" title="2" class="BVPageLink" name="BV_TrackingTag_QA_Display_PageNumber_2">2</a>
+</span><span class="BVQAPageLink BVQANextPage"><a href="/static/Product/partNumber/5089837/questions/2.htm" title="Next >" class="BVPageLink" name="BV_TrackingTag_QA_Display_NextPage">Next ></a></span><span class="BVQAPagerArrows">&gt;&gt;</span> </div>
+</div></div><div id="BVQAFooterID" class="BVQAFooter"><div id="BVQAGuidelinesID" class="BVQAGuidelines"><a name="BV_TrackingTag_QA_Display_QAndAGuidelines" href="http://answers.argos.co.uk/answers/1493-en_gb/content/guidelines.htm" target="_blank" onclick="window.open(this.href,null,'left=50,top=50,width=500,height=500,toolbar=1,location=0,resizable=1,scrollbars=1'); return false;" title="Policies &amp; Guidelines">Policies &amp; Guidelines</a></div><div id="BVQAAskQuestionID" class="BVQAAskQuestion"><a title="Ask a question " data-bvcfg="__CONFIGKEY__" data-bvjsref="http://answers.argos.co.uk/answers/1493-en_gb/product/5089837/askquestion.djs?format=embeddedhtml&amp;campaignid=BV_QA_BROWSE&amp;sessionparams=__BVSESSIONPARAMS__&amp;return=__RETURN__&amp;innerreturn=http%3A%2F%2Fanswers.argos.co.uk%2Fanswers%2F1493-en_gb%2Fproduct%2F5089837%2Fquestions.djs%3Fformat%3Dembeddedhtml&amp;user=__USERID__&amp;authsourcetype=__AUTHTYPE__&amp;submissionparams=__BVSUBMISSIONPARAMETERS__&amp;submissionurl=__BVSUBMISSIONURL__" name="BV_TrackingTag_QA_Display_AskQuestion" onclick="bvShowContentOnReturnQA('1493-en_gb', '5089837', 'BVQAAskQuestionID');return typeof(BVQAOnSubmit)=='function' ? BVQAOnSubmit(this.href, 'QUESTION_SUBMISSION') : true;" href="javascript://">Ask a question </a></div></div></div></div></div> </div>
+<div class="BVQAPager BVQAPageBasedPager">
+<span class="BVQAPageLink BVQAPageNumber"> <a href="/static/Product/partNumber/5089837/questions/2.htm" title="2" class="BVPageLink">2</a>
+</span><span class="BVQAPageLink BVQANextPage"><a href="/static/Product/partNumber/5089837/questions/2.htm" title="Next >" class="BVPageLink">Next ></a></span><span class="BVQAPagerArrows">&gt;&gt;</span> </div>
+<!-- END BVSEOContent.jsp -->
+			</div>
+		</div>
+	</div>
+<!--
+		        : 15109product.qanda.detail
+					  <tr><td>Name:</td> <td> product.qanda.detail </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.qanda.detail </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+<!--
+		        : 15110product.alsoinrange
+					  <tr><td>Name:</td> <td> product.alsoinrange </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.alsoinrange </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+	
+	<div id="pdpCreditOffers" class="pdpRelatedInformation section">
+		<div class="content">
+			<h2><span>Credit offers</span></h2><!--
+		        : 15140ti_creditoff
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;Credit offers&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+			<div class="pdpCreditOffer">
+				<div class="dealContent">
+					<div class="header">
+						<img src="/wcsstore/argos/en_GB/images/p1/credit_options_card.gif" alt="Argos card"/>
+						<p>Get longer to pay for anything at Argos</p>
+						<p>When you buy with the Argos card</p>
+					</div>
+					<div class="dealBody">
+						<p>
+							Asus S200E 11.6 Inch VivoBook.
+								<img src="/wcsstore/argos/en_GB/images/p8/icon_dagger.gif" alt="Excluded from the Argos 30 day money back guarantee." title="Excluded from the Argos 30 day money back guarantee." />
+							
+							<span class="partnumber">508/9837</span>
+						</p>
+						<p>
+							Cash price <span class="price">
+							&pound;349.99</span>
+						</p>
+						<div class="button creditHelp">How to get this deal <a href="" class="messageActivator_creditOptionHelp creditHelpContext"></a></div>
+						
+						
+
+<dl class="messageActivatee message">
+	<dt>creditOptionHelp</dt>
+	<dd>
+		<p class="paynothing">Buy now, pay later on everything</p><h5>Get the Argos Card</h5> <p>The Buy now, pay later plan presented is the best one available on this product. Please select Apply for credit in the Trolley to enjoy paying later with an Argos Card</p><h5>Already have the Argos Card</h5><p>Select the Buy now, pay later plan presented at the checkout to pay for your purchases with your Argos Card.</p><br><p>Representative <span class="apr">29.9 APR</span>  (variable)</p>
+	</dd>
+</dl>
+<p>
+	Representative <span class="apr">29.9% APR</span>  (variable)
+</p>
+
+					</div>
+				</div>
+			</div>
+		</div>		
+	</div>
+	<!--
+		        : 15111product.creditoffer
+					  <tr><td>Name:</td> <td> product.creditoffer </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.creditoffer </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+<div id="buyReserveDeliveryInformation" class="pdpRelatedInformation section">
+	<div class="content">	
+		<h2><span>Delivery costs & reservation information</span></h2><!--
+		        : 15141ti_delrescost
+					  <tr><td>Name:</td> <td>  </td></tr>
+					  <tr><td>DataType:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td>  </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td>  </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td>  </td></tr>
+					  <tr><td>ActivityPriority:</td> <td>  </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> &lt;h2&gt;&lt;span&gt;Delivery costs &amp; reservation information&lt;/span&gt;&lt;/h2&gt; </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 2 </td></tr>
+		        <tr><td>Format Name:</td> <td> Text </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	<div class="home info">
+		
+		<p>
+			
+			<strong>Currently <strong>out of stock</strong> for home delivery</strong>
+		</p>
+		
+		<p>
+		
+		</p>
+	</div>
+	
+
+	
+		<div class="store info">
+		   <p><strong>Reserve to collect in store</strong></p>
+			
+				<p>Why risk a wasted trip?  Reserve it now, pay in store when you collect.</p>
+			
+		</div>			
+	
+	</div>
+</div>
+<!--
+		        : 15112product.deliverycosts
+					  <tr><td>Name:</td> <td> product.deliverycosts </td></tr>
+					  <tr><td>DataType:</td> <td> MarketingContent </td></tr>
+					  <tr><td>ActivityIdentifier UniqueID:</td> <td> 18501 </td></tr>
+					  <tr><td>ActivityIdentifier Name:</td> <td> pdp_layout_intial_05032014 </td></tr>
+					  <tr><td>CampaignName:</td> <td>  </td></tr>
+					  <tr><td>ActivityFormat:</td> <td> web </td></tr>
+					  <tr><td>ActivityPriority:</td> <td> 0 </td></tr>
+		        <tr><td>Url Link:</td> <td>  </td></tr>	
+		        			
+		        	<tr><td>Marketing Text:</td> <td> product.deliverycosts </td></tr>
+		        	<tr><td>Location:</td> <td>  </td></tr>
+		         
+		        <tr><td>Format UniqueID:</td> <td> 10009 </td></tr>
+		        <tr><td>Format Name:</td> <td> Widget </td></tr>      	
+		        <tr><td>Content Mime Type:</td> <td>  </td></tr>    
+		        <tr><td>Name:</td> <td>  </td></tr>      	      	      	
+		        <tr><td>Short Description:</td> <td>  </td></tr>      	      	      	      	
+		        <tr><td>Image:</td> <td>  </td></tr>           
+		                   	      	 	      	      	      	
+		        -->
+
+	</div>
+	
+
+
+			</div>			
+		
+
+<div id="targetProducts" class="section">
+	<div class="content">
+		
+			<div id="recentlyViewed" class="component">			
+				<h2>You recently viewed...</h2>
+				
+			</div>
+		
+		<div id="whatsNew" class="component">
+			
+		</div>	
+		
+		
+	</div>
+</div>
+	
+	
+</div>
+
+<div id="sitefooter">
+	<div class="content">
+		
+<script type="text/javascript" src="/wcsstore/argos/en_GB/images/omniture_tag.js"></script>
+
+
+	<script type="text/javascript">
+		// <![CDATA[			
+			
+			s.pageName="ar:cat:product:technology:laptopsandpcs:laptopsandnetbooks:"
+s.channel="ar:productdetails:"
+s.prop4="ar:cat:product:technology:laptopsandpcs:laptopsandnetbooks:"
+s.eVar3="Technology>Laptops and PCs>Laptops and netbooks"
+s.eVar21="Technology"
+s.eVar22="Laptops and PCs"
+s.eVar23="Laptops and netbooks"
+s.eVar41="PDP:NO"
+s.currencyCode="GBP"
+s.eVar2="category browse"
+s.products=";5089837"
+s.prop5="Asus S200E 11.6 Inch VivoBook."
+s.events="prodView,event4"
+channel="productdetails"
+s.visitorNamespace="argos"
+s.dc="112"
+
+			
+			var s_code=s.t();if(s_code)document.write(s_code)
+		//]]>
+	</script>
+	
+	<h2 class="acs">Extra Information</h2>
+		<p>Credit provided subject to status by Argos Card Services, Thynne Street, Bolton, BL11 1AS.</p>
+    <p><a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosFSPrivacyPolicyView?storeId=10151&amp;langId=110">Credit&nbsp;&amp;&nbsp;Insurance&nbsp;privacy&nbsp;&amp;&nbsp;cookies</a>
+    | 
+    <a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosFSTermsConditionsView?storeId=10151&amp;langId=110"> Credit&nbsp;&amp;&nbsp;Insurance&nbsp;terms&nbsp;&amp;&nbsp;conditions</a>
+</p>
+
+<div id="information">
+    <dl class="navigation">
+		<dt>Essential Information</dt>
+		<dd><a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosCustomerServices?storeId=10151&GiftMode=Reset&action=ArgosCustomerServices%3FlangId%3D110&langId=110&ddkey=http:ISALTMStockAvailability" title="customer services">Customer Services</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/privacyPolicy.htm" title="privacy policy">Privacy policy</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/cookiePolicy.htm" title="cookie policy">Cookie policy</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/TermsAndConditions.htm" title="terms and conditions">Terms &amp; conditions</a></dd>
+		<dd><a id="sitemaplink" href="/static/StaticDisplay/includeName/sitemap.htm" title="sitemap">Site map</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/Security.htm" title="secure online shopping">Secure online shopping</a></dd>
+		<dd><a href="https://www.argosemails.co.uk/Sign-Up/" title="email sign up">Email sign up</a></dd>
+		</dl>
+<dl class="navigation">
+		<dt>Shopping at Argos</dt>
+		<dd><a href="/static/StaticDisplay/includeName/giftVouchers.htm" title="argos gift card">Argos gift card</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/OrderingForHomeDelivery.htm" title="home delivery">Home delivery</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/Reserving.htm" title="check and Reserve">Check &amp; Reserve</a></dd>
+		<dd><a href="/webapp/wcs/stores/servlet/OrderTracking?langId=110&amp;storeId=10151" title="order tracking">Order tracking</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/ReturnsAndRefunds.htm" title="free returns">Free returns</a></dd>
+		<dd><a href="https://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosOrderByCatView?catalogId=19551&langId=110&storeId=10151&krypto=fSlOmh1gIjD8kYRgF%2FIcgA%3D%3D&ddkey=http:ArgosOrderByCatView " title="quick shop">Quick shop</a></dd>
+		<dd><a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosStoreLocatorMain?storeId=10151&GiftMode=Reset&action=ArgosStoreLocatorMain%3FlangId%3D110&langId=110&ddkey=http:ISALTMStockAvailability " title="store locator">Store locator</a></dd>
+<div id="information">
+		</dl>
+	<dl class="navigation">
+		<dt>Product information</dt>
+		<dd><a href="http://www.argos.co.uk/static/BuyingGuide/bgTrail/BuyersCompTables000000.htm" title="buying guides">Buying guides</a></dd>
+		<dd><a href="/static/StaticDisplay/includeName/Argos_product_care.htm" title="product care">Product care</a><span></span></dd>
+		<dd><a href="/webapp/wcs/stores/servlet/CreditAndInsuranceView?langId=110&storeId=10151&page=Credit %26 Insurance homepage|Argos Card">Argos Card</a></dd>
+        <dd><a href="/webapp/wcs/stores/servlet/CreditAndInsuranceView?langId=110&amp;storeId=10151" title="Argos Credit and Insurance">Argos Credit &amp; Insurance</a></dd>
+        
+		<dd><a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosAToZCategoriesView?langId=110&storeId=10151" title="a to z index">A &ndash; Z index</a></dd>
+		<dd><a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/CheckPriceAndStockEntryCmd?storeId=10151&GiftMode=Reset&action=CheckPriceAndStockEntryCmd%3FlangId%3D110&langId=110&ddkey=http:ISALTMStockAvailability" title="stock checker">Stock checker</a></dd>
+		<dd><a href="http://www.argos.co.uk/static/StaticDisplay/includeName/Features_articles.htm " title="features and articles">Features &amp; articles</a></dd>
+		</dl>
+	<dl class="navigation">
+		<dt>About Argos</dt>
+		<dd><a href="/static/StaticDisplay/includeName/AboutArgos.htm" title="about us">About us</a></dd>
+		<dd class="newwindowlink"><a href="http://www.argos-affiliates.co.uk" title="affiliate program" target="_blank">Affiliate program</a><span></span></dd>
+		<dd><a href="/static/StaticDisplay/includeName/BusinessSolutions.htm" title="Argos for business">Argos for Business</a></dd>
+		<dd class="newwindowlink"><a href="http://www.homeretailgroup.com/news-and-media/?smlbus=1519" title="Home retail group news page" target="_blank" />Press enquiries</a><span></span></dd>
+		</dl>
+	<dl class="navigation">
+		<dt>Other Argos sites</dt>
+		<dd class="newwindowlink"><a href="https://www.argoscareers.com/jobs_argos/careers/default.aspx" title="Argoscareers.com" target="_blank">Argoscareers.com</a><span></span></dd>
+		<dd class="newwindowlink"><a href="http://www.argos.ie/webapp/wcs/stores/servlet/StoreCatalogDisplay?langId=110&amp;storeId=30001" title="Argos.ie" target="_blank">Argos.ie</a><span></span></dd>
+		<dd class="newwindowlink"><a href="http://www.argos-spain.co.uk" title="Argos-spain.co.uk" target="_blank">Argos-spain.co.uk</a><span></span></dd>
+		<dd class="newwindowlink"><a href="http://www.argosspares.co.uk/cgi-bin/home.pl" title="Argos Spares" target="_blank">Argos Spares</a><span></span></dd>
+		</dl>
+</div>		<p id="social">
+	<span>Argos on...</span> 
+	<a href="http://www.youtube.com/user/argoscouk" target="_blank" id="social_yt">Youtube</a> 
+	<span class="separator">|</span> 
+	<a href="http://www.facebook.com/argos" target="_blank" id="social_fb">Facebook</a> 
+	<span class="separator">|</span> 
+	<a href="http://www.twitter.com/Argos_online" target="_blank" id="social_tw">Twitter</a> 
+</p>
+	
+<p id="app">
+	<span>Argos App for...</span> 
+	<a href="https://itunes.apple.com/gb/app/argos/id370371087?mt=8" target="_blank">iPhone</a> 
+	<span class="separator">|</span> 
+	<a href="https://itunes.apple.com/gb/app/argos-for-ipad/id571228153?mt=8" target="_blank">iPad</a> 
+	<span class="separator">|</span> 
+	<a href="https://play.google.com/store/apps/details?id=com.homeretailgroup.argos.android&hl=en" target="_blank">Android</a>
+</p>
+	
+<p id="mobile"><a href="http://www.argos.co.uk/m/static/Home.htm">Argos mobile site</a></p>
+
+
+
+	
+	<div id="copyright">
+		<span id="newWindowKey"><img alt="new window icon" src="/wcsstore/argos/en_GB/siteAssets//images/icon_new_window.gif" />This link will open in a new window.</span>
+		<span id="credits">&copy;&nbsp;Argos Limited 2014. All Rights Reserved.</span> 
+		
+				<a href="http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosGSGiftModeExitCmd?action=StoreCatalogDisplay?langId=110&storeId=10151" id="logo"><img src="/wcsstore/argos/en_GB/siteAssets//images/argos_logo.png" alt="Argos.co.uk"/></a>
+					
+	</div>
+
+               
+<script type="text/javascript">argos.tracking.setReferrer(s);</script>
+<script src="/wcsstore/argos/en_GB/images/survey.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">	
+	$(document).ready(function() {	
+		
+		var url = null;
+		if (argos.thirdparty.Survey.TYPE.internal == "1") {
+			url = "http://www.argos.co.uk/wcsstore/argos/en_GB/survey_popunder.htm";
+		} else if ((argos.thirdparty.Survey.TYPE.external == "1")) {
+			url = "http://www.argos.co.uk/wcsstore/argos/en_GB/survey_popunder.htm";
+		}
+		
+		if (argos.thirdparty.Survey.TRIGGER.homepage == "HOMEPAGE") {
+			argos.thirdparty.Survey.showHomepageSurvey("1", url);
+		} else if (argos.thirdparty.Survey.TRIGGER.category == "HOMEPAGE") {
+			argos.thirdparty.Survey.showCategorySurvey("1", url, "10199181");		
+		}
+	});
+</script>
+
+
+
+
+
+
+
+<!-- cid=WC_arglp_node_5 server6 7.12.00.110 -->
+<!-- tst=Wed Mar 19 08:32:16 GMT 2014 -->
+<!-- req=/webapp/wcs/stores/servlet/ProductDisplay -->
+
+
+<!--
+Tags that built this release: $Name: R1_ACC $
+-->
+
+
+<script>//$(document).ready(function() {argos.utils.welcomeStatus()});
+argos.utils.welcomeStatus();
+</script>
+	</div>
+	
+	<script type="text/javascript">_satellite.pageBottom();</script>
+	
+</div>
+<!-- template={body=/ArgosStorefrontAssetStore/templates/product/productdetails/productDetails_body_tile.jsp,} -->
+</body>
+</html>

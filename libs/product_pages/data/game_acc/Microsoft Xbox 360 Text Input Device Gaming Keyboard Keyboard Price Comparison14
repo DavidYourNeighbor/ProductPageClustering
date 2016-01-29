@@ -1,0 +1,1959 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Xbox 360 Chatpad and Headset (3&#43;) by Microsoft | Gaming | Electricals | Look Again</title>
+	<meta charset="UTF-8" />
+	<meta name="Description" content=" Microsoft Xbox Features:  Chatpad &amp; Headset  Age: 3&#43;" />
+	<meta name="Keywords" content="Xbox 360 Chatpad and Headset (3&#43;) by Microsoft, Microsoft, Accessories, Accessories, Gaming, Electricals, Lookagain" />
+	<link rel="shortcut icon" href="/web/pix/navigation/favicon.ico" />
+	<link rel="canonical" href="http://www.lookagain.co.uk/products/xbox-360-chatpad-and-headset-(3&#43;)-by-microsoft/_/A-96T894_" />
+    <link rel="stylesheet" type="text/css" href="/web/css/MasterStyles.css?version=070320141026" media="all" />
+    <link rel="stylesheet" type="text/css" href="/web/css/ProductDisplay.css?version=250220140839" media="all" />
+
+	<script type="text/javascript" src="/COMMON/jssource/swfobject_ver2.js"></script>
+	<script type="text/javascript" src="/COMMON/jssource/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/COMMON/jssource/jquery.lightbox_me.js"></script>
+	<script type="text/javascript" src="/web/pwr/engine/js/full.js"></script>
+    <script type="text/javascript" src="/web/jssource/productDisplay.js?version=250220140839"></script>
+	<script type="text/javascript" src="/COMMON/jssource/cloud-zoom.1.0.2.min.js"></script>
+    <script type="text/javascript" src="/COMMON/jssource/jquery.bxslider-4.1.min.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var hotlistSelected;
+var asPrices             = new Array();
+var asPubs               = new Array();
+var asItemcodes          = new Array();
+var asSizenames          = new Array();
+var asStockSizes         = new Array();
+var asStockSizenames     = new Array();
+var asDefaultSizes       = new Array();
+var asDefaultSizenames   = new Array();
+var asDeliveryTypes      = new Array();
+var asDeliveryCharges    = new Array();
+var asWarrantyCodes      = new Array();
+var asWarrantyDescCodes  = new Array();
+var asWarrantyDescs      = new Array();
+var asWarrantyDurations  = new Array();
+var asWarrantyItems      = new Array();
+var asWarrantyPrices     = new Array();
+var asWarrantyTypeCodes  = new Array();
+var asWarrantyFullDescs  = new Array();
+var asWarrantyPromoTexts = new Array();
+var asPremDels           = new Array();
+var asScene7AImages      = new Array();
+var asExtraOptions       = new Array();
+var asLowStockInds       = new Array();
+var asColoursInStock     = new Array();
+var asColour2sInStock    = new Array();
+var asSizesInStock       = new Array();
+var asImageForColour     = new Array();
+var colour2Count         = new Array();
+var sizeCount            = new Array();
+var itemDetails = new Array();
+var numColour2s = 0;
+var numSizes    = 0;
+var asScene7ImageCatalogueNumber	= new Array();
+var asScene7ImageFullName			= new Array();
+var asScene7ImageIdentifier			= new Array();
+
+			asScene7ImageCatalogueNumber[0] = "96T894";
+			asScene7ImageFullName[0] = "96T894FRSP";
+			asScene7ImageIdentifier[0] = "";
+			
+			asImageForColour[""] = "96T894FRSP";
+			colour2Count[""] = 0;sizeCount[""]   = 1;
+	asPrices[""]            = 30;
+	asPubs[""]              = "WLJ";
+	asItemcodes[""]         = "96T894";
+	asSizenames[""]         = "";
+	asStockSizenames["option1"]         = "";
+	asDefaultSizenames["defaultoption1"]     = "";
+	asStockSizes["option1"]             = "";
+	asDefaultSizes["defaultoption1"]         = "";
+	asExtraOptions["option0"]     = "";
+	asDeliveryTypes[""]     = "D";
+	asDeliveryCharges[""]   = "3.99";
+	asPremDels[""]          = "";
+	asScene7AImages[""]     = "96T894FRSP";
+	asWarrantyCodes[""]     = "";
+	asWarrantyDescCodes[""] = "";
+
+	if (asWarrantyDescCodes[""] != ""){
+		asWarrantyDescs[""] = "";
+	}
+	else {
+		asWarrantyDescs[""] = "";
+	}
+
+	asWarrantyDurations[""]  = "";
+	asWarrantyItems[""]      = "";
+	asWarrantyPrices[""]     = 0;
+	asWarrantyTypeCodes[""]  = "";
+	asWarrantyFullDescs[""]  = "";
+	asWarrantyPromoTexts[""] = "";
+
+	if (asWarrantyDurations[""] != ""){
+		asWarrantyFullDescs[""] = asWarrantyFullDescs[""] + " years ";
+	}
+	if (asWarrantyDescCodes[""] != ""){
+		asWarrantyFullDescs[""] = asWarrantyFullDescs[""] + "";
+	}
+	if (asWarrantyTypeCodes[""] != ""){
+		asWarrantyFullDescs[""] = asWarrantyFullDescs[""] + " ";
+	}
+	if (asWarrantyCodes[""] != ""){
+		if (asWarrantyTypeCodes[""] != ""){
+			asWarrantyPromoTexts[""] = "";
+		}
+		else {
+			asWarrantyPromoTexts[""] = "";
+		}
+	}
+
+
+	asLowStockInds["option1"] = "Available";
+	
+	asColoursInStock[""] = "Y";
+	asSizesInStock[""] = "Y";
+	
+
+	itemDetails[""] =
+		{
+		wasPriceDisplay : '',
+		wasPriceSaveDisplay : '',
+		wasPricePublicationCode : ''
+		};
+
+	
+numSizes    = 1;
+numColour2s = 0;
+
+
+/*------------------------------------------------------------------------------------------------*/
+/* Function        : option_change                                                                */
+/*------------------------------------------------------------------------------------------------*/
+/* Description     : Function to handle item option changes.                                      */
+/*------------------------------------------------------------------------------------------------*/
+function option_change(optionSelected)
+{
+	var urlCatno = "";
+	var warrantyChecked = "";
+	var warrantyDeclinedChecked = "";
+	
+	var radioAccept = document.getElementById("fsRadioAccept");
+	var radioDecline = document.getElementById("fsRadioDecline");
+	if(radioAccept != null) {
+		if (radioAccept.checked){
+			warrantyChecked = "CHECKED";
+			warrantyDeclinedChecked = "";
+		}
+		else if (radioDecline.checked){
+			warrantyChecked = "";
+			warrantyDeclinedChecked = "CHECKED";
+		}
+		else{
+			warrantyChecked = "";
+			warrantyDeclinedChecked = "";
+		}
+	}
+	
+	var o1 = document.getElementById("option1");
+	var o2 = document.getElementById("option2");
+	var extraOption = document.getElementById("extraOption");
+	var colCount  = "NONE";
+	var col2Count = "NONE";
+	var sizCount  = "NONE";
+	var sKey = "";
+	var midKey = "";
+	if(o1 != null) {
+		if (colCount == "MULTI"){
+			sKey = o1.options[o1.selectedIndex].value;
+		}
+		else {
+			sKey = o1.value;
+		}
+	}
+	if(extraOption != null) {
+		if (col2Count == "MULTI"){
+			sKey += extraOption.options[extraOption.selectedIndex].value;
+		}
+		else {
+			sKey += extraOption.value;
+		}
+	}
+	midKey = sKey;
+	if(o2 != null) {
+		if (sizCount == "MULTI"){
+			sKey += o2.options[o2.selectedIndex].value;
+		}
+		else {
+			sKey += o2.value;
+		}
+	}
+	// If changed a different catalogue item (option 1) then create extra option.
+	if (optionSelected && col2Count == "MULTI")
+	{
+		if (optionSelected.id == "option1")
+		{
+			if ($("#emailinstockOptions").is(":visible"))
+					{
+					   $("#emailinstockOptions").slideUp();
+					   $("#emailinstockerror").hide();
+					}
+			createColour2Options(o1.value, "-- Select option --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+			sKey = o1.value;
+
+		}
+	}
+	// If changed a different catalogue item (option 1) then rewrite option 2 with relevant low stock ind.
+	if (optionSelected && sizCount == "MULTI")
+	{
+		if (optionSelected.id == "extraOption" || (optionSelected.id == "option1" && col2Count != "MULTI"))
+		{
+			if(optionSelected.id == "extraOption" && extraOption.selectedIndex == 0){
+				midKey = "";
+			}
+			if ($("#emailinstockOptions").is(":visible"))
+			{
+			   $("#emailinstockOptions").slideUp();
+			   $("#emailinstockerror").hide();
+			}
+			createSizeOptions(midKey, "-- Select option --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+			sKey = midKey;
+		}
+	}
+	
+	// Back of book - check that an identifier (colour) has been populated
+	var Sizenames = asSizenames[sKey];	
+	var strIdentifierPopulated = "";
+	if(typeof(Sizenames) != "undefined")
+	{
+		if (Sizenames.length > 0)
+		{
+			for (var i=0;i<asScene7ImageIdentifier.length;i++)
+			{
+				if (asScene7ImageIdentifier[i] != "")
+				{
+					strIdentifierPopulated = true;
+					break;
+				}
+			}
+		}	
+	}
+	
+	// If a colour has been populated - check for a different image (back of book)
+	if (strIdentifierPopulated == true)
+	{
+		var strImageForColour = "";
+		var strScene7ImageFullName = "";
+		var masterItem = "96T894";
+		if(typeof(Sizenames) != "undefined")
+		{
+			if (Sizenames.length > 0)
+			{
+				Sizenames = Sizenames.toUpperCase().replace(/ /,"_").replace("/","");
+				for (var i=0;i<asScene7ImageIdentifier.length;i++)
+				{
+					if (Sizenames == asScene7ImageIdentifier[i])
+					{
+						asImageForColour[sKey] = asScene7ImageFullName[i];
+						break;
+					}
+					// Default to master image if no colour match found
+					if (asScene7ImageIdentifier[i] == "")
+					{
+						strScene7ImageFullName = asScene7ImageFullName[i];
+						if (strScene7ImageFullName.length == 10)
+						{
+							if (asScene7ImageCatalogueNumber[i] == masterItem || strImageForColour == "")
+							{
+							strImageForColour = asScene7ImageFullName[i];
+							asImageForColour[sKey] = strImageForColour;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	var ImageForColour = asImageForColour[sKey];
+	if(typeof(ImageForColour) != "undefined") {
+		if(ImageForColour != ""){
+			var ImageSeoText;
+			var ImageForColourUrl;
+			var ImageForColourParam;
+			ImageSeoText = "Xbox 360 Chatpad and Headset (3&#43;) by Microsoft";
+			ImageSeoText = ImageSeoText.replace(/ /g,"-");
+			ImageSeoText = ImageSeoText.replace(/\//g,"-");
+			ImageForColourParam = "cloudzoom";
+			ImageForColourUrl = "http://images.lookagain.co.uk" + "/is/image/OttoUK/" + ImageForColourParam + "/" + ImageSeoText + "~" + ImageForColour + ".jpg";
+			changeZoomLink(ImageForColourUrl);
+			changeLargeLink(ImageForColour);
+			ImageForColourParam = "355w";
+			ImageForColourUrl = "http://images.lookagain.co.uk" + "/is/image/OttoUK/" + ImageForColourParam + "/" + ImageSeoText + "~" + ImageForColour + ".jpg";
+			MM_swapImage('product_image','',ImageForColourUrl,1);
+		}
+	}
+	// Set the was price lements now we have a change in option.
+	setWasPriceElements('', '', itemDetails, false);
+
+	var deltype = asDeliveryTypes[sKey];
+	var o5 = document.getElementById("delivery_container");
+
+	var delcharge = asDeliveryCharges[sKey];
+
+	//Update the delivery charge
+	var o9 = document.getElementById("delivery_charge_container");
+	o9.innerHTML = "<p class='emph'>Delivery &pound;3.99</p>";
+	if (delcharge > 0)
+	{
+		o9.innerHTML = '<p><span class="emph">Delivery&nbsp;&pound;' + delcharge + '</span></p>';
+	}
+	var o6          = document.getElementById("fs_desc_price");
+	var o7          = document.getElementById("fs_select");
+	var warcode     = asWarrantyCodes[sKey];
+	var wardesccode = asWarrantyDescCodes[sKey];
+	var wartypecode = asWarrantyTypeCodes[sKey];
+	var o14         = document.getElementById("quantity");
+
+	if(typeof(wardesccode) != "undefined")
+	{
+		//Extended Warranty
+		if(wardesccode == "EW"){
+			var o10 = document.getElementById("ewtab");
+			var warimg = "/web/pix/productdisplay/fs_header_extended_warranty.gif";
+		   if(wartypecode == "LO"){
+				var fsmaintext = '<span class="fs_optiontext"><br />Including:</span><ul><li>Accidental damage cover</li><li>No hidden costs - labour &amp; callout costs included</li></ul>';
+			}
+			else if(wartypecode == "PL"){
+				var fsmaintext = '<span class="fs_optiontext"><br />Including:</span><ul><li>Accidental damage cover</li><li>No hidden costs - parts, labour &amp; callout costs included</li></ul>';
+			}
+			else if(wartypecode == "AD"){
+				var fsmaintext = '<span class="fs_optiontext"><br />Including:</span><ul><li>Accidental damage cover</li></ul>';
+			}
+			else{
+				var fsmaintext = '<span class="fs_optiontext"><br />Including:</span><ul><li>Accidental damage cover</li><li>No hidden costs - parts, labour &amp; callout costs included</li><li>Protection against theft & robbery</li></ul>';
+			}
+			var fslinks = '<a href="/web/pix/financial-services/ew.pdf" target="_blank" alt="policy details">View full Terms & Conditions &raquo;</a>';
+			document.getElementById('warrantyTabContainer').style.display = "block";            
+		}
+
+		//Furniture Protection
+		if(wardesccode == "FP"){
+			var o10 = document.getElementById("fptab");
+			var warimg = "/web/pix/productdisplay/fs_header_furniture_protection.gif";
+			var fsmaintext = '<span class="fs_optiontext"><br>Including:</span><ul><li>Protect your purchases against accidental damage</li><li>No hidden costs</li><li>One phone call is all it takes to arrange a repair within days</li><li>New for old replacement if it cant be repaired</li></ul>';
+			var fslinks = '<a class="landinglink" style="color:#C5168D;" href="/web/pix/financial-services/fp.pdf" target="_blank"><span class="fs_pinktext">View full Terms & Conditions &raquo;</span></a>';
+			document.getElementById('warrantyTabContainer').style.display = "block";            
+		}
+
+		var o11 = document.getElementById("productdisplaywarrantybox");
+	}
+	if (urlCatno != "" && asItemcodes[sKey] != urlCatno){
+		warrantyChecked = "";
+	}
+
+	if (warcode == "") { warcode = undefined; }
+
+	if(typeof(warcode) != "undefined") {
+		if(warcode != ""){
+			if(asWarrantyDurations[sKey] != ""){
+				var fsTabHeaderText = asWarrantyDurations[sKey] + ' years cover for only &pound;' + asWarrantyPrices[sKey]*o14.options[o14.selectedIndex].value;
+			}
+			else{
+				var fsTabHeaderText = 'for only &pound;' + asWarrantyPrices[sKey]*o14.options[o14.selectedIndex].value;
+			}
+			/*
+			If the warranty type is ProductProtect
+			*/
+			if(asWarrantyDescs[sKey] == "PRC"){
+				o6.innerHTML = '<div class="fs_optiontext">' + asWarrantyDescs[sKey].replace("PRC","Product Protect") + ' - ' + fsTabHeaderText + '<br /><a class="landinglink" style="color:#666666;" href="#" onclick="showTab(\'' + asWarrantyDescCodes[sKey].toLowerCase() + '\'); $(\'.info_tabs\').addClass(\'inactive\'); $(\'#warrantyTabContainer a\').removeClass(\'inactive\');return false">more info</a></div>';
+			}else{
+			o6.innerHTML = '<div class="fs_optiontext">' + asWarrantyDescs[sKey].replace("PRC","Product Protect") + ' - ' + fsTabHeaderText + '<br> <a class="landinglink" style="color:#666666;" id="warranty_moreinfo" href="#" onclick="showTab(\'' + asWarrantyDescCodes[sKey].toLowerCase() + '\'); $(\'.info_tabs\').addClass(\'inactive\'); $(\'#warrantyTabContainer a\').removeClass(\'inactive\');return false">more info</a></div>';
+			}
+
+			
+			o7.innerHTML = '<div id="fs_multiple_outer">' +
+								'<label for="fsRadioAccept">Yes please</label>' +
+								'<input name="fs_radio" ' + warrantyChecked + ' type="radio" value="Y" id="fsRadioAccept" onclick="option_change(this)"/>' +
+								'<br/>' +
+								'<label for="fsRadioDecline">No thanks</label>' +
+								'<input name="fs_radio" ' + warrantyDeclinedChecked + ' type="radio" value="N" id="fsRadioDecline" onclick="option_change(this)">'
+							'</div>';
+			
+
+			if(wardesccode != "PR")
+			{
+				o10.style.display = "block";
+				o11.innerHTML = '<img src="' + warimg + '"><p>' + fsTabHeaderText + '</p>' + fsmaintext + fslinks;
+			}
+            $("#warrantyWrapper").show();
+		}
+	}
+    else
+    {
+        document.getElementById("fptab").style.display = "none";
+	    document.getElementById("ewtab").style.display = "none";
+	    document.getElementById("prtab").style.display = "none";
+		document.getElementById("warrantyTabContainer").style.display = "none";
+        $("#detailsTab").trigger("click");        
+        $("#warrantyWrapper").hide();
+    }
+
+	var fPrice       = asPrices[sKey];
+	var o3           = document.getElementById("price_container");
+	var o12          = document.getElementById("stockLinePrice");
+	var o13          = document.getElementById("stockLineCatno");
+	var qtyContainer = document.getElementById("qtyContainer");
+    var o15 = document.getElementById("stockAndPrice");
+	
+	if(typeof(fPrice) != "undefined") {
+
+		$('#quantity').removeAttr('disabled');
+		o13.innerHTML = "<span class='emph'>Product Code:</span> " + asItemcodes[sKey] + asPubs[sKey];
+		o15.style.display = 'block';
+		var tmpNumStr = new String(fPrice.toFixed(2));
+		var priceTimesQty = (fPrice.toFixed(2))*o14.options[o14.selectedIndex].value;
+		var tmpNumStr2 = priceTimesQty.toFixed(2);
+
+		if (fPrice >= 1000) {
+			var iStart = tmpNumStr.indexOf(".");
+			if (iStart < 0)
+			iStart = tmpNumStr.length;
+
+			iStart -= 3;
+			while (iStart >= 1) {
+			tmpNumStr = tmpNumStr.substring(0,iStart) + "," + tmpNumStr.substring(iStart,tmpNumStr.length)
+			iStart -= 3;
+			}
+		}
+		if (priceTimesQty >= 1000) {
+			var iStart = tmpNumStr2.indexOf(".");
+			if (iStart < 0)
+			iStart = tmpNumStr2.length;
+
+			iStart -= 3;
+			while (iStart >= 1) {
+			tmpNumStr2 = tmpNumStr2.substring(0,iStart) + "," + tmpNumStr2.substring(iStart,tmpNumStr2.length)
+			iStart -= 3;
+			}
+		}
+
+		o3.innerHTML = "&pound;" + tmpNumStr;
+		stockLinePriceOnly = "&pound;" + tmpNumStr2;
+		if (warrantyChecked == "CHECKED"){
+			var warPriceTimesQty = (asWarrantyPrices[sKey])*o14.options[o14.selectedIndex].value;
+			var totalPrice = priceTimesQty + warPriceTimesQty;
+			warPriceTimesQty = warPriceTimesQty.toFixed(2);
+			var tmpNumStr3 = totalPrice.toFixed(2);
+			if (totalPrice >= 1000) {
+				var iStart = tmpNumStr3.indexOf(".");
+				if (iStart < 0)
+				iStart = tmpNumStr3.length;
+
+				iStart -= 3;
+				while (iStart >= 1) {
+				tmpNumStr3 = tmpNumStr3.substring(0,iStart) + "," + tmpNumStr3.substring(iStart,tmpNumStr3.length)
+				iStart -= 3;
+				}
+			}
+			stockLinePriceWithWarranty = stockLinePriceOnly + " + &pound;" + warPriceTimesQty + "<br>= <span class='emph'>&pound;" + tmpNumStr3 + "</span>";
+			o12.innerHTML = stockLinePriceWithWarranty;
+		}
+		else {
+
+			o12.innerHTML = "<span class='emph'>" + stockLinePriceOnly + '</span>';
+		}
+
+		if (doStockCheck != "SKIP") {
+			doStockCheck = "Y";
+		}
+	}
+	else {
+		o12.innerHTML = '';
+		o15.style.display = 'none';
+		$('#quantity').attr('disabled','disabled');
+	}
+
+	// If need to, perform the stock check AJAX call.
+	if (doStockCheck == "Y")
+	{
+		checkStock("http://www.lookagain.co.uk/common/functions/ServiceStockBalance.asp?tc=LKA&tt=AC&cics=P&lcg=P&debug=0", "NONE", "NONE", "NONE");
+	}
+}
+
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var reviewCount;
+
+	$(document).ready(function()
+	{
+			setWasPriceElements('', '', itemDetails, false);
+			checkStock("http://www.lookagain.co.uk/common/functions/ServiceStockBalance.asp?tc=LKA&tt=AC&cics=P&lcg=P&debug=0", "NONE", "NONE", "NONE");
+	});
+
+	/*-------------------------------------------------------------------------------------------*/
+	/* Function        : pwrEngine                                                               */
+	/* Params          : None.                                                                   */
+	/* Returns         : None.                                                                   */
+	/*-------------------------------------------------------------------------------------------*/
+	/* Description     : Calls the powerreviews display engine.                                  */
+	/*-------------------------------------------------------------------------------------------*/
+	function pwrEngine()
+	{
+		POWERREVIEWS.display.engine(document, {
+			pr_page_id: '96T894',
+			pr_write_review: 'http://www.lookagain.co.uk/web/main/writeareview.asp?page_id=96T894'
+		});
+	}
+	//PowerReviews variables
+	var pr_locale       = "en_GB";
+	var pr_zip_location = "http://www.lookagain.co.uk/web/";
+	var pr_style_sheet  = "http://www.lookagain.co.uk/web/css/powerreviews.css";
+/* ]]> */
+</script>
+
+<meta name="robots" content="NOODP,NOYDIR"/>
+
+<meta property="og:title"       content="Xbox 360 Chatpad and Headset (3&#43;) by Microsoft | Gaming | Electricals | Look Again" />
+<meta property="og:description" content=" Microsoft Xbox Features:  Chatpad &amp; Headset  Age: 3&#43;" />
+<meta property="og:url"         content="http://www.lookagain.co.uk/products/xbox-360-chatpad-and-headset-(3&#43;)-by-microsoft/_/A-96T894_" />
+<meta property="og:image"       content="http://images.lookagain.co.uk/is/image/OttoUK/355w/Xbox-360-Chatpad-and-Headset-(3&#43;)-by-Microsoft~96T894FRSP.jpg" />
+<meta property="og:type"        content="website" />
+<meta property="og:site_name"   content="Look Again" />
+
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<!-- Begin comScore Inline Tag 1.1302.13 --> 
+<script type="text/javascript">
+    // <![CDATA[
+    function udm_(e) { var t = "comScore=", n = document, r = n.cookie, i = "", s = "indexOf", o = "substring", u = "length", a = 2048, f, l = "&ns_", c = "&", h, p, d, v, m = window, g = m.encodeURIComponent || escape; if (r[s](t) + 1) for (d = 0, p = r.split(";"), v = p[u]; d < v; d++) h = p[d][s](t), h + 1 && (i = c + unescape(p[d][o](h + t[u]))); e += l + "_t=" + +(new Date) + l + "c=" + (n.characterSet || n.defaultCharset || "") + "&c8=" + g(n.title) + i + "&c7=" + g(n.URL) + "&c9=" + g(n.referrer), e[u] > a && e[s](c) > 0 && (f = e[o](0, a - 8).lastIndexOf(c), e = (e[o](0, f) + l + "cut=" + g(e[o](f + 1)))[o](0, a)), n.images ? (h = new Image, m.ns_p || (ns_p = h), h.src = e) : n.write("<", "p", "><", 'img src="', e, '" height="1" width="1" alt="*"', "><", "/p", ">") }; 
+	var search_term = ''; var search_term_value = encodeURIComponent(""); 
+	if (search_term_value != "") search_term = '&ns_search_term=' + search_term_value;
+    udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=16570095&ns_site=acpt'+search_term +'&fgh_vs_pl=desktop');
+	// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=16570095&amp;ns_site=acpt&amp;fgh_vs_pl=desktop" height="1" width="1" alt="*"></p></noscript> 
+<!-- End comScore Inline Tag -->
+<span class="hidden" id="cs_site">acpt</span>
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    //Google Analytics code for setting up an account and tracking events and pageviews 
+        
+		var _gaq = _gaq || [];
+	
+        //live ID 
+		_gaq.push(['_setAccount', 'UA-37414483-1']); 
+	
+		_gaq.push(['_setSiteSpeedSampleRate', 10]);
+		/* custom variable for the "Mobile Website" custom segment (can be used to override what Google Analytics 
+		considers "mobile", with the traffic data from devices that actually get served the mobile version of the site) */	    
+		_gaq.push(['_setCustomVar',
+		            2,
+                    'Mobile Website',
+                    'False',
+                    1]);
+			
+	/* ]]> */
+</script>
+
+
+
+<script  type="text/javascript" src="/web/jssource/common.js?version=070320141026"></script>
+
+
+<!-- START TOP BANNER & NAV -->
+    
+<link rel="stylesheet" type="text/css" href="/../common/css/xfoheader.css?version=141120130758" />
+    
+<div id="xfotopnavcontainer" class="xfoHeader headerBackground">
+
+    <ul id="brandnav">
+		<li class="otherWebsitesTab">
+			<div id="brandHeader" class="XFONav">
+				<span id="othersites">Use your account at:</span>
+            </div>
+            <div class="brandnavFlydown">
+				<span class="brandnavArrow">&nbsp;</span>
+                <p>Shop at all our sites using just one account.</p>
+            </div>
+        </li>
+        
+        
+
+        <li class="brandTab lookagainTab selectedTab">
+			<span class="xfoHeader selectedLeft">&nbsp;</span>
+			<span class="xfoHeader selectedRight">&nbsp;</span>
+			<span class="xfoHeader selectedTop">&nbsp;</span>
+			<div class="XFONav">
+				
+				
+                <a onclick="return false" href="http://www.lookagain.co.uk" title="Look Again" class="xfoHeader lookagain">&nbsp;</a>
+				
+				
+			</div>
+
+        
+
+            <div class="brandnavFlydown">
+                <span class="brandnavArrow">&nbsp;</span>
+                <p>
+                    Always something new for you, your family &amp; your home.
+                </p>
+            </div>
+        </li>
+
+        
+
+        <li class="brandTab kaleidoscopeTab">
+            <div class="XFONav">
+                <a id="KaleidoscopeLink" href="#Kaleidoscope" onclick="document.location.href='http://www.kaleidoscope.co.uk/web/main/share_bag.asp?sid={681CD790-6FD9-449F-AD97-B3E971C6FA30}&a=&b=&c=&entry=3&catreqmedia=&ordermedia=L0132&name=&orderoffercode=&giftcode=';document.getElementById(this.id).removeAttribute('onclick');document.getElementById(this.id).removeAttribute('href');" title="Kaleidoscope" class="xfoHeader kaleidoscope">&nbsp;</a>
+            </div>
+
+        
+
+            <div class="brandnavFlydown">
+			    <span class="brandnavArrow">&nbsp;</span>
+                <p>Fashion and footwear, homes and lifestyle - designed to be different!</p>
+            </div>
+        </li>
+
+        
+
+        <li class="brandTab wittTab">
+            <div class="XFONav">
+                <a id="WittLink" href="#Witt-International" onclick="document.location.href='http://www.witt-international.co.uk/web/main/share_bag.asp?sid={681CD790-6FD9-449F-AD97-B3E971C6FA30}&a=&b=&c=&entry=3&catreqmedia=&ordermedia=L0132&name=&orderoffercode=&giftcode=';document.getElementById(this.id).removeAttribute('onclick');document.getElementById(this.id).removeAttribute('href');" title="Witt" class="xfoHeader witt">&nbsp;</a>
+            </div>
+        
+        
+        
+            <div class="brandnavFlydown">
+			    <span class="brandnavArrow">&nbsp;</span>
+                <p>Stylish womens clothing and menswear in a collection of UK &amp; European styles, sizes, colours and fashions.</p>
+            </div>
+        </li>
+		
+        
+
+        <li class="brandTab curvissaTab">
+            <div class="XFONav">
+                <a id="CurvissaLink" href="#Curvissa" onclick="document.location.href='http://www.curvissa.co.uk/web/main/share_bag.asp?sid={681CD790-6FD9-449F-AD97-B3E971C6FA30}&a=&b=&c=&entry=3&catreqmedia=&ordermedia=L0132&name=&orderoffercode=&giftcode=';document.getElementById(this.id).removeAttribute('onclick');document.getElementById(this.id).removeAttribute('href');" title="Curvissa" class="xfoHeader curvissa">&nbsp;</a>
+            </div>
+
+        
+
+            <div class="brandnavFlydown">
+			    <span class="brandnavArrow">&nbsp;</span>
+                <p>The home of size 14 to 32 fashion, footwear and accessories.</p>
+            </div>
+        </li>
+
+        
+		
+        <li class="brandTab swimwearTab">
+            <div class="XFONav">
+                <a id="Swimwear365Link" href="#Swimwear365" onclick="document.location.href='http://www.swimwear365.co.uk/web/main/share_bag.asp?sid={681CD790-6FD9-449F-AD97-B3E971C6FA30}&a=&b=&c=&entry=3&catreqmedia=&ordermedia=L0132&name=&orderoffercode=&giftcode=';document.getElementById(this.id).removeAttribute('onclick');document.getElementById(this.id).removeAttribute('href');" title="Swimwear365" class="xfoHeader swimwear365">&nbsp;</a>
+            </div>
+			
+        
+
+            <div class="brandnavFlydown">
+			    <span class="brandnavArrow">&nbsp;</span>
+                <p>Offering the largest range of swimwear &amp; holiday fashion available online, all year round</p>
+            </div>
+        </li>
+        
+        
+		
+        <li class="brandTab clearance365Tab">
+            <div class="XFONav">
+                <a id="clearance365Link" href="#Clearance365" onclick="document.location.href='http://www.clearance365.co.uk/web/main/share_bag.asp?sid={681CD790-6FD9-449F-AD97-B3E971C6FA30}&a=&b=&c=&entry=3&catreqmedia=&ordermedia=L0132&name=&orderoffercode=&giftcode=';document.getElementById(this.id).removeAttribute('onclick');document.getElementById(this.id).removeAttribute('href');" title="Clearance365" class="xfoHeader clearance365">&nbsp;</a>
+            </div>
+			
+        
+        
+
+            <div class="brandnavFlydown">
+			    <span class="brandnavArrow">&nbsp;</span>
+                <p>Huge savings on a range of fashion and footwear, homes and electrical items, 365 days a year!</p>
+            </div>
+        </li>        
+        
+        <li class="xfoMyAccountBagContainer">
+            <span class="xfoMyAccountBagContainerLeftSide xfoHeader">&nbsp;</span>
+            <span class="xfoMyAccountBagContainerRightSide xfoHeader">&nbsp;</span>
+            
+            <div class="xfoMyAccountBagContainerInner xfoHeader">
+                <div class="xfoMyAccountContainer">
+                    <p class="myAccountText" >
+                    
+                        <a title="Log into My Account" href="https://www.lookagain.co.uk/web/main/ma_login.asp">My Account</a>
+                        
+                    </p>
+                    
+                    
+                    <p class="loginText">
+                    
+                            <a title="Log into My Account" href="https://www.lookagain.co.uk/web/main/ma_login.asp">Login</a>
+                        
+                    </p>
+                    
+                    
+                </div>
+                
+                <div class="xfoHeaderDivider">&nbsp;</div>
+                
+                <div class="xfoBagContainer">
+                    <a class="xfoBagLink" href="https://www.lookagain.co.uk/web/main/bag.asp">&nbsp;</a>
+                    <div class="bagTextAndQty">
+                        <p class="bagText">
+                            My Bag
+                        </p>
+                        <p class="bagPriceAndQty">
+                            &pound;0.00 (0)
+                        </p>
+                    </div>
+                    <span class="xfoBagIcon xfoHeader">&nbsp;</span>
+                    <div id="bagDropDown" class="shadow">
+Your bag is currently empty
+</div>
+
+                    
+                </div>
+            </div>
+        </li>
+        
+        
+        
+        
+        
+    </ul>
+</div>
+<div id="divHeaderContainer">
+
+<!-- Header section -->
+
+<div id="divHeader">
+
+     <div id="headerLeft">
+           <div id="headerImage" class="topnav_sprite">
+				<a href="http://www.lookagain.co.uk" title="Lookagain.co.uk - always something new">
+					&nbsp;
+				</a>
+		   </div>
+	</div>
+
+		<div id="headerRight">
+		<div id="linksAndSearchContainer">
+
+
+				<br />
+
+
+
+			<ul id="headerLinks">
+
+            
+                <li><a title="Opens FAQs in a new window" href="http://www.lookagain.co.uk/web/main/help.asp">Help</a></li>
+            
+
+            <li><a href="http://www.lookagain.co.uk/web/main/quickorder.asp" title="Quick Order">Quick Order</a></li>
+
+             
+                <li><a href="http://www.lookagain.co.uk/web/main/SavedItems.asp" title="Saved Items">Saved Items (<span id="headingSavedItemsCount">0</span>)</a></li>
+            
+			</ul>
+
+			<div id="searchContainer">
+				<form id="searchForm" name="searchForm" action="http://www.lookagain.co.uk/search/_/N-1c" method="get" onSubmit="return checkSearchValue(this,'https://www.lookagain.co.uk/web/main')">
+				<input type="hidden" name="searchType" value="FullText" />
+				<input type="hidden" name="Nty" value="1" />
+				<div>
+					<input name="Ntt" id="searchBox" value="Search by keyword/item" maxlength="100"/>
+					<input class="texttop topnav_sprite" id="searchButtonInput" type="Submit" align="top" name="Search" value=""/>
+				</div>
+				</form>
+			</div>
+
+        </div><!-- END linksAndSearchContainer -->
+
+
+      </div><!-- End headerRight -->
+
+   <div class="clear"></div>
+
+   <!-- Topnav section-->
+   <ul id="topNav">
+		<li id="homeLink"><a class="topnav_sprite" href="http://www.lookagain.co.uk/" title="Go to homepage">Home</a></li>
+
+        <li><a href="/la/_/N-0Z1e" title="New In">New In</a></li>
+
+        <!--WOMENS-->
+        <li>
+            <a 
+		        href="http://www.lookagain.co.uk/womens/_/N-19" title="Womens">Womens</a>
+            <div class="topnavFlydown shadow flyDownCol3" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/womens/accessories-bags/_/N-19Z1z13zjo" title="Accessories & Bags">Accessories & Bags</a></li><li><a href="http://www.lookagain.co.uk/womens/beauty-fragrances/_/N-19Z1z13zjn" title="Beauty & Fragrances">Beauty & Fragrances</a></li><li><a href="http://www.lookagain.co.uk/womens/coats-jackets/_/N-19Z1z141vm" title="Coats & Jackets">Coats & Jackets</a></li><li><a href="http://www.lookagain.co.uk/womens/dresses/_/N-19Z1z141vr" title="Dresses">Dresses</a></li><li><a href="http://www.lookagain.co.uk/womens/footwear/_/N-19Z1z141wm" title="Footwear">Footwear</a></li><li><a href="http://www.lookagain.co.uk/womens/jeans/_/N-19Z1z141vw" title="Jeans">Jeans</a></li><li><a href="http://www.lookagain.co.uk/womens/jewellery-watches/_/N-19Z1z141ue" title="Jewellery & Watches">Jewellery & Watches</a></li><li><a href="http://www.lookagain.co.uk/womens/jumpers-cardigans/_/N-19Z1z13zjm" title="Jumpers & Cardigans">Jumpers & Cardigans</a></li><li><a href="http://www.lookagain.co.uk/womens/lingerie-nightwear/_/N-19Z1z1409f" title="Lingerie & Nightwear">Lingerie & Nightwear</a></li><li><a href="http://www.lookagain.co.uk/womens/maternity/_/N-19Z1z141qj" title="Maternity">Maternity</a></li><li><a href="http://www.lookagain.co.uk/womens/skirts/_/N-19Z1z141wd" title="Skirts">Skirts</a></li><li><a href="http://www.lookagain.co.uk/womens/suits-tailoring/_/N-19Z1z13zjl" title="Suits & Tailoring">Suits & Tailoring</a></li><li><a href="http://www.lookagain.co.uk/womens/swimwear/_/N-19Z1z141fx" title="Swimwear">Swimwear</a></li><li><a href="http://www.lookagain.co.uk/womens/tops/_/N-19Z1z141x7" title="Tops">Tops</a></li><li><a href="http://www.lookagain.co.uk/womens/trousers-shorts/_/N-19Z1z141wu" title="Trousers & Shorts">Trousers & Shorts</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/womens/love-shoes/_/N-19Z1z13zzy" title="Love Shoes">Love Shoes</a></li><li><a href="http://www.lookagain.co.uk/womens/party-occasion/_/N-19Z1z13z44" title="Party & Occasion">Party & Occasion</a></li><li><a href="http://www.lookagain.co.uk/womens/fashion-for-less/_/N-19Z1z141rk" title="Fashion For Less">Fashion For Less</a></li><li><a href="http://www.lookagain.co.uk/womens/lingerie-boutique/_/N-19Z1z13zzx" title="Lingerie Boutique">Lingerie Boutique</a></li><li><a href="http://www.lookagain.co.uk/womens/denim-shop/_/N-19Z1z141uz" title="Denim Shop">Denim Shop</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Looks We Love</li><li><a href="http://www.lookagain.co.uk/womens/mothers-day/_/N-19Z1z13z0y" title="Mothers Day">Mothers Day</a></li><li><a href="http://www.lookagain.co.uk/womens/ethnic/_/N-19Z1z13zfz" title="Ethnic">Ethnic</a></li><li><a href="http://www.lookagain.co.uk/womens/black-white/_/N-19Z1z13z1d" title="Black & White">Black & White</a></li><li><a href="http://www.lookagain.co.uk/womens/vintage-style/_/N-19Z1z13zdj" title="Vintage Style">Vintage Style</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13z1e" title="Ice Cream">Ice Cream</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13z1c" title="Rio Carnival">Rio Carnival</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13z0x" title="Mother of the Bride">Mother of the Bride</a></li><li><a href="http://www.lookagain.co.uk/womens/stacey-solomon/_/N-19Z1z13z1f" title="Stacey Solomon">Stacey Solomon</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/womens/vans/_/N-19Z1z13zqo" title="Vans">Vans</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z141v5" title="Boots">Boots</a></li><li><a href="http://www.lookagain.co.uk/womens/lipsy/_/N-19Z1z141mf" title="Lipsy">Lipsy</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Top Brands</li><li><a href="http://www.lookagain.co.uk/womens/kaleidoscope/_/N-19Z1z13z6t" title="Kaleidoscope">Kaleidoscope</a></li><li><a href="http://www.lookagain.co.uk/womens/joe-browns/_/N-19Z1z141ib" title="Joe Browns">Joe Browns</a></li><li><a href="http://www.lookagain.co.uk/womens/laura-scott/_/N-19Z1z141rg" title="Laura Scott">Laura Scott</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Shop By Shape</li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1n" title="Apple">Apple</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13zz5" title="Boyish">Boyish</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1o" title="Hourglass">Hourglass</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1p" title="Pear">Pear</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1r" title="Top Heavy">Top Heavy</a></li><li><a href="http://www.lookagain.co.uk/web/main/inspire_Shape_calculator.asp" title="What&rsquo;s My Shape?">What&rsquo;s My Shape?</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Occasion</li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13zz7" title="Going Out">Going Out</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z1402k" title="Weekend">Weekend</a></li><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1z13zz6" title="Weekday">Weekday</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Womens" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/womens/_/N-19Z1c" title="All Womens">All Womens</a></li></ul></div>
+			</div>
+		</li>
+
+		<!--MENS-->
+		<li>
+            <a 
+                href="http://www.lookagain.co.uk/mens/_/N-18" title="Mens">Mens</a>
+			<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/mens/accessories/_/N-18Z1z141wy" title="Accessories">Accessories</a></li><li><a href="http://www.lookagain.co.uk/mens/aftershaves-grooming/_/N-18Z1z13zjv" title="Aftershaves & Grooming">Aftershaves & Grooming</a></li><li><a href="http://www.lookagain.co.uk/mens/coats-jackets/_/N-18Z1z141vm" title="Coats & Jackets">Coats & Jackets</a></li><li><a href="http://www.lookagain.co.uk/mens/footwear/_/N-18Z1z141wm" title="Footwear">Footwear</a></li><li><a href="http://www.lookagain.co.uk/mens/jeans/_/N-18Z1z141vw" title="Jeans">Jeans</a></li><li><a href="http://www.lookagain.co.uk/mens/jewellery-watches/_/N-18Z1z141ue" title="Jewellery & Watches">Jewellery & Watches</a></li><li><a href="http://www.lookagain.co.uk/mens/knitwear/_/N-18Z1z141w3" title="Knitwear">Knitwear</a></li><li><a href="http://www.lookagain.co.uk/mens/suits-tailoring/_/N-18Z1z13zjl" title="Suits & Tailoring">Suits & Tailoring</a></li><li><a href="http://www.lookagain.co.uk/mens/swimwear/_/N-18Z1z141fx" title="Swimwear">Swimwear</a></li><li><a href="http://www.lookagain.co.uk/mens/tops/_/N-18Z1z141x7" title="Tops">Tops</a></li><li><a href="http://www.lookagain.co.uk/mens/trousers-shorts/_/N-18Z1z141wu" title="Trousers & Shorts">Trousers & Shorts</a></li><li><a href="http://www.lookagain.co.uk/mens/underwear-pyjamas/_/N-18Z1z13zjs" title="Underwear & Pyjamas">Underwear & Pyjamas</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/mens/modern-man/_/N-18Z1z13zib" title="Modern Man">Modern Man</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/mens/converse/_/N-18Z1z1417h" title="Converse">Converse</a></li><li><a href="http://www.lookagain.co.uk/mens/levis/_/N-18Z1z13zls" title="Levis">Levis</a></li><li><a href="http://www.lookagain.co.uk/mens/joe-browns/_/N-18Z1z141ib" title="Joe Browns">Joe Browns</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Mens" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/mens/_/N-18Z1c" title="All Mens">All Mens</a></li></ul></div>
+			</div>
+		</li>
+
+		<!--KIDS-->
+		<li>
+            <a 
+                href="http://www.lookagain.co.uk/kids/_/N-1a" title="Kids">Kids</a>
+			<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/kids/accessories-gifts/_/N-1aZ1z13zvz" title="Accessories & Gifts">Accessories & Gifts</a></li><li><a href="http://www.lookagain.co.uk/kids/babies/_/N-1aZ1z13zsy" title="Babies">Babies</a></li><li><a href="http://www.lookagain.co.uk/kids/boys/_/N-1aZ1z14092" title="Boys">Boys</a></li><li><a href="http://www.lookagain.co.uk/kids/girls/_/N-1aZ1z1409o" title="Girls">Girls</a></li><li><a href="http://www.lookagain.co.uk/kids/toys-games/_/N-1aZ1z141np" title="Toys & Games">Toys & Games</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/kids/kidsworld/_/N-1aZ1z13zzi" title="Kidsworld">Kidsworld</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/kids/_/N-1aZi" title="&pound;0 - &pound;15">&pound;0 - &pound;15</a></li><li><a href="http://www.lookagain.co.uk/kids/one-direction/_/N-1aZ1z13zh7" title="One Direction">One Direction</a></li><li><a href="http://www.lookagain.co.uk/kids/toys-games/_/N-1aZ1z141np" title="Toys & Games">Toys & Games</a></li><li><a href="http://www.lookagain.co.uk/kids/hello-kitty/_/N-1aZ1z1411g" title="Hello Kitty">Hello Kitty</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Kids" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/kids/_/N-1aZ1c" title="All Kids">All Kids</a></li></ul></div>
+			</div>
+		</li>
+		<!--HOME-->
+		<li>
+            <a
+            
+            href="http://www.lookagain.co.uk/home/_/N-1j" title="Home">Home</a>
+			<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/home/bathroom/_/N-1jZ1z141p2" title="Bathroom">Bathroom</a></li><li><a href="http://www.lookagain.co.uk/home/bedroom/_/N-1jZ1z141pa" title="Bedroom">Bedroom</a></li><li><a href="http://www.lookagain.co.uk/home/dining-kitchen/_/N-1jZ1z141pj" title="Dining & Kitchen">Dining & Kitchen</a></li><li><a href="http://www.lookagain.co.uk/home/garden/_/N-1jZ1z141l7" title="Garden">Garden</a></li><li><a href="http://www.lookagain.co.uk/home/living-room/_/N-1jZ1z141pi" title="Living Room">Living Room</a></li><li><a href="http://www.lookagain.co.uk/home/luggage/_/N-1jZ1z13zcy" title="Luggage">Luggage</a></li><li><a href="http://www.lookagain.co.uk/home/nursery/_/N-1jZ1z141hc" title="Nursery">Nursery</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/home/home-additions/_/N-1jZ1z13zzs" title="Home Additions">Home Additions</a></li><li><a href="http://www.lookagain.co.uk/home/sleep-shop/_/N-1jZ1z13zzu" title="Sleep Shop">Sleep Shop</a></li><li><a href="http://www.lookagain.co.uk/home/my-home-furniture-shop/_/N-1jZ1z13zzq" title="My Home Furniture Shop">My Home Furniture Shop</a></li><li><a href="http://www.lookagain.co.uk/home/special-offers/_/N-1jZ1z13z0p" title="Special Offers">Special Offers</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Trends</li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z13z33" title="Glamour">Glamour</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z13z34" title="Inspirations">Inspirations</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z13z35" title="Organics">Organics</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z13z36" title="Romance">Romance</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z13z28" title="Vibrance">Vibrance</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z140yl" title="Wallpaper">Wallpaper</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z141j9" title="Cushions">Cushions</a></li><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1z141lx" title="Bedlinen">Bedlinen</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Home" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/home/_/N-1jZ1c" title="All Home">All Home</a></li></ul></div>
+			</div>
+		</li>
+		<!--SPORTS-->
+		<li><a 
+                href="http://www.lookagain.co.uk/sports/_/N-1k" title="Sports">Sports</a>
+			<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/sports/womens-sportswear/_/N-1kZ1z1409r" title="Womens Sportswear">Womens Sportswear</a></li><li><a href="http://www.lookagain.co.uk/sports/mens-sportswear/_/N-1kZ1z1409u" title="Mens Sportswear">Mens Sportswear</a></li><li><a href="http://www.lookagain.co.uk/sports/fitness/_/N-1kZ1z13z8z" title="Fitness">Fitness</a></li><li><a href="http://www.lookagain.co.uk/sports/bikes/_/N-1kZ1z140xc" title="Bikes">Bikes</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/sports/sports-shop/_/N-1kZ1z13zzv" title="Sports Shop">Sports Shop</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/sports/_/N-1kZ1z140xb" title="Childrens Bikes">Childrens Bikes</a></li><li><a href="http://www.lookagain.co.uk/sports/_/N-1kZ1z140x9" title="Adults Bikes">Adults Bikes</a></li><li><a href="http://www.lookagain.co.uk/sports/_/N-1kZ1z141u5" title="Trainers">Trainers</a></li><li><a href="http://www.lookagain.co.uk/sports/nike/_/N-1kZ1z1418d" title="Nike">Nike</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Sports" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/sports/_/N-1kZ1c" title="All Sports">All Sports</a></li></ul></div>
+			</div>
+		</li>
+		<!--ELECTRICALS-->
+		<li><a 
+                href="http://www.lookagain.co.uk/electricals/_/N-1i" title="Electricals">Electricals</a>
+			<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/electricals/appliances/_/N-1iZ1z141oq" title="Appliances">Appliances</a></li><li><a href="http://www.lookagain.co.uk/electricals/audio/_/N-1iZ1z1409m" title="Audio">Audio</a></li><li><a href="http://www.lookagain.co.uk/electricals/cameras-camcorders/_/N-1iZ1z14152" title="Cameras & Camcorders">Cameras & Camcorders</a></li><li><a href="http://www.lookagain.co.uk/electricals/computers/_/N-1iZ1z141hy" title="Computers">Computers</a></li><li><a href="http://www.lookagain.co.uk/electricals/gaming/_/N-1iZ1z141l4" title="Gaming">Gaming</a></li><li><a href="http://www.lookagain.co.uk/electricals/personal-care/_/N-1iZ1z141md" title="Personal Care">Personal Care</a></li><li><a href="http://www.lookagain.co.uk/electricals/phones/_/N-1iZ1z1408o" title="Phones">Phones</a></li><li><a href="http://www.lookagain.co.uk/electricals/sat-navs/_/N-1iZ1z140tp" title="Sat Navs">Sat Navs</a></li><li><a href="http://www.lookagain.co.uk/electricals/tvs-dvd-players/_/N-1iZ1z1409l" title="TVs & DVD Players">TVs & DVD Players</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Shops</li><li><a href="http://www.lookagain.co.uk/electricals/kitchen-collection/_/N-1iZ1z13zzt" title="Kitchen Collection">Kitchen Collection</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Popular Search</li><li><a href="http://www.lookagain.co.uk/electricals/_/N-1iZ1z140za" title="Tablet PCs">Tablet PCs</a></li><li><a href="http://www.lookagain.co.uk/electricals/_/N-1iZ1z14165" title="Blenders">Blenders</a></li><li><a href="http://www.lookagain.co.uk/electricals/ghd/_/N-1iZ1z13zdv" title="ghd">ghd</a></li></ul><ul class="plainBoldList"><li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp?Department=Electricals" title="Brand Directory">Brand Directory</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/electricals/_/N-1iZ1c" title="All Electricals">All Electricals</a></li></ul></div>
+			</div>
+		</li>
+        
+        <!--GIFT GUIDE-->
+		<li><span class="giftguide"><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1c" title="Gifts">Gifts</a></span>
+			<!--<div class="topnavFlydown shadow flyDownCol2" id="">
+            <div class="flyDownColumn"><ul class="categoryList"><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgo" title="Gifts for Her">Gifts for Her</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgn" title="Gifts for Him">Gifts for Him</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgt" title="Gifts for Kids">Gifts for Kids</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zg7" title="Collectables">Collectables</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgu" title="DVDs">DVDs</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zga" title="Experience Gifts">Experience Gifts</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zg6" title="Food & Drink">Food & Drink</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgs" title="Gaming">Gaming</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zg8" title="Home & Decorations">Home & Decorations</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13zgm" title="Personalised Gifts">Personalised Gifts</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z13z8q" title="Home & Decoration">Home & Decoration</a></li></ul></div><div class="flyDownColumn"><ul class="promotionsList"><li class="flydownHeading">Bestsellers</li><li><a href="http://www.lookagain.co.uk/gifts/toys-games/_/N-33Z1z141np" title="Toys & Games">Toys & Games</a></li><li><a href="http://www.lookagain.co.uk/gifts/one-direction/_/N-33Z1z13zh7" title="One Direction">One Direction</a></li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1z140xb" title="Childrens Bikes">Childrens Bikes</a></li></ul><ul class="promotionsList"><li class="flydownHeading">Need It Quick?</li><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z12" title="All next day delivery items">All next day delivery items</a></li></ul><ul class="plainList"><li><a href="http://www.lookagain.co.uk/gifts/_/N-33Z1c" title="All Gifts">All Gifts</a></li></ul></div>
+			</div> -->
+
+		</li>
+
+		<li><a href="http://www.lookagain.co.uk/web/main/StyleHub.asp" title="Style Hub">Style Hub</a>
+			<div class="topnavFlydown shadow flyDownCol1" id="">
+				<div class="flyDownColumn">
+                    <ul class="categoryList">
+                        <li><a href="http://www.lookagain.co.uk/web/main/inspire_Shape_calculator.asp" title="Style Your Shape">Style Your Shape</a></li>
+                        <li><a href="http://www.lookagain.co.uk/web/main/RoomSet.asp" title="Create Your Room">Create Your Room</a></li>
+                        <li><a href="http://www.lookagain.co.uk/web/main/OutfitBuilder.asp" title="Create Your Look">Create Your Look</a></li>
+                        <li><a href="http://www.lookagain.co.uk/web/main/60secondfashion.asp" title="60 Second Fashion Fixes">60 Second Fashion Fixes</a></li>
+                        <li><a href="http://www.lookagain.co.uk/web/main/LookAgainTvAd.asp" title="Spring/Summer 2014 TV Ad">Spring/Summer 2014 TV Ad</a></li>
+                        <li><a href="http://www.lookagain.co.uk/web/main/stacey_solomon.asp" title="Stacey Solomon">Stacey Solomon</a></li>
+                    </ul>
+                </div>
+			</div>
+		</li>
+        <!--
+		<li><a href="http://www.lookagain.co.uk" title="">Sale</a>
+			<div class="topnavFlydown shadow flyDownCol1" id="">
+				<div class="flyDownColumn">
+                    <ul class="categoryList">
+                        <li><a href="http://www.lookagain.co.uk/#" title="#">Cover Ups &amp; Tops</a></li>
+                        <li><a href="http://www.lookagain.co.uk/#" title="#">Dresses &amp; Skirts</a></li>
+                        <li><a href="http://www.lookagain.co.uk/#" title="#">Footwear &amp; Bags</a></li>
+                        <li><a href="http://www.lookagain.co.uk/#" title="#">Trousers &amp; Shorts</a></li>
+                    </ul>
+                </div>
+			</div>
+		</li>
+        -->
+        <li><a href="http://www.lookagain.co.uk/blog/" title="Blog - Behind The Look">Behind The Look</a></li>
+
+        <li><span class="saleTab"><a href="http://www.lookagain.co.uk/sale/_/N-1z141vn" title="Sale">Sale</a></span></li>
+
+	</ul>
+
+</div>
+
+<div class="clear"></div>
+
+<div class="pageShadow topShadow topnav_sprite"></div>
+
+</div>
+<!-- END TOP BANNER & NAV -->
+
+<div id="divPageUpper">
+<!-- MAIN CONTENT -->
+<div id="divBody">
+
+
+
+<!-- Site wide banner for promotions such as Sale etc. Appears under any SEM content 
+
+<a href="http://www.lookagain.co.uk/womens/_/N-19"><div id="siteWideBanner">20% OFF EVERYTHING UNTIL MIDNIGHT SUNDAY! QUOTE B45P AT CHECKOUT</div></a>-->
+<script type='text/javascript'>
+</script>
+
+	<span class="hidden" id="serverName">http://www.lookagain.co.uk/web/</span>
+	<span class="hidden" id="masterItem">96T894</span>
+
+	
+<script type="text/javascript" ><!--
+
+
+function outputError(errorText)
+{
+    $("#add_error_msg").html(errorText);
+    $("#add_error_msg").show();
+}
+
+function addItemToBagOrHotlist() {
+
+    var o1 = $("#option1 option:selected");
+    var o2 = $("#option2 option:selected");
+    var extraOption = $("#extraOption option:selected");
+    var qty = $("#quantity option:selected");
+    var colour2Sel = colourSel = sizeSel = quantitySel = "";
+    var products = "", sKey = "", errorMsgSubmit = "", maxBagLines = 30;
+    var totalCount;
+    if (hotlistSelected != "true")
+    {   var trolleyitemscount = 0;
+        totalcount = parseInt(trolleyitemscount) + 1;
+        if (trolleyitemscount >= maxBagLines) {
+            errorMsgSubmit = "The maximum number("+maxBagLines+") of item lines have been added to the order";
+            outputError(errorMsgSubmit);
+            return;
+        }
+
+        if (totalcount > maxBagLines) {
+            errorMsgSubmit = "Too many item lines (max " + maxBagLines + ") are being added to the order, decrease quantity required.";
+            outputError(errorMsgSubmit);
+            return;
+        }
+    } else {
+        var VideoName = "", ProductListAttributes = "ProdListAttr", ProductListText = "ProdListText";
+        if (VideoName == ""){
+           VideoName = "N/A";
+        }
+        
+        var hotlistitemscount = 0;
+        totalcount = parseInt(hotlistitemscount) + 1;
+        
+            if (hotlistitemscount >= maxBagLines) {
+                errorMsgSubmit = "The maximum number(" + maxBagLines+ ") of item lines have been added to the Hot List";
+                outputError(errorMsgSubmit);
+                return;
+            }
+        
+    }
+
+    var GAitemAdd = GAoptions = "";
+    var colCount = "NONE", col2Count = "NONE", sizCount = "NONE";
+
+
+    // Check that a colour has been selected
+    if(o1.length > 0) {
+        if (colCount == "MULTI") {
+            if ( o1.val() == "" ) {
+                if( o1.text().indexOf("colour") > 0 ){
+                    errorMsgSubmit = "Please select a colour";
+                }else{
+                    errorMsgSubmit = "Please select an option";
+                }
+                 outputError(errorMsgSubmit);
+                 o1.focus();
+                 return;
+            }
+        }
+        colourSel = o1.val();
+        sKey += colourSel;
+        GAoptions = GAoptions + colourSel + "_";
+    } else {
+        if($("#option1").length > 0) {
+            colourSel = $("#option1").val();
+            sKey += colourSel;
+        } else {
+            colourSel = "N/A";
+        }
+    }
+
+    // Check that a colour2 has been selected
+    if(extraOption.length > 0) {
+        if (col2Count == "MULTI") {
+            if ( extraOption.val() == "" ) {
+                 errorMsgSubmit = "Please select an option";
+                 outputError(errorMsgSubmit);
+                 extraOption.focus();
+                 return;
+            }
+        }
+
+        colour2Sel = extraOption.val();
+        sKey += colour2Sel;
+        GAoptions = GAoptions + colour2Sel + "_";
+    } else {
+        if($("#extraOption").length > 0) {
+            colour2Sel = $("#extraOption").val();
+            sKey += colour2Sel;
+        } else {
+            colour2Sel = "N/A";
+        }
+    }
+
+    // Check that a size has been selected
+    if(o2.length > 0) {
+        if (sizCount == "MULTI") {
+            if ( o2.val() == "" ) {
+                if( o2.text().indexOf("size") > 0 ){
+                    errorMsgSubmit = "Please select a size";
+                }else{
+                    errorMsgSubmit = "Please select an option";
+                }
+                outputError(errorMsgSubmit);
+                o2.focus();
+                return;
+            }
+        }
+        sizeSel = o2.val();
+        sKey += sizeSel;
+        GAoptions = GAoptions + sizeSel + "_";
+
+    } else {
+        if($("#option2").length > 0) {
+            sizeSel = $("#option2").val();
+            sKey += sizeSel;
+        } else {
+            sizeSel = "N/A";
+        }
+    }
+    quantitySel = qty.val();
+    if (typeof quantitySel === 'undefined')  { quantitySel = "1"; }
+
+    products = products + "96T894_" + "|" + colourSel + "|" + sizeSel + "|" + quantitySel + "|" + colour2Sel + "|";
+
+    GAoptions = GAoptions + asSizenames[sKey];
+    GAitemAdd = GAitemAdd + "Cat. No.:" + asItemcodes[sKey] + asPubs[sKey] + "_Product:" + "Xbox 360 Chatpad and Headset (3&#43;) by Microsoft" + "_Options:" + GAoptions + "_Price (pound per item):" + asPrices[sKey] + "_Qty:" + qty.val();
+
+    var warrantySelected = "N";
+    if (asWarrantyItems[sKey] != ""){
+        
+        var radioAccept = $("#fsRadioAccept");
+        var radioDecline = $("#fsRadioDecline");
+        if(radioAccept.length > 0) {
+            if(radioAccept.attr("checked") != undefined) {
+                warrantySelected = "Y";
+            }
+            else if(radioDecline.attr("checked") != undefined) {
+                warrantySelected = "N";
+            }
+            else {
+                errorMsgSubmit = 'Please select whether you would like to add ' + asWarrantyDescs[sKey].replace(/PRC/,"Product Protect") + '.';
+                outputError(errorMsgSubmit);
+                $("#warrantyTabContainer a:visible").trigger("click");
+                showTab(asWarrantyDescCodes[sKey].toLowerCase());
+                return;
+            }
+        }
+        
+
+        if (totalcount == maxBagLines && warrantySelected == "Y"){
+            if (hotlistSelected != "true") {
+                errorMsgSubmit = 'Sorry, your extra cover could not be added as your basket is now full.';
+            } else {
+                errorMsgSubmit = 'Sorry, your extra cover could not be added as your saved items list is now full.';
+            }
+                outputError(errorMsgSubmit);
+                return;
+        }
+    }
+    GAitemAdd = GAitemAdd + "_Warranty:" + warrantySelected;
+    products = products + warrantySelected  + "|";
+    if (hotlistSelected == "true") {
+        products = products + "hotlist" + "|" + VideoName + "|" + ProductListAttributes + "|" + ProductListText + "|";
+    }
+    products = products + "|";
+    var GaEventVal = 0;
+    GaEventVal = Math.round(parseFloat(asPrices[sKey]));
+
+    if (location.pathname.indexOf("bag") != -1) {
+        GAitemAdd = GAitemAdd + "_sourcepage=bag";
+        _gaq.push(['_trackEvent', 'Product Add', 'Add Last Minute Must Have to bag', GAitemAdd, GaEventVal]);
+    }
+    else {
+        if (hotlistSelected != "true") {
+            _gaq.push(['_trackEvent', 'Product Add', 'Add item to bag', GAitemAdd, GaEventVal]);
+        } else {
+             _gaq.push(['_trackEvent', 'Product Add', 'Add item to saved items', GAitemAdd, GaEventVal]);
+        }
+    }
+
+     if (hotlistSelected != "true") {
+        $("#productdisplayaddbox .addToBag").append("<span class='preloader'><img src='/web/pix/navigation/smallPreloader.gif' /></span>");
+     }
+     else
+     {
+        $("#productdisplayaddbox .addToSavedItems").append("<span class='preloader'><img src='/web/pix/navigation/smallPreloader.gif' /></span>");
+     }
+     
+	var brandid = "";
+    
+    if (typeof itemDisplayCount === 'undefined') 
+    {
+        itemDisplayCount = 3;
+    }
+    
+       var ajaxData;
+    
+        ajaxData = { "products" : products, "brandid" : brandid, "itemDisplayCount" : itemDisplayCount }
+    
+    
+    
+    
+    var requestAddItemJSON = $.ajax({
+        type: "GET",
+        url: "/web/main/BagContentChanges.asp",
+        cache: false,
+        data: ajaxData
+    });
+    // Actions performed when the AJAX call has completed.
+    requestAddItemJSON.done(function(response)
+    {
+        $("#productdisplayaddbox .preloader").remove();
+
+        if (hotlistSelected != "true") {
+            var bagDropDown =  $("#bagDropDown"), bagText = $("#bagContainer #bagText"), bagOverflow = $("#bagContainer #overflow");
+
+            // Update the bag content.
+            $(".xfoMyAccountBagContainer .bagPriceAndQty").empty().append(response.BagData.TrolleyTotal + " (" + response.BagData.TrolleyCount + ")");
+
+            bagDropDown.empty().append(response.BagData.BagHTML);
+            $("div.bddRemove").each(function(){
+                    var itemInfo = 'Product:' + $(this).siblings(".bddDesc").text() + '_' + $(this).siblings(".bddColour").text() + '_'  + $(this).siblings(".bddSize").text() + '_' + $(this).siblings(".bddQty").text() + '_Price:' + $(this).siblings(".bddPrice").text();
+                    $(this).mousedown(function(){_gaq.push(['_trackEvent', 'Item Removal', 'Remove item from basket fly-down', itemInfo]);
+                                     });
+            });
+            // Scroll to top of the page.
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            bagText.addClass('btMouseoverClass');
+            bagOverflow.addClass('boMouseoverClass');
+			// Render bag drop down.
+            bagDropDown.slideDown(500).delay(3500).slideUp(500,function(){$(this).removeAttr("style"); bagOverflow.removeClass('boMouseoverClass');
+            bagText.removeClass('btMouseoverClass');});
+			try{ __runSC(true);}catch(e){}
+        } else {
+            hotlistSelected = "";
+            $("a.addToSavedItemsLink").css("visibility","hidden");
+            var hotlistLink = $("li a[title='Saved Items']");
+            $("#searchContainer #searchButtonInput").css("right","1px");
+            hotlistLink.text("Saved Items (" + response.HotlistData.HotlistTotal + ")").wrap('<div id="hotlistContainer" />');
+            $("div#hotlistContainer").append(response.HotlistData.HotlistHTML);
+            // Scroll to top of the page.
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            $("#hotlistDropDown").slideDown(500).delay(3500).slideUp(500,function(){ hotlistLink.unwrap('<div id="hotlistContainer" />'); $("div#hotlistDropDown").remove(); $("#searchContainer #searchButtonInput").css("right","0px"); $("a.addToSavedItemsLink").css("visibility","visible");});
+        }
+    });
+
+    // Actions performed when the ajax call has failed.
+    requestAddItemJSON.error(function(jqXHR, textStatus, errorThrown)
+    {});
+}
+//-->
+</script>
+
+<div id="crumbtrail" xmlns:v="http://rdf.data-vocabulary.org/#">
+	<span typeof="v:Breadcrumb">
+		<a class="breadcrumb" rel="v:url" property="v:title" href="http://www.lookagain.co.uk">Home</a>
+	</span>
+    <span class="breadCrumbArrow productdisplay_sprite">&nbsp;</span>
+
+
+	<span class="trail" typeof="v:Breadcrumb"><span property="v:title">Xbox 360 Chatpad and Headset (3&#43;) by Microsoft</span></span>
+</div>
+<div class="productContainer" itemscope itemtype="http://schema.org/Product">
+
+<div id="main_img_container">
+
+	<div class="productdisplayMainImage">
+		<a id="mainProductImageLink" href="http://images.lookagain.co.uk/is/image/OttoUK/cloudzoom/Xbox-360-Chatpad-and-Headset-(3&#43;)-by-Microsoft~96T894FRSP.jpg" class="cloud-zoom" rel="showTitle: false, zoomWidth: '450', zoomHeight: '450', adjustX: 8, adjustY: -5">
+			<img itemprop="image" name="product_image" id="product_image" src="http://images.lookagain.co.uk/is/image/OttoUK/355w/Xbox-360-Chatpad-and-Headset-(3&#43;)-by-Microsoft~96T894FRSP.jpg" alt="Xbox 360 Chatpad and Headset (3&#43;) by Microsoft" title="Xbox 360 Chatpad and Headset (3&#43;) by Microsoft" border="0" align="top" />
+		</a>
+		<div id="image_controls">
+			<p class="right">Rollover image to zoom in</p>
+			<p class="left">
+				<a class="viewLargerImageLink" id="view_larger_image" href="http://www.lookagain.co.uk/COMMON/DHTML_zoom.asp?img=96T894FRSP">View large image</a>
+				<a id="fullScreenText" class="fullScreen">View Full Screen</a>
+			</p>
+			<div id="fullScreenViewerContainer" class="fullScreen">
+				<div id="fullScreenViewer">&nbsp;</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+ 
+</div>
+<input type="hidden" id="LinkImage" name="LinkImage" value="96T894FRSP">
+<input type="hidden" id="vScene7ZoomUrlStart" name="vScene7ZoomUrlStart" value="http://s7ondemand4.scene7.com/s7ondemand/zoom/flasht_zoom.jsp?company=OttoUK&sku=renderzoom&config=zoom&zoomwidth=717&zoomheight=717&windowtitle=lookagainzoom%20Window&nfr=getflash&vc=image%3dOttoUK/">
+<input type="hidden" id="vScene7ZoomUrlEnd" name="vScene7ZoomUrlEnd" value="">
+<input type="hidden" id="noFlashURL" name="noFlashURL" value="http://www.lookagain.co.uk/COMMON/DHTML_zoom.asp?img=">
+
+
+		<div id="productdisplay_col2"  style="width:575px"  >
+			<div id="productdisplay_box3"><!-- Tab Container -->
+				<div class="productdisplay_boxcontent">
+
+				<div id="productdisplaytabs">
+					<a href="#" onClick="showTab('details');return false;" id="detailsTab" class="info_tabs productdisplay_sprite">Details</a>
+					<a href="#" onClick="showTab('delivery');return false;" id="deliveryTab" class="info_tabs inactive productdisplay_sprite">Delivery &amp; Returns</a>
+					
+                    
+                    <div id="warrantyTabContainer" style="display:none">
+                    
+                        <a href="#" onClick="showTab('fp');return false;" id="fptab" class="info_tabs inactive productdisplay_sprite" style="display:none">Furniture Protection</a>
+                    
+                        <a href="#" onClick="showTab('pr');return false;" id="prtab" class="info_tabs inactive productdisplay_sprite" style="display:none">Product Protect</a>                        
+                    
+                        <a href="#" onClick="showTab('ew');return false;" id="ewtab" class="info_tabs inactive productdisplay_sprite" style="display:none">Extended Warranty</a>
+                    
+                                        
+                    </div>
+
+				</div><!-- END DIV id productdisplaytabs -->
+
+			
+
+			<div id="productdisplaymainbox">
+
+				<div id="productdisplaydetailsbox" class="BoxedContent" style="display:block">
+
+
+	 
+		   <div id="productSummary">
+	 
+
+					<h1 itemprop="name">Xbox 360 Chatpad and Headset (3&#43;) by Microsoft</h1>
+
+
+	   <div class="priceDetailContainer">
+
+			<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" id="price_container_heading" class="currentPriceHeading" style="FLOAT:left;">
+			<span itemprop="price" class="productdisplay_price" id="price_container">&pound;30.00</span>
+			</div>
+
+				
+
+				<div class="clear"></div>
+
+				
+					</div><!-- END DIV id priceDetailContainer-->
+
+
+				
+				<div id="stockLineCatno">
+				
+					<span class="emph">Product Code:</span> 96T894WLJ
+				</div>
+
+				
+                            <div class="reviews_snippet">
+                            <img class="noStarsImg" src="/web/pix/productdisplay/stars0.gif">
+                            <a href="http://www.lookagain.co.uk/web/main/writeareview.asp?page_id=96T894">Be the first to write a review &gt </a>
+                              </div>
+                            
+
+
+				</div><!-- END DIV id productSummary-->
+
+
+                        <div class="productDetailsContainer" itemprop="description">
+							<p><br><br><h2> Microsoft Xbox Features:</h2> <UL><LI> Chatpad &amp; Headset <LI> Age: 3&#43;</UL></p>
+                        </div>
+
+						
+
+				</div><!-- END DIV id productdisplaydetailsbox -->
+				
+
+				<div id="productdisplaydeliverybox" class="BoxedContent" style="display:none">
+					
+					
+					<div id="delivery_charge_container" class="info-title">
+						<div id="help4">
+							
+								<p class="emph">Standard Delivery&nbsp;&pound;3.99</p>
+							
+						</div>
+					</div>
+					<p>Items are usually dispatched within 48hrs, stock permitting.  Standard delivery takes between 2-5 working days, an expected delivery date for your item will be displayed once you've selected your size/colour option.  <a class="moreInfo" title="more info" onClick="return openMetafaq(this)" href="/web/main/help.asp?cid=223&popup=true" target="_blank">Click here</a> for more information.</p>
+					
+					
+						<div style="padding-top:5px;">Delivery will be by Royal Mail.  They will not contact you prior to delivery.</div>
+					 
+					<p><span class="emph">Returns Policy - </span>If for any reason you are unhappy with your purchase you may return items complete, unused and in their original packing within 14 days of receiving them.  Returns after 14 days will only be accepted on faulty goods.  <a href="/web/main/help.asp?qid=2378&popup=true" onclick="return openMetafaq(this)" target="_blank" title="opens link in a new window">click here</a> for more information</p>
+					
+
+				</div>
+
+				
+
+						<div id="productdisplaywarrantybox" class="BoxedContent" style="display:none">
+							
+						</div>
+						<div class="clear"></div>
+
+			</div><!-- end ID productdisplaymainbox -->
+		</div><!-- end DIV class productdisplay_boxcontent -->
+	</div><!-- END DIV class productdisplay_box3 -->
+    <div class="clear"></div>
+	
+	<div class="productOptions">
+		
+		<div id="productdisplaychoosebox">
+        
+        
+        
+			<div id="productdisplayoptions">
+			<div id="hiddenurl" style="Display:none;" >http://www.lookagain.co.uk/web/</div>
+			<div id="hiddendelaydays" style="Display:none;" >15</div>
+				<div id="productSelectionDropDowns">
+
+								
+							<div id="qtyContainer" style="display:block;">
+								<label for="quantity" class="productdisplay_sprite" id="prodOption1">&nbsp;</label>
+								
+									<select name="quantity" id="quantity" onchange="option_change(this)">
+								
+									<option  value="1">quantity: 1</option>
+									
+									<option  value="2">quantity: 2</option>
+									
+									<option  value="3">quantity: 3</option>
+									
+									<option  value="4">quantity: 4</option>
+									
+									<option  value="5">quantity: 5</option>
+									
+									<option  value="6">quantity: 6</option>
+									
+								</select>
+							</div><!-- END id qtyContainer -->
+							
+                            <div id="warrantyWrapper" style="display:none">
+                                                        
+                            
+                                <label id="prodOption2" class="productdisplay_sprite">&nbsp;</label>
+                            	<div id="fs_desc_price">
+                                
+								</div>
+                                
+								<div id="fs_select">
+                                
+								</div>
+							</div>
+                            
+							<div class="clear"></div>
+									</div> <!-- productSelectionDropDowns closes -->
+							</div><!-- End productdisplayoptions -->
+				</div><!-- End productdisplaychoosebox-->
+				<div id="stockInfoPanel">
+						
+						<div id="stockAndPrice" style="display:block;">
+						
+						<div id="stockLinePriceBox">
+								<div id="stockLinePrice"><span class="emph">&pound;30.00</span></div>
+							</div>
+							<div id="stockLineStock">
+								<span id="stockstatus" class="productdetail_box4a_content">
+								<span class="highlighttext">
+									<a href="#" id="anchorStockStatus" onClick="window.open('http://www.lookagain.co.uk/web/main/status_popup.htm','status','scrollbars=no,width=555,height=500');return false;"></a>&nbsp;</span>
+									<span id="deliveryServicePreCheck" class="tooltip"></span>
+									
+
+<span id="deliveryNextDayAvailableMessage" class="hidden"></span>
+<div class="clear"></div>
+<form id="deliveryNextDayAvailableForm" name="deliveryNextDayAvailableForm" action="#" method="post" style="display:none;">
+    <input id="deliveryNextDayAvailableFormAction" type="hidden" name="action" value="http://www.lookagain.co.uk" />
+    <input id="deliveryNextDayAvailableFormOrderBy" type="hidden" name="action" value="" />
+    <input id="deliveryNextDayAvailableFormTradingCompany" type="hidden" name="action" value="LAA" />
+    <span class="SubmitDeliveryNextDayAvailableContainer">
+        <input id="deliveryNextDayAvailableFormPostcode" name="deliveryNextDayAvailableFormPostcode" type="text" 
+               value="Postcode" 
+               maxlength="10" onfocus="if (this.value == 'Postcode') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Postcode';}"/>
+
+    </span>
+    <input id="SubmitDeliveryNextDayAvailableForm" type="button" value="Check Next Day cut off time &raquo;" />
+    <div class="postcodeErrorMessage">Please enter a valid Postcode</div>
+</form>
+
+
+									<div class="clear"></div>
+									<span id="deliveryPromise"></span>
+								</span>
+							</div>
+							<div style="clear: both;"></div>
+						</div>
+						<div style="clear:both"></div>
+				</div><!-- END stockInfoPanel -->
+					
+					<script>
+						if (doStockCheck == "SKIP") {
+							doStockCheck = "N";
+						}
+					</script>
+					
+					<div id="productdisplayaddbox">
+						<!-- Add to bag and Checkout buttons -->
+						<div class="addToBag"><a class="addToBagLink productdisplay_sprite" href="javascript:addItemToBagOrHotlist();" title="Add to Bag">&nbsp;</a></div>
+						
+                            <div class="addToSavedItems">
+                                <a class="addToSavedItemsLink productdisplay_sprite" href="javascript:addItemToBagOrHotlist();" title="Add to Saved Items" onclick="javascript:hotlistSelected = 'true';">&nbsp;</a>
+                            </div>
+						
+					</div><!-- productdisplayaddbox closes -->
+					<div class="left" id="add_error_msg"></div>
+                </div><!-- End productOptions -->
+				<div id="emailinstockOptions" style="display:none">
+				<h4>Email me when back in stock</h4>
+					<div class="emailinstockcontainer">
+					 
+						<div id="titlediv" class="emailinstockdetails" style="display:block;">
+							<label for="title" class="emailinstocklabel">Title:</label>
+							<select name="title" id="titleselect" size="1">
+								<option selected value="">Title</option>
+								<option value="Mr">Mr</option>
+								<option value="Mrs">Mrs</option>
+								<option value="Miss">Miss</option>
+								<option value="Ms">Ms</option>
+							</select>
+						</div>
+						<div id="namediv" class="emailinstockdetails" style="display:block;">
+							<label for="firstname" class="emailinstocklabel"> First Name</label>
+							<input class="emailinstockinput" name="firstname" id="firstname" type="text">
+						</div>
+						<div class="emailinstockdetails" style="display:block;">
+							<label for="lastname" class="emailinstocklabel"> Last Name</label>
+							<input class="emailinstockinput" name="lastname" id="lastname" type="text">
+						</div>
+						
+						<div class="emailinstockdetails">
+							<label for="emailaddress" class="emailinstocklabel"> Email Address</label>
+							<input class="emailinstockinput" name="emailaddress" id="emailaddress" type="email" >
+						</div>
+						
+						<div id="emailinstocksignup" class="emailinstocksignup">
+							<input id="emailsignup" type="checkbox" name="emailsignup" checked="" value="Yes">
+							<label class="emailinstocksignuplabel" for="emailsignup"> I'm happy for you to use my details for marketing emails.</label>
+						</div>
+						
+					</div>
+					<div class="emailinstockcontinue" style="margin-top:87px;">
+					<input id="emailaddresssubmit" class="requestemailbtn productdisplay_sprite" type="submit" align="top" title="submitemailinstock" alt="submit"
+						onclick = "emailBackInStockCall('http://www.lookagain.co.uk/web/main/SignupEmailIFrame.asp','http://www.lookagain.co.uk/web/main/emailBackInStock.asp', 'NONE', 'NONE', 'NONE', 'Xbox 360 Chatpad and Headset (3&#43;) by Microsoft', 'LAA', 'AC', '');">
+					</div>
+					<!--hidden iFrame for email signup id optin checked on email back in stock-->
+					<iframe id="signupiframe" name="signupiframe">
+					</iframe>
+				</div>
+				<div id="emailinstockerror">
+				</div>
+			<div id="emailBackInStockGreybox" style="display:none">
+                <div class="greyBoxContainer">
+                    <h4>Thankyou for your interest</h4>
+                    <p>
+                        <span>We will email you when this item comes back in stock.</span>
+                    </p>
+                </div>
+			</div>
+            
+				<div id="socialOptions">
+                        <div id="emailAFriendButton" class="socialButton">
+                            <a title="Send to a Friend" class="emailAFriendLink productdisplay_sprite" href="https://www.lookagain.co.uk/web/main/emailafriend.asp?prodref=96T894_&proddesc=Xbox 360 Chatpad and Headset (3&amp;#43;) by Microsoft&prodprice=30.00&prodimg=http://images.lookagain.co.uk/is/image/OttoUK/262W/Xbox-360-Chatpad-and-Headset-(3&#43;)-by-Microsoft~96T894FRSP.jpg">
+                                &nbsp;
+                            </a>
+                        </div>
+						<div id="facebook-like" class="socialButton">
+							<a title="Facebook" target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=www.lookagain.co.uk/products/xbox-360-chatpad-and-headset-(3&#43;)-by-microsoft/_/A-96T894_&display=popup">&nbsp;</a>
+						</div>
+						<div id="tweet_button" class="socialButton">
+							<a title="Twitter" onmousedown="this.target='_blank';" href="http://twitter.com/home?status=Find @LookagainUK: www.lookagain.co.uk/products/xbox-360-chatpad-and-headset-(3&#43;)-by-microsoft/_/A-96T894_">&nbsp;</a>
+						</div>
+						<div id="googleplus_button" class="socialButton">
+							<a title="Google Plus" onmousedown="this.target='_blank';" href="https://plus.google.com/share?url=www.lookagain.co.uk/products/xbox-360-chatpad-and-headset-(3&#43;)-by-microsoft/_/A-96T894_">&nbsp;</a>
+						</div>
+						<div id="Pinterest_button" class="socialButton" >
+							<a title="Pin It" target="_blank" href="http://pinterest.com/pin/create/button/?url=www%2Elookagain%2Eco%2Euk%2Fproducts%2Fxbox%2D360%2Dchatpad%2Dand%2Dheadset%2D%283%26%2343%3B%29%2Dby%2Dmicrosoft%2F%5F%2FA%2D96T894%5F&media=http%3A%2F%2Fimages%2Elookagain%2Eco%2Euk%2Fis%2Fimage%2FOttoUK%2Fcloudzoom%2FXbox%2D360%2DChatpad%2Dand%2DHeadset%2D%283%26%2343%3B%29%2Dby%2DMicrosoft%7E96T894FRSP%2Ejpg&description=Xbox+360+Chatpad+and+Headset+%283%26%2343%3B%29+by+Microsoft"></a>
+						</div>
+					</div>
+                        
+                    
+				</div><!-- productdisplay_col2 -->
+			
+			<div class="clear"></div>
+
+			<div style="clear:both; margin-bottom:10px;"></div>
+			
+</div>
+			<div style="clear:both; margin-bottom:10px;"></div>
+			
+	<div class="clear;"></div>
+	</div>
+<!-- Close div body-->
+
+</div>
+<!-- Close div page-->
+
+<!-- START FOOTER -->
+
+<!-- FOOTER -->
+
+<div class="clear"></div>
+
+	<div id="footerWrapper">
+    <div class="pageShadow footerShadow topnav_sprite"></div>
+
+
+
+	<div class="signupfooterContainer">
+		<div class="signupfooter">
+			<a id="emailSignUpText" href="https://www.lookagain.co.uk/web/main/signup.asp" alt="Email Sign-up" title="Email Sign-up">Email sign up (15% off your 1st order)</a>
+
+			<div id="signupfooterform" class="signup_form" align="right" >
+				<form name="signup" id="signupForm" action="https://www.lookagain.co.uk/web/main/signup.asp?Thanks=true" method="post" onSubmit="return validateSignUpForm(this)">
+					<div id="signup_form_title">
+						<select name="title1" size="1">
+							<option selected value="">Title</option>
+							<option>Mr</option>
+							<option>Mrs</option>
+							<option>Miss</option>
+							<option>Ms</option>
+						</select>
+					</div>
+
+					<div id="signup_form_first">
+						<input name="first_name"
+							   type="text"
+							   value="Enter first name"
+							   onblur="if (this.value == '') {this.value = 'Enter first name';}"
+							   onfocus="if (this.value == 'Enter first name') {this.value = '';}"
+							   size="20"
+							   maxlength="20" />
+					</div>
+
+					<div id="signup_form_last">
+						<input name="last_name"
+							   type="text"
+							   value="Enter surname"
+							   onblur="if (this.value == '') {this.value = 'Enter surname';}"
+							   onfocus="if (this.value == 'Enter surname') {this.value = '';}"
+							   size="20"
+							   maxlength="30" />
+					</div>
+
+					<div id="signup_form_email">
+						<input type="text"
+							   name="e_mail"
+							   value="Enter email address"
+							   onblur="if (this.value == '') {this.value = 'Enter email address';}"
+							   onfocus="if (this.value == 'Enter email address') {this.value = '';}"
+							   size="20"
+							   maxlength="50" />
+					</div>
+
+					<div id="signup_form_submit">
+						<a id="footerSignupSubmit" class="footerSprite submitSignup" type="image" value="Submit">&nbsp;</a>
+					</div>
+				 </form>
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="footerContainer">
+		<div id="divPageLower">
+			<div class="divider"></div>
+			<div class="footerColumn">
+				<h3>Help &amp; Information</h3>
+				<ul>
+					<li><a href="http://www.lookagain.co.uk/web/main/help.asp?cid=223" title="Delivery">Delivery</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/help.asp?cid=224" title="Returns" >Returns</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/help.asp?cid=226" title="Security">Security</a></li>
+					
+						<li><a href="http://www.lookagain.co.uk/web/main/affiliateprogram.asp" title="Become An Affiliate">Become An Affiliate</a></li>
+					
+					<li><a href="http://www.lookagain.co.uk/web/main/sizeguide_pop.asp?showlayer=wsizechart" title="Sizing Guide" target="_blank" class="openInNewWindow" rel="scrollbars=yes,width=790,height=520">Size Guide</a></li>
+                    <li><a href="http://www.lookagain.co.uk/web/main/cookies.asp" title="Privacy &amp; Cookies Policy">Privacy &amp; Cookies Policy</a></li>
+				</ul>
+			</div>
+
+			<div class="footerColumn" id="footerColumnUsefulLinks">
+				<h3>Useful Links</h3>
+				<ul>
+					<li><a href="https://www.lookagain.co.uk/web/main/contactus.asp" title="Contact Us">Contact Us</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/AboutUs.asp" title="About Us">About Us</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/BrandDirectory.asp" title="Brand Directory">Brand Directory</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/SiteMap.asp" title="Site Map">Site Map</a></li>                    
+					<li><a href="http://www.lookagain.co.uk/web/main/help.asp?qid=2332" title="Personal Account">Personal Account</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/ShopDirectory.asp" title="Shop Directory">Shop Directory</a></li>
+				</ul>
+			</div>
+
+			<div class="footerColumn" id="footerColumnSocial">
+				<h3>Find Us</h3>
+				<ul class="left">
+					<li><a href="http://www.facebook.com/Lookagain.co.uk" title="Find us on Facebook" target="_blank" id="footerFacebookLink">Facebook</a></li>
+					<li><a href="http://twitter.com/LookagainUK" title="Follow us on Twitter" target="_blank" id="footerTwitterLink">Twitter</a></li>
+                    <li><a href="http://www.youtube.com/user/LookagainUK?feature=watch" title="Watch our videos on YouTube" target="_blank" id="footerTwitterLink">YouTube</a></li>
+				</ul>
+				<ul class="right">
+                	<li><a href="https://plus.google.com/106857514083689395346/posts" title="Find us on Google Plus" target="_blank" id="footerTwitterLink">Google Plus</a></li>
+					<li><a href="http://www.lookagain.co.uk/blog/" title="Behind the Look" target="_blank" id="footerblogLink">Blog</a></li>
+					<li><a href="http://www.lookagain.co.uk/web/main/home.asp" title="Mobile" id="footerMobileLink" onClick="setMobileCookie('SITEPREF','MOBILE','5')">Mobile</a></li>
+				</ul>
+				<div class="clear"></div>
+
+				<ul class="social-links-footer">
+					<li class="facebook"><a class="footerSprite" title="Facebook" href="http://www.facebook.com/Lookagain.co.uk" target="_blank"></a></li>
+					<li class="twitter"><a class="footerSprite" title="Twitter" href="http://twitter.com/LookagainUK" target="_blank"></a></li>
+                    <li class="youtube"><a class="footerSprite" title="YouTube" href="http://www.youtube.com/user/LookagainUK?feature=watch" target="_blank"></a></li>
+                    <li class="googleplus"><a class="footerSprite" title="Google Plus" href="https://plus.google.com/106857514083689395346/posts" target="_blank"></a></li>
+					<li class="blog"><a class="footerSprite" title="Behind the Look" href="http://www.lookagain.co.uk/blog/" target="_blank"></a></li>
+					<li class="mobile"><a class="footerSprite" title="Mobile" href="http://www.lookagain.co.uk/web/main/home.asp" onClick="setMobileCookie('SITEPREF','MOBILE','5')"></a></li>
+                    
+				</ul>
+			</div>
+
+            
+               <div class="footerColumn" id="pre2013">
+                    <h3>Pre-2013 Customers</h3>
+                    
+                        <a class="footerSprite" href="http://www.lookagain.co.uk/web/main/help.asp?qid=2436" title="Pre-2013 Customers">&nbsp;</a>
+                    
+               </div>
+			
+			<div class="footerColumn footerColumnEnd">
+				<h3>Our Other Sites</h3>
+				<ul id="otherShops">	
+					<li id="kal"><a class="footerSprite" href="http://www.kaleidoscope.co.uk" title="Visit kaleidoscope.co.uk" target="_blank">kaleidoscope.co.uk</a></li>
+					<li id="curvissa"><a class="footerSprite" href="http://www.curvissa.co.uk" title="Visit curvissa.co.uk" target="_blank">curvissa.co.uk</a></li>
+					<li id="witt"><a class="footerSprite" href="http://www.witt-international.co.uk" title="Visit witt-international.co.uk" target="_blank">witt-international.co.uk</a></li>
+					<li id="s365"><a class="footerSprite" href="http://www.swimwear365.co.uk" title="Visit swimwear365.co.uk" target="_blank">swimwear365.co.uk</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+            <div class="divider"></div>
+		</div><!-- END divPageLower -->
+
+
+		<div class="siteIndent">
+				<div class="right" id="copyright">
+					Contact us: 0871 244 4456 (Calls cost 10p per minute from BT landlines) | &copy; Copyright Look Again&nbsp;2014
+				</div>
+
+				<div class="left">
+					<a class="footerSprite creditCardIcons" href="http://www.lookagain.co.uk/web/main/help.asp?cid=191" title="Credit Cards">&nbsp;</a>
+
+					
+					<a title="PayPal" class="footerSprite paypalIcon" href="#"
+                       onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=405, height=350');">
+                       &nbsp;
+                   </a>
+					
+				</div>
+		</div>
+    </div><!-- END footerContainer -->
+
+	</div><!-- END footerWrapper -->
+    
+    <!-- Floating footer bar -->
+    
+   	<div id="site_wide_bar_container">
+    	<div id="site_wide_bar">
+			<div id="site_wide_bar_text">
+            	<a href="/web/main/LookAgainTvAd.asp" title="Look Again TV Ad"><strong>Click here to watch our new Spring/Summer TV Ad &amp; get 20% OFF with FREE delivery*</strong></a>
+            </div>          
+        </div>
+    </div>
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+  
+	function bindXFOevents() {
+		$("ul#brandnav li.curvissaTab").mousedown(function(){
+											_gaq.push(['_trackEvent', 'XFO', 'Curvissa Logo', 'Go to Curvissa from ' + window.location.href ]);
+										});
+		$("ul#brandnav li.swimwearTab").mousedown(function(){
+											_gaq.push(['_trackEvent', 'XFO', 'Swimwear365 Logo', 'Go to Swimwear365 from ' + window.location.href ]);
+										});
+		$("ul#brandnav li.kaleidoscopeTab").mousedown(function(){
+											_gaq.push(['_trackEvent', 'XFO', 'Kaleidoscope Logo', 'Go to Kaleidoscope from ' + window.location.href ]);
+										});
+		$("ul#brandnav li.wittTab").mousedown(function(){
+											_gaq.push(['_trackEvent', 'XFO', 'Witt-International Logo', 'Go to Witt-International from ' + window.location.href ]);
+										});								
+	}
+	
+	function bindTopNavEvents() {
+		$("div#siteWideBanner").mousedown(function(){
+			_gaq.push(['_trackEvent', 'Site Wide Banner', 'Click for:' + $(this).text()]);
+		});
+		$("div#divHeader>ul#topNav>li>a, div#divHeader>ul#topNav>li>span>a").mousedown(function(){
+			_gaq.push(['_trackEvent', 'Top Nav', 'Tab Click', $(this).attr("title")]);
+		});
+		$("div#divHeader>ul#topNav>li>a").each(function(){
+			var thisTab = $(this);
+			var tabName = thisTab.attr("title");
+			thisTab.parent().find("div.topnavFlydown>div>ul.categoryList>li>a").mousedown(function(){
+				_gaq.push(['_trackEvent', 'Top Nav', tabName + ' Dropdown', 'Category: ' + $(this).attr('title')]);
+			});
+			thisTab.parent().find("ul.promotionsList>li>a").mousedown(function(){
+				var thisAnchor = $(this);
+				_gaq.push(['_trackEvent', 'Top Nav', tabName + ' Dropdown', thisAnchor.parent().siblings(".flydownHeading").text() + ": " + thisAnchor.attr('title')]);
+			});
+			thisTab.parent().find("ul.plainBoldList>li>a, ul.plainList>li>a").mousedown(function(){
+				var thisAnchor = $(this);
+				_gaq.push(['_trackEvent', 'Top Nav', tabName + ' Dropdown', thisAnchor.text() + ": " + thisAnchor.attr('href')]);
+			});
+		});
+		
+	}
+	
+	//function that loads the 1.8.2 jquery library if no jquery on page and then calls the dynamicBinding function
+    window.onload = function(){
+	    if(!window.jQuery)
+        {   var jqscript = document.createElement("script"); 
+			jqscript.type = "text/javascript"; jqscript.src = "/common/jssource/jquery-1.8.2.min.js";
+			jqscript.async = true;
+			jqscript.onload = function(){dynamicBinding();};
+            jqscript.onreadystatechange = function() {  if (this.readyState == 'complete') { dynamicBinding(); }  }
+            var jqs = document.getElementsByTagName('script')[0]; 
+            jqs.parentNode.insertBefore(jqscript, jqs);  
+		} 
+		else 
+		{
+		    dynamicBinding();
+		}	   
+	};			
+//Functions					
+				
+	
+    //function that binds mousedown events for recently viewed items
+	function recentlyViewedItemsBind(page) {
+	    $("ul#RecentlyViewed a.imgLink").each(function(){ 
+														$(this).mousedown(function(){_gaq.push(['_trackEvent', 'Recommendations', 'Recently Viewed Items - '+page + ' page', 'Item Image - Link Click:' + $(this).attr('href') ]);
+																				});
+													}); 
+		$("ul#RecentlyViewed p.itemDescription a").each(function(){ 
+														$(this).mousedown(function(){_gaq.push(['_trackEvent', 'Recommendations', 'Recently Viewed Items - '+page + ' page', 'Item Description - Link Click:' + $(this).attr('href') ]);
+																				});
+													}); 
+		$("ul#RecentlyViewed p.itemPrice a").each(function(){ 
+														$(this).mousedown(function(){_gaq.push(['_trackEvent', 'Recommendations', 'Recently Viewed Items - '+page + ' page', 'Item Price - Link Click:' + $(this).attr('href') ]);
+																				});
+													}); 											
+	}
+	
+	
+    //function that binds social events to all social links
+	function bindSocial() {
+	$("[href*='facebook']").each(function(){ 
+	                $(this).attr('target','_blank');
+				    $(this).mousedown(function(){
+								_gaq.push(['_trackSocial', 'facebook', 'LookAgain Facebook interaction', 'Link Click FOR ' + $(this).attr('href') + ' ON ' + document.location.href ]);
+								     });
+									    }); 
+    $("[href*='twitter']").each(function(){ 
+	                $(this).attr('target','_blank');
+				    $(this).mousedown(function(){
+								_gaq.push(['_trackSocial', 'twitter', 'LookAgain Twitter interaction', 'Link Click FOR ' + $(this).attr('href') + ' ON ' + document.location.href]);
+								     });	
+                                        }); 
+    $("[href*='blog']").not("[title='Blog - Behind The Look']").each(function(){ 
+	                $(this).mousedown(function(){
+								_gaq.push(['_trackEvent', 'Inspire', 'LookAgain Blog Interaction', 'Link Click FOR ' + $(this).attr('href') + ' ON ' + document.location.href]);
+								     });	
+                                        }); 	
+	$("[href*='pinterest']").each(function(){ 
+	                $(this).mousedown(function(){
+								_gaq.push(['_trackSocial', 'pinterest', 'LookAgain Pinterest Interaction', 'Link Click FOR ' + $(this).attr('href') + ' ON ' + document.location.href]);
+								     });	
+                                        }); 										
+    }	
+	
+	
+	
+	function dynamicBinding() {
+		$("div.bddRemove").each(function(){
+					var itemInfo = 'Product:' + $(this).siblings(".bddDesc").text() + '_' + $(this).siblings(".bddColour").text() + '_'  + $(this).siblings(".bddSize").text() + '_' + $(this).siblings(".bddQty").text() + '_Price:' + $(this).siblings(".bddPrice").text();
+					$(this).mousedown(function(){_gaq.push(['_trackEvent', 'Item Removal', 'Remove item from basket fly-down', itemInfo]);
+								     });
+		});							 
+	    bindSocial();
+		bindXFOevents();
+		bindTopNavEvents();
+		//binding an event to the footer Email Newsletter section
+		$("a#emailSignUpText").mousedown(function(){
+		                        _gaq.push(['_trackEvent', 'Email newsletter signup', 'Signup Link click','Footer Link for signup.asp' ]);
+								     });
+		//bind events to footer other shops links
+		$("ul#otherShops > li > a").each(function(){ 
+		                    $(this).mousedown(function(){
+								_gaq.push(['_trackEvent', 'Footer', 'Other Shops', 'Link Click for ' + $(this).attr('href') ]);
+								     });
+								       }); 	
+		$("div.footerColumn:eq(0), div.footerColumn:eq(1)").each(function(){ 
+							var thisColumn = $(this);
+							var columnName = thisColumn.find("h3").text();
+							$(this).find("ul>li>a").mousedown(function(){ 
+								_gaq.push(['_trackEvent', 'Footer', columnName, 'Link Click for ' + $(this).text() ]);
+													});
+															}); 
+		
+		$("a.emailAFriendLink").mousedown(function(){ 
+							    _gaq.push(['_trackEvent', 'Goal', 'Email a friend about a product', 'Link Click for ' + $(this).attr('href') ]);
+								     });
+
+		
+
+		//function that binds mousedown events for productdisplay recommendations
+		$("div.recommendationsContainer").each(function(){
+													var element = $(this);
+													if (element.attr("id") != 'recentlyViewedParentContainer') {
+														var recType = element.attr("id").replace("ParentContainer","");		
+														element.find("a.imgLink").each(function(){
+																					$(this).mousedown(function(){
+																						_gaq.push(['_trackEvent', 'Recommendations', recType + ' - productdisplay page', 'Item Image - Link Click:'  + $(this).attr('href') ]);
+																					});
+														});								
+														element.find("p.itemDescription a").each(function(){ 
+																					$(this).mousedown(function(){
+																						_gaq.push(['_trackEvent', 'Recommendations', recType + ' - productdisplay page', 'Item Description - Link Click:'  + $(this).attr('href') ]);
+																					});
+														});
+														element.find("p.itemPrice a").each(function(){ 
+																					$(this).mousedown(function(){
+																						_gaq.push(['_trackEvent', 'Recommendations', recType + ' - productdisplay page', 'Item Price - Link Click:'  + $(this).attr('href') ]);
+																					});
+														});											
+													}
+		}); 
+		recentlyViewedItemsBind("productdisplay");	
+	  		                                        
+	
+	_gaq.push(['_trackPageview']);
+		
+			
+	}
+
+  //Google Analytics end of tracking snippet
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  /* ]]> */	
+</script>
+
+
+
+
+<!-- DoubleClick DART Natural Search Standard Tracking Tag for DS3
+DFA Network - MVI - DFA EMEA (4378) : DS Agency - Carat Manchester (20200000000000281) : DS Advertiser - FGH - Look Again (21700000000015237)
+Please do not remove
+Tag should be placed at the top of the page, after opening body tag and before DoubleClick Spotlight or Floodlight tag(s)
+Creation Date: 12-18-2012 -->
+
+
+<script type="text/javascript">
+// DoubleClick DART Natural Search Tracking Code
+if (document.referrer) {
+var ord = Math.random() * 1000000000000;
+document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/N4378.N10463.nso.codesrv/B7325010;dcadv=3984694;sz=1x2;ord=' + ord + '?"><\/scr' + 'ipt>');
+}
+</script>
+
+
+<!-- Tag for Activity Group: Counter, Activity Name: 003. XFO Product Page, Activity ID: 1253571 -->
+<!-- Activity ID: 1253571; Activity Name: 003. XFO Product Page; Activity Group Name: Counter -->
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: 003. XFO Product Page
+Creation Date: 03/20/2013
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4084653.fls.doubleclick.net/activityi;src=4084653;type=count412;cat=003xf973;u10=N;u9=LKA;u1=96T894_;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="http://4084653.fls.doubleclick.net/activityi;src=4084653;type=count412;cat=003xf973;u10=N;u9=LKA;u1=96T894_;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+<script type="text/javascript"> 
+    try {var __scP = (document.location.protocol == 'https:')?'https://':'http://';
+		var __scS = document.createElement('script'); __scS.type='text/javascript';__scS.async=true;
+	
+        //live 
+		__scS.src = __scP + 'd16fk4ms6rqz1v.cloudfront.net/capture/LOOKAGAIN.js';
+	
+		document.getElementsByTagName('head')[0].appendChild(__scS);
+	} catch(e){}
+</script>
+
+<script type="text/javascript">
+	/*------------------------------------------------------------------------------------------------*/
+	/* Window.zoom object with options for the full screen viewer.                                    */
+	/*------------------------------------------------------------------------------------------------*/
+	$(document).ready(function()
+	{
+		window.zoom = {
+			init : function () { return true },
+
+			getDimensionData : function()
+			{
+				var jsonDataObject =
+				{
+					"sku"             : "96T894",
+					"odt"             : true,
+					"ratingstars"     : "0",
+					"imageName"       : "96T894FRSP",
+					"articles" : [
+						[{
+							"name"              : "Xbox 360 Chatpad and Headset (3&#43;) by Microsoft",  
+							"priceText"         : "\u00A3" + "30.00",
+							
+							"ratingstars"       : "0",
+							"images"            : "96T894FRSP?wid=43&hei=43"
+						}]
+					],
+					"allDimensions" : { }
+				};
+
+				return jsonDataObject;
+			},
+
+			setDimensions : function(dim1, dim2) { },
+			track         : function(artNo, type, dim1, dim2) { }
+	   };
+	});
+</script>
+
+	</body>
+</html>
